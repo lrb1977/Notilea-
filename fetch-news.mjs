@@ -1,14 +1,20 @@
 // scripts/fetch-news.mjs
-// Descarga siempre el MISMO topic de Google Noticias (versión RSS del enlace
-// que ya usás) y genera news.json con lo último. Lo ejecuta el workflow de
-// GitHub Actions una vez al día, así el sitio estático se "actualiza solo".
+// Descarga DOS feeds fijos de Google Noticias, siempre los mismos enlaces:
+//  1) El topic general de Paraguay (país / seguridad)
+//  2) Una búsqueda dedicada a Nueva Asunción y Nanawa (Presidente Hayes),
+//     que alimenta EXCLUSIVAMENTE la sección "Barrio".
+// Lo ejecuta el workflow de GitHub Actions una vez al día.
 
 import Parser from "rss-parser";
 import { writeFile } from "node:fs/promises";
 
-// Mismo topic / mismo enlace que ya definiste, solo en formato RSS.
 const FEED_URL =
   "https://news.google.com/rss/topics/CAAqLQgKIidDQkFTRndvTkwyY3ZNVEYwWDNKaWRITmZNUklHWlhNdE5ERTVLQUFQAQ?ceid=US:es-419&hl=es-419&gl=US";
+
+// Búsqueda dedicada al barrio: Nueva Asunción y Nanawa, Presidente Hayes.
+const LOCAL_QUERY = '("Nueva Asunción" OR Nanawa) Paraguay';
+const LOCAL_FEED_URL =
+  `https://news.google.com/rss/search?q=${encodeURIComponent(LOCAL_QUERY)}&hl=es-419&gl=PY&ceid=PY:es-419`;
 
 // Dominio real de cada fuente, para poder mostrar su logo/favicon.
 const SOURCE_DOMAINS = {
@@ -23,8 +29,10 @@ const SOURCE_DOMAINS = {
   "Telefuturo": "telefuturo.com.py",
   "MSPBS": "mspbs.gov.py",
   "Última Hora": "ultimahora.com",
+  "ultimahora.com": "ultimahora.com",
   "5Días": "5dias.com.py",
-  "Paraguay.com": "paraguay.com"
+  "Paraguay.com": "paraguay.com",
+  "La Política Online": "lapoliticaonline.com"
 };
 
 const RULES = {
@@ -32,17 +40,12 @@ const RULES = {
     "polic", "asalt", "detien", "detenc", "homicid", "asesin", "balacer",
     "robo", "hurt", "narco", "droga", "marihuana", "crimen", "fiscal",
     "desaparecid", "violen", "arma", "preso", "condena"
-  ],
-  barrio: [
-    "barrio", "municipalidad", "plaza", "vecin", "comunidad", "festival",
-    "colegio", "escuela", "calle", "avenida"
   ]
 };
 
 function guessCategory(title) {
   const t = title.toLowerCase();
   if (RULES.seguridad.some((k) => t.includes(k))) return "seguridad";
-  if (RULES.barrio.some((k) => t.includes(k))) return "barrio";
   return "pais";
 }
 
@@ -53,6 +56,24 @@ function splitTitleSource(rawTitle) {
   return {
     title: rawTitle.slice(0, idx).trim(),
     source: rawTitle.slice(idx + 3).trim()
+  };
+}
+
+function mapItem(item, category) {
+  const fallback = splitTitleSource(item.title || "");
+  const sourceName =
+    (typeof item.source === "string" && item.source.trim()) ||
+    fallback.source;
+  const title = fallback.title || item.title || "";
+  const domain = SOURCE_DOMAINS[sourceName] || null;
+
+  return {
+    title,
+    link: item.link,
+    source: sourceName,
+    sourceDomain: domain,
+    pubDate: item.pubDate || null,
+    category
   };
 }
 
@@ -81,34 +102,33 @@ async function main() {
       "Accept-Language": "es-419,es;q=0.9"
     }
   });
-  const feed = await fetchFeedWithRetry(parser, FEED_URL);
 
-  const items = (feed.items || []).slice(0, 24).map((item) => {
-    const fallback = splitTitleSource(item.title || "");
-    const sourceName =
-      (typeof item.source === "string" && item.source.trim()) ||
-      fallback.source;
-    const title = fallback.title || item.title || "";
-    const domain = SOURCE_DOMAINS[sourceName] || null;
+  const [feed, localFeed] = await Promise.all([
+    fetchFeedWithRetry(parser, FEED_URL),
+    fetchFeedWithRetry(parser, LOCAL_FEED_URL)
+  ]);
 
-    return {
-      title,
-      link: item.link,
-      source: sourceName,
-      sourceDomain: domain,
-      pubDate: item.pubDate || null,
-      category: guessCategory(title)
-    };
-  });
+  const nationalItems = (feed.items || [])
+    .slice(0, 20)
+    .map((item) => mapItem(item, guessCategory(item.title || "")));
+
+  const barrioItems = (localFeed.items || [])
+    .slice(0, 12)
+    .map((item) => mapItem(item, "barrio"));
+
+  const items = [...barrioItems, ...nationalItems];
 
   const payload = {
     generatedAt: new Date().toISOString(),
     feedUrl: FEED_URL,
+    localFeedUrl: LOCAL_FEED_URL,
     items
   };
 
   await writeFile("news.json", JSON.stringify(payload, null, 2) + "\n");
-  console.log(`news.json actualizado con ${items.length} noticias.`);
+  console.log(
+    `news.json actualizado con ${items.length} noticias (${barrioItems.length} de barrio).`
+  );
 }
 
 main().catch((err) => {

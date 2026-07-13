@@ -111,10 +111,7 @@
     white-space:nowrap;
   }
   .corner-link{
-    position:fixed;
-    top:16px; left:16px;
-    z-index:100;
-    display:flex;
+    display:inline-flex;
     align-items:center;
     gap:7px;
     font-family:'Space Mono', monospace;
@@ -130,6 +127,7 @@
     border-radius:100px;
     box-shadow:0 0 18px rgba(47,227,224,0.18);
     transition:border-color .2s ease, box-shadow .2s ease, transform .2s ease;
+    align-self:center;
   }
   .corner-link:hover{
     border-color:var(--cyan);
@@ -449,11 +447,6 @@
 </head>
 <body>
 
-<a class="corner-link" href="https://lrb1977.github.io/notilea.github.io/" target="_blank" rel="noopener">
-  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17.5 19a4.5 4.5 0 0 0 0-9 6 6 0 0 0-11.4-1.7A4.5 4.5 0 0 0 6.5 19h11z"/></svg>
-  NotiClima
-</a>
-
 <header class="masthead">
   <div class="dateline">
     <span><span class="pulse"></span>Nueva Asunción, Presidente Hayes · PY</span>
@@ -466,7 +459,13 @@
     </span>
   </div>
   <div class="brand-row">
-    <h1 class="wordmark">NOTILEA</h1>
+    <div style="display:flex; align-items:center; gap:18px; flex-wrap:wrap;">
+      <h1 class="wordmark">NOTILEA</h1>
+      <a class="corner-link" href="https://lrb1977.github.io/notilea.github.io/" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17.5 19a4.5 4.5 0 0 0 0-9 6 6 0 0 0-11.4-1.7A4.5 4.5 0 0 0 6.5 19h11z"/></svg>
+        NotiClima
+      </a>
+    </div>
     <div class="edition-tag">SEÑAL EN VIVO · CHACO</div>
   </div>
   <p class="slogan">Lo que pasa en <span class="accent">tu barrio</span> y lo que sacude al <span class="accent">país</span> y al <span class="accent">planeta</span>.</p>

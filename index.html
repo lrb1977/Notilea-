@@ -288,6 +288,23 @@
     border-color:transparent;
     font-weight:700;
   }
+  .chip-sep{
+    flex:0 0 auto;
+    width:1px;
+    align-self:stretch;
+    background:var(--line);
+    margin:4px 6px;
+  }
+  .chip-link{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    text-decoration:none;
+    border-style:dashed;
+    color:var(--text-dim);
+  }
+  .chip-link svg{ width:11px; height:11px; }
+  .chip-link:hover{ border-color:var(--magenta); color:var(--magenta); }
 
   /* ---------- SECTIONS ---------- */
   .section{ position:relative; z-index:1; padding:40px 6vw 8px; }
@@ -497,6 +514,15 @@
   <button class="chip" data-filter="barrio">Barrio</button>
   <button class="chip" data-filter="pais">País</button>
   <button class="chip" data-filter="seguridad">Seguridad</button>
+  <span class="chip-sep"></span>
+  <a class="chip chip-link" href="https://news.google.com/topics/CAAqLAgKIiZDQkFTRmdvSUwyMHZNRGx1YlY4U0JtVnpMVFF4T1JvQ1ZWTW9BQVAB?ceid=US:es-419&oc=3" target="_blank" rel="noopener">
+    Internacional
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17 17 7M8 7h9v9"/></svg>
+  </a>
+  <a class="chip chip-link" href="https://news.google.com/topics/CAAqLQgKIidDQkFTRndvTkwyY3ZNVEYwWDNKaWRITmZNUklHWlhNdE5ERTVLQUFQAQ?ceid=US:es-419&oc=3" target="_blank" rel="noopener">
+    País en Google Noticias
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17 17 7M8 7h9v9"/></svg>
+  </a>
 </nav>
 
 <main id="sections"></main>
@@ -653,7 +679,7 @@ modalShare.addEventListener('click', ()=>{
 
 document.getElementById('filterStrip').addEventListener('click', e=>{
   const chip = e.target.closest('.chip');
-  if(!chip) return;
+  if(!chip || chip.classList.contains('chip-link')) return;
   document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active'));
   chip.classList.add('active');
   render(chip.dataset.filter);

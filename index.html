@@ -110,6 +110,45 @@
     box-shadow:0 0 16px rgba(139,107,255,0.25) inset;
     white-space:nowrap;
   }
+  .corner-link{
+    position:fixed;
+    top:16px; left:16px;
+    z-index:100;
+    display:flex;
+    align-items:center;
+    gap:7px;
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.05em;
+    text-transform:uppercase;
+    text-decoration:none;
+    color:var(--cyan);
+    background:rgba(10,17,32,0.65);
+    backdrop-filter:blur(8px);
+    border:1px solid var(--line);
+    padding:8px 14px 8px 10px;
+    border-radius:100px;
+    box-shadow:0 0 18px rgba(47,227,224,0.18);
+    transition:border-color .2s ease, box-shadow .2s ease, transform .2s ease;
+  }
+  .corner-link:hover{
+    border-color:var(--cyan);
+    box-shadow:0 0 22px rgba(47,227,224,0.4);
+    transform:translateY(-1px);
+  }
+  .corner-link svg{ width:14px; height:14px; flex:0 0 auto; }
+
+  .visitor-chip{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    color:var(--text-dim);
+  }
+  .visitor-chip svg{ width:13px; height:13px; color:var(--cyan); flex:0 0 auto; }
+  .visitor-chip strong{ color:var(--text); font-weight:700; }
+
   .slogan{
     font-family:'Rajdhani', sans-serif;
     font-weight:600;
@@ -410,10 +449,21 @@
 </head>
 <body>
 
+<a class="corner-link" href="https://lrb1977.github.io/notilea.github.io/" target="_blank" rel="noopener">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17.5 19a4.5 4.5 0 0 0 0-9 6 6 0 0 0-11.4-1.7A4.5 4.5 0 0 0 6.5 19h11z"/></svg>
+  NotiClima
+</a>
+
 <header class="masthead">
   <div class="dateline">
     <span><span class="pulse"></span>Nueva Asunción, Presidente Hayes · PY</span>
-    <span id="liveClock">—</span>
+    <span style="display:flex; align-items:center; gap:14px;">
+      <span id="liveClock">—</span>
+      <span class="visitor-chip">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-7 11-7 11 7 11 7-4 7-11 7-11-7-11-7z"/><circle cx="12" cy="12" r="3"/></svg>
+        <strong id="visitorCount">···</strong>
+      </span>
+    </span>
   </div>
   <div class="brand-row">
     <h1 class="wordmark">NOTILEA</h1>
@@ -612,6 +662,34 @@ function updateClock(){
 }
 updateClock();
 setInterval(updateClock, 30000);
+
+// Contador de visitantes: cada dispositivo/navegador suma UNA sola vez
+// (se recuerda con localStorage). Las visitas siguientes solo consultan
+// el total, sin volver a sumar.
+async function initVisitorCounter(){
+  const NS = "notilea-lrb1977";
+  const KEY = "visitas-unicas";
+  const YA_CONTADO = "notilea_ya_contado";
+  const el = document.getElementById('visitorCount');
+  if(!el) return;
+  try{
+    const yaContado = localStorage.getItem(YA_CONTADO);
+    const endpoint = yaContado
+      ? `https://api.countapi.xyz/get/${NS}/${KEY}`
+      : `https://api.countapi.xyz/hit/${NS}/${KEY}`;
+    const res = await fetch(endpoint);
+    const data = await res.json();
+    if(typeof data.value === "number"){
+      el.textContent = data.value.toLocaleString('es-PY');
+      if(!yaContado) localStorage.setItem(YA_CONTADO, "1");
+    } else {
+      el.textContent = "—";
+    }
+  }catch(e){
+    el.textContent = "—";
+  }
+}
+initVisitorCounter();
 
 async function boot(){
   try{

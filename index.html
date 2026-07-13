@@ -673,20 +673,20 @@ setInterval(updateClock, 30000);
 // (se recuerda con localStorage). Las visitas siguientes solo consultan
 // el total, sin volver a sumar.
 async function initVisitorCounter(){
-  const NS = "notilea-lrb1977";
-  const KEY = "visitas-unicas";
+  const KEY = "notilea_lrb1977_visitas_unicas_v1";
   const YA_CONTADO = "notilea_ya_contado";
   const el = document.getElementById('visitorCount');
   if(!el) return;
   try{
     const yaContado = localStorage.getItem(YA_CONTADO);
     const endpoint = yaContado
-      ? `https://api.countapi.xyz/get/${NS}/${KEY}`
-      : `https://api.countapi.xyz/hit/${NS}/${KEY}`;
+      ? `https://countapi.mileshilliard.com/api/v1/get/${KEY}`
+      : `https://countapi.mileshilliard.com/api/v1/hit/${KEY}`;
     const res = await fetch(endpoint);
     const data = await res.json();
-    if(typeof data.value === "number"){
-      el.textContent = data.value.toLocaleString('es-PY');
+    const value = Number(data.value);
+    if(!Number.isNaN(value)){
+      el.textContent = value.toLocaleString('es-PY');
       if(!yaContado) localStorage.setItem(YA_CONTADO, "1");
     } else {
       el.textContent = "—";

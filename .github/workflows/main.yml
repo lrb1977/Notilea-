@@ -24,7 +24,7 @@ jobs:
         run: npm install rss-parser
 
       - name: Generar news.json desde Google Noticias
-        run: node scripts/fetch-news.mjs
+        run: node fetch-news.mjs
 
       - name: Publicar cambios si hay noticias nuevas
         run: |

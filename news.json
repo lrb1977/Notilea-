@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-07-12T00:00:00.000Z",
+  "feedUrl": "https://news.google.com/rss/topics/CAAqLQgKIidDQkFTRndvTkwyY3ZNVEYwWDNKaWRITmZNUklHWlhNdE5ERTVLQUFQAQ?ceid=US:es-419&hl=es-419&gl=US",
+  "items": [
+    { "title": "Plaza Herminio Giménez se transforma gracias a una alianza entre la Municipalidad y los vecinos de Mariscal López", "source": "Municipalidad de Asunción", "sourceDomain": "asuncion.gov.py", "link": "https://www.asuncion.gov.py", "pubDate": "2026-07-10T00:00:00.000Z", "category": "barrio" },
+    { "title": "Asunción: trabajador es atropellado en avenida Gral. Santos", "source": "abc.com.py", "sourceDomain": "abc.com.py", "link": "https://www.abc.com.py", "pubDate": "2026-07-12T12:00:00.000Z", "category": "barrio" },
+    { "title": "Ministra verificó arranque de obras en el Parque Caballero", "source": "El Nacional", "sourceDomain": "elnacional.com.py", "link": "https://elnacional.com.py", "pubDate": "2026-07-12T13:00:00.000Z", "category": "barrio" },
+    { "title": "“Suena Ñemby” reunió a más de 500 niños y jóvenes en un festival de música comunitaria", "source": "abc.com.py", "sourceDomain": "abc.com.py", "link": "https://www.abc.com.py", "pubDate": "2026-07-11T22:00:00.000Z", "category": "barrio" },
+    { "title": "Corredor Bioceánico: una autopista para transformar la logística nacional", "source": "La Nación", "sourceDomain": "lanacion.com.py", "link": "https://www.lanacion.com.py", "pubDate": "2026-07-12T10:00:00.000Z", "category": "pais" },
+    { "title": "Nivel del río Paraguay volvió a bajar en Asunción y otros puntos", "source": "La Nación", "sourceDomain": "lanacion.com.py", "link": "https://www.lanacion.com.py", "pubDate": "2026-07-12T13:00:00.000Z", "category": "pais" },
+    { "title": "Industria forestal consolida sus exportaciones con mayor valor agregado y nuevos mercados", "source": "La Nación", "sourceDomain": "lanacion.com.py", "link": "https://www.lanacion.com.py", "pubDate": "2026-07-12T15:00:00.000Z", "category": "pais" },
+    { "title": "IPS Central implementa maratones de consultas los sábados para reducir listas de espera", "source": "Diario HOY", "sourceDomain": "hoy.com.py", "link": "https://www.hoy.com.py", "pubDate": "2026-07-10T00:00:00.000Z", "category": "pais" },
+    { "title": "Concentración de poder en el JEM y el Consejo pone en duda la independencia de la Justicia", "source": "Diario HOY", "sourceDomain": "hoy.com.py", "link": "https://www.hoy.com.py", "pubDate": "2026-07-11T17:00:00.000Z", "category": "pais" },
+    { "title": "Destruyen más de 25 toneladas de marihuana en Amambay", "source": "Diario HOY", "sourceDomain": "hoy.com.py", "link": "https://www.hoy.com.py", "pubDate": "2026-07-12T10:00:00.000Z", "category": "seguridad" },
+    { "title": "Más de 240 personas siguen desaparecidas en Paraguay y la Policía pide apoyo ciudadano", "source": "Diario HOY", "sourceDomain": "hoy.com.py", "link": "https://www.hoy.com.py", "pubDate": "2026-07-10T00:00:00.000Z", "category": "seguridad" },
+    { "title": "Partido acaba en disturbios y balacera: un hincha fallecido en Guarambaré", "source": "La Nación", "sourceDomain": "lanacion.com.py", "link": "https://www.lanacion.com.py", "pubDate": "2026-07-12T20:00:00.000Z", "category": "seguridad" },
+    { "title": "Rescatan a seis niños presuntamente utilizados por una red de microtráfico en Tablada", "source": "Diario HOY", "sourceDomain": "hoy.com.py", "link": "https://www.hoy.com.py", "pubDate": "2026-07-10T00:00:00.000Z", "category": "seguridad" }
+  ]
+}

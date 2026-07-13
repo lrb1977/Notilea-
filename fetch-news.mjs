@@ -56,9 +56,32 @@ function splitTitleSource(rawTitle) {
   };
 }
 
+async function fetchFeedWithRetry(parser, url, tries = 4) {
+  let lastErr;
+  for (let i = 0; i < tries; i++) {
+    try {
+      return await parser.parseURL(url);
+    } catch (err) {
+      lastErr = err;
+      const wait = 1500 * (i + 1);
+      console.log(`Intento ${i + 1} falló (${err.message}). Reintentando en ${wait}ms...`);
+      await new Promise((r) => setTimeout(r, wait));
+    }
+  }
+  throw lastErr;
+}
+
 async function main() {
-  const parser = new Parser({ customFields: { item: ["source"] } });
-  const feed = await parser.parseURL(FEED_URL);
+  const parser = new Parser({
+    customFields: { item: ["source"] },
+    headers: {
+      "User-Agent":
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
+      "Accept-Language": "es-419,es;q=0.9"
+    }
+  });
+  const feed = await fetchFeedWithRetry(parser, FEED_URL);
 
   const items = (feed.items || []).slice(0, 24).map((item) => {
     const fallback = splitTitleSource(item.title || "");

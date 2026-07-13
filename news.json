@@ -1,19 +1,198 @@
 {
-  "generatedAt": "2026-07-12T00:00:00.000Z",
+  "generatedAt": "2026-07-13T15:36:47.176Z",
   "feedUrl": "https://news.google.com/rss/topics/CAAqLQgKIidDQkFTRndvTkwyY3ZNVEYwWDNKaWRITmZNUklHWlhNdE5ERTVLQUFQAQ?ceid=US:es-419&hl=es-419&gl=US",
   "items": [
-    { "title": "Plaza Herminio Giménez se transforma gracias a una alianza entre la Municipalidad y los vecinos de Mariscal López", "source": "Municipalidad de Asunción", "sourceDomain": "asuncion.gov.py", "link": "https://www.asuncion.gov.py", "pubDate": "2026-07-10T00:00:00.000Z", "category": "barrio" },
-    { "title": "Asunción: trabajador es atropellado en avenida Gral. Santos", "source": "abc.com.py", "sourceDomain": "abc.com.py", "link": "https://www.abc.com.py", "pubDate": "2026-07-12T12:00:00.000Z", "category": "barrio" },
-    { "title": "Ministra verificó arranque de obras en el Parque Caballero", "source": "El Nacional", "sourceDomain": "elnacional.com.py", "link": "https://elnacional.com.py", "pubDate": "2026-07-12T13:00:00.000Z", "category": "barrio" },
-    { "title": "“Suena Ñemby” reunió a más de 500 niños y jóvenes en un festival de música comunitaria", "source": "abc.com.py", "sourceDomain": "abc.com.py", "link": "https://www.abc.com.py", "pubDate": "2026-07-11T22:00:00.000Z", "category": "barrio" },
-    { "title": "Corredor Bioceánico: una autopista para transformar la logística nacional", "source": "La Nación", "sourceDomain": "lanacion.com.py", "link": "https://www.lanacion.com.py", "pubDate": "2026-07-12T10:00:00.000Z", "category": "pais" },
-    { "title": "Nivel del río Paraguay volvió a bajar en Asunción y otros puntos", "source": "La Nación", "sourceDomain": "lanacion.com.py", "link": "https://www.lanacion.com.py", "pubDate": "2026-07-12T13:00:00.000Z", "category": "pais" },
-    { "title": "Industria forestal consolida sus exportaciones con mayor valor agregado y nuevos mercados", "source": "La Nación", "sourceDomain": "lanacion.com.py", "link": "https://www.lanacion.com.py", "pubDate": "2026-07-12T15:00:00.000Z", "category": "pais" },
-    { "title": "IPS Central implementa maratones de consultas los sábados para reducir listas de espera", "source": "Diario HOY", "sourceDomain": "hoy.com.py", "link": "https://www.hoy.com.py", "pubDate": "2026-07-10T00:00:00.000Z", "category": "pais" },
-    { "title": "Concentración de poder en el JEM y el Consejo pone en duda la independencia de la Justicia", "source": "Diario HOY", "sourceDomain": "hoy.com.py", "link": "https://www.hoy.com.py", "pubDate": "2026-07-11T17:00:00.000Z", "category": "pais" },
-    { "title": "Destruyen más de 25 toneladas de marihuana en Amambay", "source": "Diario HOY", "sourceDomain": "hoy.com.py", "link": "https://www.hoy.com.py", "pubDate": "2026-07-12T10:00:00.000Z", "category": "seguridad" },
-    { "title": "Más de 240 personas siguen desaparecidas en Paraguay y la Policía pide apoyo ciudadano", "source": "Diario HOY", "sourceDomain": "hoy.com.py", "link": "https://www.hoy.com.py", "pubDate": "2026-07-10T00:00:00.000Z", "category": "seguridad" },
-    { "title": "Partido acaba en disturbios y balacera: un hincha fallecido en Guarambaré", "source": "La Nación", "sourceDomain": "lanacion.com.py", "link": "https://www.lanacion.com.py", "pubDate": "2026-07-12T20:00:00.000Z", "category": "seguridad" },
-    { "title": "Rescatan a seis niños presuntamente utilizados por una red de microtráfico en Tablada", "source": "Diario HOY", "sourceDomain": "hoy.com.py", "link": "https://www.hoy.com.py", "pubDate": "2026-07-10T00:00:00.000Z", "category": "seguridad" }
+    {
+      "title": "Asunción: trabajador es atropellado en avenida Gral. Santos",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYjlXMkZSR2QxVVNHYjVwblFvb3VjVzBQdnRVVzNSMWt2R1hXQXFmdDJQZjNSMzZmdGlianpuaTFldHg2T0taU3oxa3V2WjByY2JDd2pYZHducWY2bHQ1LUN6ZzFXQTMtaUVlNEJqR29fLUVLNVpQbE9PMEJJYlo3OG01cmJCSDhwOVJfWnBzWWpiZmNKUmpTZkJLZ3Y4UE9SMl9BeFpyZWZtR2JHdmdQX0FsTk5wS2p50gHMAUFVX3lxTE5ScG14VjVwdlZCeXExRUtuc1RiMWgwMTFNaEJ1SVM3QlZqdWRJazczd1VqZ3JmVExhTFlPb3I2Vy1VOEpFdkN1eHlyVS1SWWlhUU5Vci1SRURXb0p5MjloSWtYN0dlYkVobDB0amJFazdBY3NuNEJsREhQUS1nMVpVUERPNVZHU0ZxamNFVUlWLWc3WWNZdkxjTTFtYjc4eDBpV0UzQ3ZDa1BuZzgzbGpIV0lYVUdyanJhT0Nsbmt6SUdsbEwwWnpuS00yYw?oc=5",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Sun, 12 Jul 2026 15:43:37 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Campesinos anuncian marcha de dos días en Asunción",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnhzclB6OElVcFp1Q05rclpmUkp0OXdwVEViUzNJNFlJN2JrYmVzQ25KSWRQX1RaSWJTMzR5VHNQZ1lJZm9IdkJTZmdEX0NwT0lzZ0RVaVI3OFd3RTFaOVhEQ29OcDFNU2JSOWVvejI5UTFJMHdnejBGN1hoQk1GSmV6RV9jNnA3dlNIa2daSXpHY1VSYWhzaGdzWQ?oc=5",
+      "source": "Diario HOY – En Paraguay y el Mundo",
+      "sourceDomain": "hoy.com.py",
+      "pubDate": "Mon, 13 Jul 2026 11:14:00 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "Bonos del Tesoro se volverían a emitir en la Bolsa de Valores de Asunción",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQjl0OGNhalNCQUpmRklVcjF3REFMdVZpczdzZFVjdTRFVXZzcnc3VHFlR2s3Wmg3NW5xbElSSk5aTHRHSWRzUENMYWxFWnQxZjBvUzRacEEyOG1ESmkxQmRnNGpSV3ZZR3FmeWxzT3hwWFlYUkJMbGJhU18xMU9zaVNpT2llTnlhWGx4T2NGc3o4WDVwamFXeWpyZXFhSWlBNWlLdGROek96MzdQcU9WanRZS0tNajAw0gHMAUFVX3lxTE5SU2djSy00aWxIejJFcnBIQk5qanFhZmRMRHp1dEV4Zmx5bTFtUkdsNXdBTmhualdqZGdBVzlZaG02dkV2QjBLaDg1dXcyV2t3V3RDazN1a3VJYU9WMzBuTXFzLXJ4RTNjaXFBby1ZSEVQXzM4YnNUQmdoNG83R0NUbUoyUnFPakFuZmY5WXNETDY2cVlvZk1HNGlwaFQyX091c1ZxZ1d2T09IdlVTY185bXlWa3NPZnZaVEc2VEd1Y0pqMklVaEMzRFgwNQ?oc=5",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Mon, 13 Jul 2026 11:14:18 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "Piden dejar trabajar al titular del IPS: “Está desmantelando esquemas de años”",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOFgxOWFpeTJ6ZkNiN2c1THV6NGxmcUFsN3VkaWh6Snc2OVp0VXpTRDNqeVRYZEVNYjZSLU83YjVHWTlvMVQ0TTYxaFNsdXphc0VzaEN4TzRDbG82M1ZWQjNDS0NFZFRlZ2tnUlFWWGJJVFhYeGhiWHRtUFFBMDVHWXpMaTl3NVpFWHFja3RFMkhhc05YWXdFbmJqVFhfQUFfNmUtSzFyd1Eza21GZFJOM2Q4M24xSzBnZDZvRQ?oc=5",
+      "source": "Diario HOY – En Paraguay y el Mundo",
+      "sourceDomain": "hoy.com.py",
+      "pubDate": "Mon, 13 Jul 2026 13:37:00 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "“El arte, el fútbol y la paz” (de barrio)",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN05CYmR5VjhXVzdsT1R5M1l3UkFmRmZvRWV6TWpHUmlCQjZxMmF1dmRrc3ItZW1FRXZnSy01M2ZDT3B2ZG0xdjhlRzlabXJEZWw2NGc5N3VVT3lTUm92VU9xcmNWdi1kaFRvZFlHWGlhb0FsU0gyeDJNMzBtdzlVZE9uWk1pTzlqdkljX1R0OGdCYUY5NldHTlNVQmg?oc=5",
+      "source": "La Nación",
+      "sourceDomain": "lanacion.com.py",
+      "pubDate": "Sun, 12 Jul 2026 03:55:02 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "San Lorenzo: largas filas a la intemperie por turnos en el Materno Infantil",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlpVRlpQa2FvOTF1dkJ3NTRJUDhJNDd1ajl4cnl1aVZxWlNGR2d6R1BBNjFjcWZQMmpKVlZETzdicEZBaEJKOHkwWXQ2Zkp6djFGbDdManN6dDNIdnJSbzY1RjhSSGNIcGRVU0NIR3Z5MkFYY3BBX1drd1l4bEE5b2E1YVp0Y2EwZ1ZDSTZ0MEhFZ2x5bWZiXzFKLVpKTHFIYzFSYllpZm1GUzR0WkJuUFoxQ0xvNUU5RnJfQtIB0AFBVV95cUxPckI5ZFJuMThLMXJXVDl1WnhuUS1taXVxQUtBVTVVY21TYXRUbzRPTWFWZ0VqQ21TVFZnOHZWY0ozdzdaUjBtSFBGazNQMDF0c3ZQaUdKTFNNc2tuMjV0aGdLOWJNMnRJY3g1ZHZvelpOM3RieGY0dmdNRDRPU3RCRF9SaVhoYVNnSDZnN2RmdGh6UjlvNVh3b1QtalhvSWJfYWNWdUUyT0drbnluUmFwMzZOV0llZjVNM0dhTEVWVnFiNzBwQjhPa2tiOGduWDlx?oc=5",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Mon, 13 Jul 2026 11:49:53 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "Agencia de Tránsito abre concurso para contratación temporal",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRDJ3N2VWbGpkM2p2T3NjMEk3blFXUk5NeWhoQkZ0TGY1clJUa2hyWENybDBKVkpHV2pteWJBMjlsbVkwSUprRExLa2lHcm9KdGVsOHlDWEZZMVl0anI0SXA0UGwtdkN5YWFxTkxGQjN4dEJRT2ZuRHdYV3NUVHNnNFJLc2lxMl9ZYldwVHhpUGIxV01pcG5RLVpVRW1TMUJJWk90aFdMcFM?oc=5",
+      "source": "Diario HOY – En Paraguay y el Mundo",
+      "sourceDomain": "hoy.com.py",
+      "pubDate": "Mon, 13 Jul 2026 10:25:00 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "Muerte súbita en colegio: autopsia confirmó problema del corazón de adolescente esteña",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHJfcVR5Q3gzRjBETTdqeUFmM29RVUIzZ1RPOTBXYk1fMDdWWXZjOVRCTTM5OHNsVGFQSWY1bmhQa3RuYXRXbXQ4NFZSMDhIdFJTSlh4RlFIWWw4Q0tDeTBHM0ZGcVVaWlczeE1PbkVDVzdpZm9zUFlqRk1YdU9mYjZyM3dxdHgxSzVkMjNDZDFTODdIVjlySk1XVGwxallCS3pDNHBSTDFXLXV0QnVaS21iLUJHWVBPQWtyeXRKdkNiYTVGMTlJN2tB?oc=5",
+      "source": "La Nación",
+      "sourceDomain": "lanacion.com.py",
+      "pubDate": "Sun, 12 Jul 2026 03:05:31 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Rockero: el bar que convirtió la pasión por la música en un ícono de la noche asuncena",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZzVQVzI4NWlYZXJwenRpYWIta2N1TGo2UkQwOE9ZdERIUy1XRzRRSFVta29WLWF4d0NwdFo5ZzQyTWRxODFyT29XeEVoYmQ3T2RGbUJiX3g4NE5DeDhCZUE2ODdlSXdJOUNBX0pTS092a0ZKMmNUeF9LNEZuVlFQbVpTNHM1VVBwSXY0S3lmNnZGb21yMDhhY0prelRVTFg3X2FXS25ya2RzLVdvTDlUcU1PWGVQU0JjZ1YxNWNzMnR0VDR0OERN?oc=5",
+      "source": "InfoNegocios Paraguay",
+      "sourceDomain": "infonegocios.com.py",
+      "pubDate": "Mon, 13 Jul 2026 08:02:42 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "Municipalidad de Asunción: De Nenecho a Filizzola, ¿cuáles fueron las promesas incumplidas?",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbkJUb3JuNHllQ3lONF9ia3ZBSUFaeWRsVFk1Nkl1a2k0enhsLS02WFlkR3VEbFZLVVpfYmlKOFgycWVaTDZ2RHZ2WkVsdnMtUGdQMDA0eF9VUS0xcjlzVnVtZ0N3aUJLOU1GMzVQWTdzcnVtd25oZFdNRzNrMldtY29tZmJDZEpYY3hpSXZMLURKcGFldmRseU51SVhTZmZJdkZYTjhfbHZZdlpNUWRIbDZmd2szVFhkaUVsbkJldWV6RmoxLUlXNDBxa9IB3wFBVV95cUxOSVFsZkxZSkN1b1l0b0htdHNEXzhuVDExSHRZWXBWWTQ4Z2N4MTkyak5pZ3h3WkJmbUx3NnlycnQxRGdSNWxLYXVNMlZkY1JpM1NDVzdaVVRyVUpoSmx6Z0R5aEVMRVNMUms0QU1CNnZkbDdkNjZiWWs4aVRUZHR5MjczQ29BRHBSYzRySVZ5RWE2U01KQV82NFhMUlI2NVZJMTJFSVlBV1NiWTQ0VURhRFRkNXFVcnpmQnozMmNhSElOZHNsZlh4WF9UQkxqSm14bk9aeGltZnBhS29pYTJz?oc=5",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Sun, 12 Jul 2026 11:07:42 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "IPS Central implementa maratones de consultas los sábados para reducir listas de espera",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOam5lLU1PVlRVdFJ4Q05OdDVKckFybjVreVRDZzVMRDgxTkRxOUpyY0hCT0Z2R29sdUFocWQxQU1LVEh0ampoLUl4emNfZFVUbnJydUZFc3VYY09iY2VxQnBXV0txaVk4OTNWTUN6bU1ZZG9NcWlVOEFoWW43M3JGeWExVWE5UTgybHVzSE9UMEJMR2t5UmI3RTJ5Mk52Q24xODVYV3loUE1FZzMyWlIzLTEtYUl6LTI4d2Fydll2cTNfTjkxVmFaNUFTQXQ?oc=5",
+      "source": "Diario HOY – En Paraguay y el Mundo",
+      "sourceDomain": "hoy.com.py",
+      "pubDate": "Sat, 11 Jul 2026 20:25:41 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "Invitan a la colecta solidaria para los niños de Uganda en la Costanera",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0g3YjUzSm9QU0x3LURyWXhOTUxYU3FVWTJlb2RVMHZSWkRhZUZMYTBSR2lteTRvQ0t6NXNlTHdwRl9qTGpJTGFVT1dKT3NkYzdiamlPbTgtNE13M3AyVXYtUUlyQTVHbHNRdnRka3JpSHNPSGN2U2lSTGtnLU1pMzA1MXMxaF9iOWtFaFlvNm9iMEV2d1dnbnRmM2FUT2VTTzZwUXo5UW9ob0k2ZXhfbjRhQjRUQUk?oc=5",
+      "source": "La Nación",
+      "sourceDomain": "lanacion.com.py",
+      "pubDate": "Sun, 12 Jul 2026 19:54:16 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "OSN: \"Sasõ ha opytáva\" en el Teatro Municipal de Asunción - El Nacional",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTAxLWROSHhuX1BwWXQ3czNwSFJibWdFNHZsWXg0NjRKTGNQM3NfaUxfMDlyVXBIRDZrVkV3WGR0Z2tfZmhORWNGck5rd1Rzd3EzSE81bGRiZlVlaTUzWFlmYnVIU1A2RkJHODFFT0dLUVNRVGx6V0FJbWxPUGpqR1BBTXZWUFZXMXhOTHJSRWR6ckRJVVBia0N30gGfAUFVX3lxTFAyWGlGWjdmazRtUG9Cenhnem5fWGw5c1pIa19YZkxIS0pvanlMbm5ic0I0Z2FEdzdrVHNrX3AtLTR3R3JlOFozQngxblktVHU5WDFIZ0FadUZJYTFfcW9zVEYwV2lxRlo4Sjc5d1l0eE9iT01aZlJlem9sNVUtVlZIZ05SeXN6ck5Mb1p5UjdneGxVNHJJMGNkdUVjU2t1cw?oc=5",
+      "source": "El Nacional - El diario de los lectores influyentes",
+      "sourceDomain": null,
+      "pubDate": "Sun, 12 Jul 2026 07:45:00 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "Del escenario a las marcas: así trabaja Yarara Producciones, la empresa detrás de obras, eventos y contenidos audiovisuales",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUlpwb1I3dVdJdU1UUzBVMVRKR1JLbXBUaXZJYlhhQXIwaVRLTmc0SS03bWlQLU83ZmNZVHlWWGJCUHdEWVN1WmJNUW1jYzFIWTd6QzhqcG9FajR4eFFMbFlCQmVaY0VCX2ZjalpySV85TDJzWEJ2V0NtNksxeGY5dnhDX3EtQ1o5Qnp3b2xmNjBfZndGRnJWV2J4T3AtRUU4UEhubVJ5UFZUZ1pkWDdBR1FfbWFVTGtJR1hXekVJRGtNa1Z0SHBPcWp0Tlc3SUdUSWJUdG9PN1ZwWVh6U285eU1CbDdYcVk4cmlqMXpoQnlKdWdobVE?oc=5",
+      "source": "InfoNegocios Paraguay",
+      "sourceDomain": "infonegocios.com.py",
+      "pubDate": "Mon, 13 Jul 2026 07:52:30 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "Espionaje chino: ¿qué pruebas tiene el Mitic?",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeDJEVS11RkpESlN2ekV5ekVqdkVZcHVNNGRXdDdZOE1JZlFDRGJTZ3BfSjRyWDhDVG85cVFBRFFhTWhJYjU5ZjVnX0YtV1M0NzBreVFrU2JobmFrTzV3cVpLWHpHNkc1eDYtV2lBRmgwb29wZjkyUDBHb1ZFYlhmc0owQXBoRkx1QU9uZnRZOUVQQdIBpgFBVV95cUxNQ2NvVkcxaUo3Y3Rydmk2eDBwc2JXQjR3dnBZakx4NURaV2Z3cUkzWi1Pc2U3Y3MyVzMzWGViYVAtM0VjUGlyVWx5cnc3LUo2SmZ4emZwVC1GNzdFUV9EWUtreDBsV01EUllTZVNybTJlNGx5VjUwRWRfU2ZUU0FmdDFwQzFWd2VQeC1oTmR2endsNXVWUnR0REdXQVBRb3lVaWlGWllB?oc=5",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Mon, 13 Jul 2026 12:14:32 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "Destruyen más de 25 toneladas de marihuana en Amambay",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWh4cnlXbkpNLUcyQmp0MnVzdHRPT2NVYmVfZVZ2b05aeHhMZTRVQWVhaGFxUWRjZWZMZ3lGWDUyVXc0MW5uT1pScjQzeWc5cWxDNGpvVUpxa3hTU2NWYXVMcW1ObHlrcWcxaDN0UEJXaWl1dm42WDhpNFQ0bVJsVm9HVC1xWmpuQ015aEJITTA0QmlGMnFrY3BrQ3BwR0U?oc=5",
+      "source": "Diario HOY – En Paraguay y el Mundo",
+      "sourceDomain": "hoy.com.py",
+      "pubDate": "Sun, 12 Jul 2026 13:30:00 GMT",
+      "category": "seguridad"
+    },
+    {
+      "title": "Latorre afirma que Pérez es la cara del cambio en Asunción: “No tiene ninguna mancha”",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcW1Fcm1ELU1ya1BCTU1fRzRIN2o2QUo5ZGlTMEczcHdGYjN4WGowR0ZtNFQ1cFR3dVpLcHBMelk3U3p6UGgyZFNMSl95b0wtVFdFeG9wOUUyQ21kTmFiQnBsMmtuZ3A5akhkTFZZSHNFeFRWWUE5c2xNajkwQW96a1pUUmk0LUlpX2lPWURvYTZLX1YyQjFxS2JLSkxDZW9IZGNiaEwwS0phR2dIMV83SDJmZlhERGItelpaOWIzSkJ3ZXR6aXFUbHdyUQ?oc=5",
+      "source": "La Nación",
+      "sourceDomain": "lanacion.com.py",
+      "pubDate": "Mon, 13 Jul 2026 13:33:41 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "\"El Reino de Pixel\" invita a los niños a ser protagonistas de una aventura interactiva - El Nacional",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDZ3ekJyTEQtenBDRDRwLTdKdXp4WktyYkZ0NEg1cEVpM2JVUkVuY3V0YkZRRTktLXdsdXEwaDBtZElpOFdSSUM4VEMwTWF0SjB6TkFKVi10Nno1OEZjMXBRbGVNMll1SmV2TGxTVjFYTG4wNlN0NEZ4NHViT1h4cTBqZVAtSFEzdWtvejVLWHR2LV9keE00UzV6dVl2MWljT2tyRHNpd1hQLXN2a3U4dlduQzfSAboBQVVfeXFMTUdlUjhfenFzZ2Y2cjJISlZ4VjlNMXhvRXN6UVp2aTAwTV9Gekp1bjRnLVkzWk9QV1lSLTNmQ21sUF9PbEJ3Y1JYT1BtNGN6RG94NG1rV1RTSGMwZnFGU0ZKYUtwZHh6Y1NaNnpYTmt6SnQxZ2tBVWF4ZjR0TDJjbU9vanNhbnZkc1dDWHQ5alMxazBISThqQWZRYndKS3BnY1NuM3RHMUZuRi1yeXBoRmxPYzZjcXgyRDNn?oc=5",
+      "source": "El Nacional - El diario de los lectores influyentes",
+      "sourceDomain": null,
+      "pubDate": "Sat, 11 Jul 2026 19:00:00 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "La historia cobra vida en DRAMATOUR, la propuesta de turismo cultural que invita a redescubrir el Teatro Municipal",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTW9QbXlXdXB0WTgxMEVic2N2Ty1xS2JJTzRjU2RaUlAzaXZKeG5uNDhZY0NrRlJQNy1BSmdNV1hxeXRpNGkyRjNEaWV6bmEyMmR4UUt0VjJzWXAyZ3hFNVVTV3I1d3I4dENieTJKSjlSX1hDZFZYMDVaU3FtQjdqb284N0t4UFIzam1uclNPQWI2LTdyTVBjVUxkNXlvZDFnSDJIZW5xZ1l4czdsQWV4OElaT0pmUEN3dHAzRXVzZUV2LW9tRzdza1FVb2ZZYnhGNFA0OEFvRFg4eE5TaXNzb29GdHFPaThqNVN3cUdR?oc=5",
+      "source": "Municipalidad de Asunción",
+      "sourceDomain": "asuncion.gov.py",
+      "pubDate": "Sun, 12 Jul 2026 15:24:36 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "AZ Inversiones inaugura Alemania Sajonia, su edificio número 11, en el año de su 15° aniversario",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUlsdHk5eFZXaE9XcXlrRDdLR21zMHQ0TmVJdzBGSWFSZTE1MjNFX1dpd3QxbnNhTmdUYi15VW5jVmROM1VWSGxVQ01SSmpSaHhUcHVsOE1yeGpjdUV0bEc5MGxIanFJZDVxbmdISHdnaTRLczVSUjFyMjBuaHUxMzNVbGZlc2tWWFo1TkRKcXptRE9DMTQ2bXdfZFVTR3pKeFJsTEQxRU9LMnpISGEyZVVIUi1KRkpscHhvLTdMWGFMZENiRDhnSE1EV1g?oc=5",
+      "source": "InfoNegocios Paraguay",
+      "sourceDomain": "infonegocios.com.py",
+      "pubDate": "Mon, 13 Jul 2026 09:11:13 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "Vacaciones de invierno: Mitic ofrece cursos gratuitos de IA, Canva y oratoria",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZE5kX0hsNVgxcllyU0c3NjVlTlVpNGQ3bHNYTTJCZGRjcTMwWklEU3pmOTlVRXFZazlhTVJNckdNQk5ReXpLVFQyMHZUdi0ycHFSYjIweU14RTFtU0lsX3R5SEJvNXFoa0VueDdzSUhtbW9Pb0ZYQVVMSnBEc2diYXBJWFdfTWVEM2dVcWtCVjRJWnJvZ3c1WkUxbTR6OXdhNG41YXg3MHZ4d0FtNEZuMzI2VFJMRGQ4QW5ETV930gHSAUFVX3lxTE5oWFFKS3NKbU1Objg5Mm5Kcjl5WVJ1SEIwQVpNMVp5X1pudmFXeEZnRjVfcjdZSmdxQlJ0bzNmcXBNRnBHY1kweGFSR0loT3BIZkRMQUZBa1N5VFhyX192cHU1NkNNaGJUTGJMUk5zbUxpWW9PUGlCU0U0TnNQcEl3SG1mTWVEZm5vcUVkQ1o3U21CV0g0WUgzZngySWg3LTNybjBvWTcxeGdrQjRBVVZHYnFnZmtGcWVIRHg3dVpkZEVDa3JJWHlHY1hDYlhEQTMzUQ?oc=5",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Mon, 13 Jul 2026 13:29:37 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "Conductor ebrio chocó contra surtidor y quedó herido en Fernando de la Mora",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZnFFRDk1T25VeDJSUFJfNW1lQTA1UHNOdUZMemJiYU84dXZoNGV6Zk10RW9NNmtreUZPdjZMNkpzbk84M2ZEODVRaVlhRUZGd2w3MUtSZERhRTctb3RlcmhtUGE2SkFabldQYnpQaTVVYjBhb2lVZUphMWtYT25wTmhtZFhiakVJN2RBakFsR3JLcXRld1ZwbGt2ZnAwdFB4WWxpQlBLQkg2dVpRRllWdkVVSWEtMVZfVmZqQQ?oc=5",
+      "source": "La Nación",
+      "sourceDomain": "lanacion.com.py",
+      "pubDate": "Sun, 12 Jul 2026 16:00:16 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "Mujer ingresó a una carnicería y se robó “costilla premium” en Luque",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVRYZkY0c3ZXNnZGMTNEcDY2TUF3WXNWSHpLbVJJaFk3Wkp2dmlVd3dFVmpZQ082amRPVUVRX1ZEVzR0VDZsTGlOZElpSGwzR0h2QmtYSUpTR2VSc2VYWklrSjhRcVJuS2JIdlhwOUc5Ylhyd0lMbHBlOC1Za2huNFlmUzN1dEExYmRyc2lMR0JzR1NCcFpzQkM4WEtfb1dNVnRaUFliX2JxNnI2RGI4Qw?oc=5",
+      "source": "Diario HOY – En Paraguay y el Mundo",
+      "sourceDomain": "hoy.com.py",
+      "pubDate": "Mon, 13 Jul 2026 15:01:00 GMT",
+      "category": "pais"
+    },
+    {
+      "title": "\"800 médicos del IPS ingresaron política ro'óre y sin formación\", dice Isaías Fretes - El Nacional",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWGw0bF83Q2hrMTE2Y3U5TGVWMGpGV3NKQW1idDExaE8yMmJoY0JXWVI1ejJSOHRyaWRvZHVuZENsNkJwZW9zTXNta1R3T2t4aEJRNTg5UmNJR0xfVV84YUthQlFoOEJGeWZuZGppYnYtUS1od2NMSGprUVFMS21KOUhmeXRKOXpUWmYtUjJySVpiMHpEVDNaYjlKc0xmbVMzT1NNUEZVRjBCN3lzMG1BWkVwVTdkQdIBuwFBVV95cUxQWEljdTZRd1NINmVtd2l4MHdNN01WRWI2UkdTSHhZRnQwcEN5Y1JvcURLaU42T3hOaTZHSHRfbk5iVDhqbUo1QWJKOXhjS1RzbEdSSWFRVzIwYi1sdDhjeGdNZnB1dHNITFVZdkxXRHFvdjNDdUl2T2toUDJUeXFVOFNfM1J1bC14Q2o5VWotVnZvMkpZdHNTY1M1NV9vZVk4YWdiQVdmOGRzeXNCcE9ydmpMTWRYQ2RRZmpB?oc=5",
+      "source": "El Nacional - El diario de los lectores influyentes",
+      "sourceDomain": null,
+      "pubDate": "Sun, 12 Jul 2026 17:30:00 GMT",
+      "category": "pais"
+    }
   ]
 }

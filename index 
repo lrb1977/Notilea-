@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="es-PY">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Notilea — Lo que pasa en tu barrio y lo que sacude al país y al planeta</title>
+<meta property="og:image" content="https://lrb1977.github.io/Notilea-/og-cover.jpg">
+<meta property="og:title" content="Notilea">
+<meta property="og:description" content="Lo que pasa en tu barrio y lo que sacude al país y al planeta.">
+<meta property="og:url" content="https://lrb1977.github.io/Notilea-/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#050914">
+<link rel="icon" href="icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Notilea">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Rajdhani:wght@500;600;700&family=Space+Grotesk:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --void:#050914;
+    --void-2:#0A1120;
+    --panel:rgba(16,24,42,0.55);
+    --panel-solid:#0E1526;
+    --line:rgba(120,180,255,0.14);
+    --cyan:#2FE3E0;
+    --violet:#8B6BFF;
+    --magenta:#FF3D9A;
+    --text:#E7ECFA;
+    --text-dim:#8492B0;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:
+      radial-gradient(ellipse 900px 500px at 15% -10%, rgba(139,107,255,0.20), transparent 60%),
+      radial-gradient(ellipse 700px 500px at 100% 10%, rgba(47,227,224,0.14), transparent 55%),
+      var(--void);
+    background-attachment:fixed;
+    color:var(--text);
+    font-family:'Space Grotesk', sans-serif;
+    min-height:100vh;
+    overflow-x:hidden;
+    position:relative;
+  }
+  body::before{
+    content:"";
+    position:fixed; inset:0;
+    background-image:
+      linear-gradient(var(--line) 1px, transparent 1px),
+      linear-gradient(90deg, var(--line) 1px, transparent 1px);
+    background-size:64px 64px;
+    mask-image:radial-gradient(ellipse 100% 60% at 50% 0%, black 0%, transparent 75%);
+    opacity:0.5;
+    pointer-events:none;
+    z-index:0;
+  }
+  a{color:inherit;}
+
+  /* ---------- MASTHEAD ---------- */
+  .masthead{
+    position:relative;
+    padding:26px 6vw 0;
+    z-index:1;
+  }
+  .dateline{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--cyan);
+    padding-bottom:18px;
+    border-bottom:1px solid var(--line);
+    flex-wrap:wrap;
+    gap:8px;
+  }
+  .dateline .pulse{
+    display:inline-block; width:7px; height:7px; border-radius:50%;
+    background:var(--magenta); margin-right:8px;
+    box-shadow:0 0 10px var(--magenta);
+    animation:pulse 1.8s ease-in-out infinite;
+  }
+  @keyframes pulse{ 0%,100%{opacity:1; transform:scale(1);} 50%{opacity:0.4; transform:scale(0.7);} }
+  .dateline span:last-child{ color:var(--text-dim); }
+
+  .brand-row{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:20px;
+    padding:34px 0 10px;
+  }
+  .wordmark{
+    font-family:'Orbitron', sans-serif;
+    font-weight:900;
+    font-size:clamp(42px, 8vw, 84px);
+    letter-spacing:0.02em;
+    line-height:1;
+    background:linear-gradient(120deg, #ffffff 0%, var(--cyan) 55%, var(--violet) 100%);
+    -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent;
+    filter:drop-shadow(0 0 22px rgba(47,227,224,0.35));
+  }
+  .edition-tag{
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    color:var(--violet);
+    border:1px solid var(--violet);
+    padding:8px 14px;
+    border-radius:100px;
+    box-shadow:0 0 16px rgba(139,107,255,0.25) inset;
+    white-space:nowrap;
+  }
+  .corner-link{
+    display:inline-flex;
+    align-items:center;
+    gap:7px;
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.05em;
+    text-transform:uppercase;
+    text-decoration:none;
+    color:var(--cyan);
+    background:rgba(10,17,32,0.65);
+    backdrop-filter:blur(8px);
+    border:1px solid var(--line);
+    padding:8px 14px 8px 10px;
+    border-radius:100px;
+    box-shadow:0 0 18px rgba(47,227,224,0.18);
+    transition:border-color .2s ease, box-shadow .2s ease, transform .2s ease;
+    align-self:center;
+  }
+  .corner-link:hover{
+    border-color:var(--cyan);
+    box-shadow:0 0 22px rgba(47,227,224,0.4);
+    transform:translateY(-1px);
+  }
+  .corner-link svg{ width:14px; height:14px; flex:0 0 auto; }
+
+  .nino-badge{
+    all:unset;
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    cursor:pointer;
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    font-weight:700;
+    letter-spacing:0.04em;
+    text-transform:uppercase;
+    color:#FFD9BF;
+    background:rgba(255,90,40,0.14);
+    border:1px solid rgba(255,120,60,0.55);
+    padding:8px 16px 8px 12px;
+    border-radius:100px;
+    animation:ninoPulse 1.8s ease-in-out infinite;
+  }
+  .nino-dot{
+    width:7px; height:7px; border-radius:50%;
+    background:#FF6B35;
+    box-shadow:0 0 8px #FF6B35;
+  }
+  @keyframes ninoPulse{
+    0%, 100%{
+      box-shadow:0 0 6px rgba(255,107,53,0.35), 0 0 0 rgba(255,107,53,0.0);
+      border-color:rgba(255,120,60,0.55);
+      transform:scale(1);
+    }
+    50%{
+      box-shadow:0 0 22px rgba(255,107,53,0.85), 0 0 40px rgba(255,107,53,0.3);
+      border-color:rgba(255,170,110,0.95);
+      transform:scale(1.035);
+    }
+  }
+  .nino-list{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    max-height:52vh;
+    overflow-y:auto;
+    margin-top:6px;
+  }
+  .nino-item{
+    display:block;
+    text-decoration:none;
+    color:var(--text);
+    background:rgba(255,255,255,0.03);
+    border:1px solid var(--line);
+    border-left:3px solid #FF6B35;
+    border-radius:8px;
+    padding:12px 14px;
+    transition:border-color .18s ease, transform .18s ease;
+  }
+  .nino-item:hover{ border-color:#FF6B35; transform:translateX(2px); }
+  .nino-item .n-src{
+    font-family:'Space Mono', monospace;
+    font-size:10.5px;
+    color:var(--text-dim);
+    display:block;
+    margin-bottom:5px;
+  }
+  .nino-item .n-title{
+    font-family:'Rajdhani', sans-serif;
+    font-weight:600;
+    font-size:15px;
+    line-height:1.3;
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    .nino-badge{ animation:none; }
+  }
+
+  .visitor-chip{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    color:var(--text-dim);
+  }
+  .visitor-chip svg{ width:13px; height:13px; color:var(--cyan); flex:0 0 auto; }
+  .visitor-chip strong{ color:var(--text); font-weight:700; }
+
+  .slogan{
+    font-family:'Rajdhani', sans-serif;
+    font-weight:600;
+    font-size:clamp(17px, 2.6vw, 24px);
+    color:var(--text);
+    opacity:0.92;
+    max-width:680px;
+    line-height:1.4;
+    letter-spacing:0.01em;
+  }
+  .slogan .accent{
+    color:var(--cyan);
+    text-shadow:0 0 14px rgba(47,227,224,0.5);
+  }
+
+  /* ---------- HERO / CONSTELLATION ---------- */
+  .hero{
+    position:relative;
+    z-index:1;
+    margin:38px 6vw 10px;
+    padding:34px clamp(16px,4vw,42px);
+    border-radius:20px;
+    border:1px solid var(--line);
+    background:linear-gradient(160deg, rgba(20,28,50,0.7), rgba(10,15,28,0.5));
+    backdrop-filter:blur(10px);
+    overflow:hidden;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:24px;
+    flex-wrap:wrap;
+  }
+  .hero-copy{ max-width:420px; }
+  .hero-copy .eyebrow{
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    text-transform:uppercase;
+    letter-spacing:0.12em;
+    color:var(--magenta);
+    margin-bottom:10px;
+    display:block;
+  }
+  .hero-copy h2{
+    font-family:'Rajdhani', sans-serif;
+    font-weight:700;
+    font-size:clamp(22px,3vw,30px);
+    line-height:1.25;
+    margin-bottom:12px;
+  }
+  .hero-copy p{
+    font-size:14px;
+    color:var(--text-dim);
+    line-height:1.6;
+  }
+
+  .constellation{
+    position:relative;
+    width:min(320px, 40vw);
+    height:min(320px, 40vw);
+    flex:0 0 auto;
+  }
+  .core{
+    position:absolute; top:50%; left:50%;
+    width:76px; height:76px;
+    transform:translate(-50%,-50%);
+    border-radius:50%;
+    background:radial-gradient(circle at 35% 30%, #fff, var(--cyan) 40%, var(--violet) 100%);
+    box-shadow:0 0 40px rgba(47,227,224,0.55), 0 0 80px rgba(139,107,255,0.35);
+    display:flex; align-items:center; justify-content:center;
+    font-family:'Orbitron', sans-serif;
+    font-weight:900;
+    font-size:26px;
+    color:#050914;
+    z-index:2;
+  }
+  .orbit{
+    position:absolute; top:50%; left:50%;
+    border:1px dashed var(--line);
+    border-radius:50%;
+    transform:translate(-50%,-50%);
+    animation:spin linear infinite;
+  }
+  .orbit.o1{ width:150px; height:150px; animation-duration:22s; }
+  .orbit.o2{ width:230px; height:230px; animation-duration:34s; animation-direction:reverse; }
+  .orbit.o3{ width:300px; height:300px; animation-duration:46s; }
+  @keyframes spin{ to{ transform:translate(-50%,-50%) rotate(360deg); } }
+  .node{
+    position:absolute;
+    width:34px; height:34px;
+    border-radius:50%;
+    background:var(--panel-solid);
+    border:1px solid var(--line);
+    display:flex; align-items:center; justify-content:center;
+    box-shadow:0 0 14px rgba(47,227,224,0.25);
+    overflow:hidden;
+  }
+  .node img{ width:20px; height:20px; border-radius:4px; }
+
+  @media (prefers-reduced-motion: reduce){
+    .orbit{ animation:none; }
+    .dateline .pulse{ animation:none; }
+  }
+
+  /* ---------- FILTER STRIP ---------- */
+  .strip{
+    position:relative; z-index:1;
+    display:flex;
+    gap:10px;
+    padding:26px 6vw 6px;
+    overflow-x:auto;
+    -ms-overflow-style:none; scrollbar-width:none;
+  }
+  .strip::-webkit-scrollbar{ display:none; }
+  .chip{
+    flex:0 0 auto;
+    font-family:'Space Mono', monospace;
+    font-size:12px;
+    text-transform:uppercase;
+    letter-spacing:0.06em;
+    padding:10px 18px;
+    border-radius:100px;
+    border:1px solid var(--line);
+    background:rgba(255,255,255,0.02);
+    color:var(--text);
+    cursor:pointer;
+    transition:all .2s ease;
+  }
+  .chip:hover{ border-color:var(--cyan); color:var(--cyan); }
+  .chip.active{
+    background:linear-gradient(120deg, var(--cyan), var(--violet));
+    color:#050914;
+    border-color:transparent;
+    font-weight:700;
+  }
+  .chip-sep{
+    flex:0 0 auto;
+    width:1px;
+    align-self:stretch;
+    background:var(--line);
+    margin:4px 6px;
+  }
+  .chip-link{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    text-decoration:none;
+    border-style:dashed;
+    color:var(--text-dim);
+  }
+  .chip-link svg{ width:11px; height:11px; }
+  .chip-link:hover{ border-color:var(--magenta); color:var(--magenta); }
+
+  /* ---------- SECTIONS ---------- */
+  .section{ position:relative; z-index:1; padding:40px 6vw 8px; }
+  .section-head{
+    display:flex; align-items:baseline; gap:14px;
+    margin-bottom:22px; padding-bottom:10px;
+    border-bottom:1px solid var(--line);
+  }
+  .section-head h2{
+    font-family:'Rajdhani', sans-serif;
+    font-weight:700;
+    font-size:clamp(22px,3vw,28px);
+    letter-spacing:0.02em;
+  }
+  .section-head .kicker{
+    font-family:'Space Mono', monospace;
+    font-size:11px; letter-spacing:0.1em; text-transform:uppercase;
+    color:var(--text-dim);
+  }
+  .sec-barrio .section-head h2{ color:var(--cyan); }
+  .sec-pais .section-head h2{ color:var(--violet); }
+  .sec-seguridad .section-head h2{ color:var(--magenta); }
+
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(280px,1fr));
+    gap:16px;
+    margin-bottom:12px;
+  }
+
+  /* ---------- NEWS CARD ---------- */
+  .card{
+    all:unset;
+    cursor:pointer;
+    display:flex; flex-direction:column; justify-content:space-between;
+    background:var(--panel);
+    backdrop-filter:blur(8px);
+    border:1px solid var(--line);
+    border-radius:14px;
+    padding:18px;
+    min-height:168px;
+    position:relative;
+    transition:transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+  }
+  .sec-barrio .card:hover{ border-color:var(--cyan); box-shadow:0 0 26px rgba(47,227,224,0.22); }
+  .sec-pais .card:hover{ border-color:var(--violet); box-shadow:0 0 26px rgba(139,107,255,0.22); }
+  .sec-seguridad .card:hover{ border-color:var(--magenta); box-shadow:0 0 26px rgba(255,61,154,0.22); }
+  .card:hover{ transform:translateY(-4px); }
+  .card:focus-visible{ outline:2px solid var(--cyan); outline-offset:2px; }
+
+  .card-top{
+    display:flex; align-items:center; gap:10px;
+    margin-bottom:14px;
+  }
+  .src-badge{
+    width:26px; height:26px; border-radius:7px;
+    background:rgba(255,255,255,0.05);
+    display:flex; align-items:center; justify-content:center;
+    overflow:hidden; flex:0 0 auto;
+    border:1px solid var(--line);
+  }
+  .src-badge img{ width:16px; height:16px; }
+  .card-top .meta{
+    display:flex; flex-direction:column; gap:2px; min-width:0;
+  }
+  .card-top .src-name{
+    font-family:'Space Mono', monospace;
+    font-size:11px; color:var(--text);
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+  }
+  .card-top .src-time{
+    font-family:'Space Mono', monospace;
+    font-size:10px; color:var(--text-dim);
+  }
+  .card h3{
+    font-family:'Rajdhani', sans-serif;
+    font-weight:600;
+    font-size:17px;
+    line-height:1.32;
+    margin-bottom:14px;
+    color:var(--text);
+  }
+  .card-foot{
+    display:flex; justify-content:flex-end; align-items:center;
+    font-family:'Space Mono', monospace; font-size:11px;
+  }
+  .read-more{ display:inline-flex; align-items:center; gap:6px; font-weight:700; }
+  .sec-barrio .read-more{ color:var(--cyan); }
+  .sec-pais .read-more{ color:var(--violet); }
+  .sec-seguridad .read-more{ color:var(--magenta); }
+  .read-more svg{ width:12px; height:12px; transition:transform .18s ease; }
+  .card:hover .read-more svg{ transform:translateX(3px); }
+
+  /* ---------- MODAL ---------- */
+  .overlay{
+    position:fixed; inset:0;
+    background:rgba(3,6,14,0.78);
+    backdrop-filter:blur(4px);
+    display:flex; align-items:center; justify-content:center;
+    padding:5vw;
+    opacity:0; pointer-events:none;
+    transition:opacity .22s ease;
+    z-index:50;
+  }
+  .overlay.open{ opacity:1; pointer-events:auto; }
+  .modal{
+    background:var(--panel-solid);
+    border:1px solid var(--line);
+    color:var(--text);
+    max-width:520px; width:100%;
+    border-radius:16px;
+    padding:32px 28px 26px;
+    position:relative;
+    transform:translateY(16px) scale(0.98);
+    transition:transform .22s ease;
+    box-shadow:0 0 60px rgba(47,227,224,0.12);
+  }
+  .overlay.open .modal{ transform:translateY(0) scale(1); }
+  .modal-top{ display:flex; align-items:center; gap:12px; margin-bottom:16px; }
+  .modal-top .src-badge{ width:34px; height:34px; }
+  .modal-top .src-badge img{ width:20px; height:20px; }
+  .modal-meta{ font-family:'Space Mono', monospace; font-size:11px; color:var(--text-dim); }
+  .modal-close{
+    all:unset; position:absolute; top:16px; right:16px;
+    width:30px; height:30px; display:flex; align-items:center; justify-content:center;
+    border-radius:100px; cursor:pointer; color:var(--text-dim);
+    border:1px solid var(--line);
+  }
+  .modal-close:hover{ color:var(--cyan); border-color:var(--cyan); }
+  .modal h3{
+    font-family:'Rajdhani', sans-serif;
+    font-weight:700; font-size:25px; line-height:1.28;
+    margin-bottom:16px;
+  }
+  .modal p{ font-size:14px; line-height:1.6; color:var(--text-dim); margin-bottom:24px; }
+  .modal-actions{ display:flex; gap:10px; flex-wrap:wrap; }
+  .btn-primary, .btn-secondary{
+    font-family:'Space Mono', monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.05em;
+    padding:12px 20px; border-radius:100px; cursor:pointer; text-decoration:none;
+    display:inline-flex; align-items:center; gap:8px;
+  }
+  .btn-primary{ background:linear-gradient(120deg, var(--cyan), var(--violet)); color:#050914; font-weight:700; border:none; }
+  .btn-primary:hover{ filter:brightness(1.1); }
+  .btn-secondary{ background:transparent; color:var(--text); border:1px solid var(--line); }
+  .btn-secondary:hover{ border-color:var(--cyan); color:var(--cyan); }
+
+  footer{
+    position:relative; z-index:1;
+    padding:34px 6vw 44px;
+    font-family:'Space Mono', monospace; font-size:11px;
+    color:var(--text-dim);
+    display:flex; justify-content:space-between; flex-wrap:wrap; gap:10px;
+    border-top:1px solid var(--line);
+    margin-top:30px;
+  }
+
+  @media (max-width:640px){
+    .hero{ flex-direction:column; }
+    .constellation{ width:220px; height:220px; margin:0 auto; }
+    .grid{ grid-template-columns:1fr; }
+    .edition-tag{ display:none; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="dateline">
+    <span><span class="pulse"></span>Nueva Asunción, Presidente Hayes · PY</span>
+    <span style="display:flex; align-items:center; gap:14px;">
+      <span id="liveClock">—</span>
+      <span class="visitor-chip">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-7 11-7 11 7 11 7-4 7-11 7-11-7-11-7z"/><circle cx="12" cy="12" r="3"/></svg>
+        <strong id="visitorCount">···</strong>
+      </span>
+    </span>
+  </div>
+  <div class="brand-row">
+    <div style="display:flex; align-items:center; gap:18px; flex-wrap:wrap;">
+      <h1 class="wordmark">NOTILEA</h1>
+      <a class="corner-link" href="https://lrb1977.github.io/notilea.github.io/" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17.5 19a4.5 4.5 0 0 0 0-9 6 6 0 0 0-11.4-1.7A4.5 4.5 0 0 0 6.5 19h11z"/></svg>
+        NotiClima
+      </a>
+      <button class="nino-badge" id="ninoBadge" type="button">
+        <span class="nino-dot"></span>🌊🔥🌎 El Niño 2026
+      </button>
+    </div>
+    <div class="edition-tag">SEÑAL EN VIVO · CHACO</div>
+  </div>
+  <p class="slogan">Lo que pasa en <span class="accent">tu barrio</span> y lo que sacude al <span class="accent">país</span> y al <span class="accent">planeta</span>.</p>
+</header>
+
+<div class="overlay" id="ninoOverlay">
+  <div class="modal nino-modal" id="ninoModal">
+    <button class="modal-close" id="ninoClose" aria-label="Cerrar">✕</button>
+    <div class="modal-top">
+      <div class="src-badge" style="background:rgba(255,107,53,0.15); border-color:rgba(255,107,53,0.4);">🌊</div>
+      <div class="modal-meta">
+        <div style="font-family:'Rajdhani',sans-serif; font-weight:700; font-size:18px; color:#FF9A5A;">El Niño 2026 · Sudamérica</div>
+        <span id="ninoUpdated">Sincronizando…</span>
+      </div>
+    </div>
+    <div id="ninoList" class="nino-list"></div>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="hero-copy">
+    <span class="eyebrow">Red de fuentes conectadas</span>
+    <h2>Un mismo enlace, actualizado todos los días.</h2>
+    <p>Notilea sincroniza automáticamente el mismo feed de noticias cada 24&nbsp;horas y reúne en un solo lugar lo que publican los medios paraguayos.</p>
+  </div>
+  <div class="constellation" id="constellation">
+    <div class="orbit o1"></div>
+    <div class="orbit o2"></div>
+    <div class="orbit o3"></div>
+    <div class="core">N</div>
+  </div>
+</section>
+
+<nav class="strip" id="filterStrip">
+  <button class="chip active" data-filter="all">Todas</button>
+  <button class="chip" data-filter="barrio">Barrio</button>
+  <button class="chip" data-filter="pais">País</button>
+  <span class="chip-sep"></span>
+  <a class="chip chip-link" href="https://news.google.com/topics/CAAqLAgKIiZDQkFTRmdvSUwyMHZNRGx1YlY4U0JtVnpMVFF4T1JvQ1ZWTW9BQVAB?ceid=US:es-419&oc=3" target="_blank" rel="noopener">
+    Internacional
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17 17 7M8 7h9v9"/></svg>
+  </a>
+  <a class="chip chip-link" href="https://news.google.com/topics/CAAqLQgKIidDQkFTRndvTkwyY3ZNVEYwWDNKaWRITmZNUklHWlhNdE5ERTVLQUFQAQ?ceid=US:es-419&oc=3" target="_blank" rel="noopener">
+    País en Google Noticias
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17 17 7M8 7h9v9"/></svg>
+  </a>
+</nav>
+
+<main id="sections"></main>
+
+<footer>
+  <span>Notilea25 — Nueva Asunción, Presidente Hayes, Paraguay</span>
+  <span id="updatedFoot">Sincronizando…</span>
+</footer>
+
+<div class="overlay" id="overlay">
+  <div class="modal" id="modal">
+    <button class="modal-close" id="modalClose" aria-label="Cerrar">✕</button>
+    <div class="modal-top">
+      <div class="src-badge"><img id="modalIcon" src="" alt=""></div>
+      <div class="modal-meta" id="modalMeta"></div>
+    </div>
+    <h3 id="modalTitle"></h3>
+    <p id="modalDesc">Toca "Leer en la fuente" para ver la nota completa en el medio original.</p>
+    <div class="modal-actions">
+      <a href="#" target="_blank" rel="noopener" class="btn-primary" id="modalLink">Leer en la fuente →</a>
+      <button class="btn-secondary" id="modalShare">Compartir</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const FALLBACK_ICON = "data:image/svg+xml;utf8," + encodeURIComponent(
+  `<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%232FE3E0' stroke-width='2'><rect x='3' y='4' width='18' height='16' rx='2'/><path d='M3 9h18M9 4v16'/></svg>`
+);
+
+function faviconFor(domain){
+  return domain
+    ? `https://www.google.com/s2/favicons?domain=${domain}&sz=128`
+    : FALLBACK_ICON;
+}
+
+const SECTIONS = [
+  {key:"barrio", label:"Barrio", kicker:"Cerca de casa"},
+  {key:"pais", label:"País", kicker:"Lo nacional"}
+];
+
+// Datos de respaldo por si news.json aún no cargó o el archivo se abrió sin servidor.
+const FALLBACK_NEWS = {
+  generatedAt: null,
+  items: [
+    { title:"Plaza Herminio Giménez se transforma gracias a una alianza entre la Municipalidad y los vecinos de Mariscal López", source:"Municipalidad de Asunción", sourceDomain:"asuncion.gov.py", link:"https://www.asuncion.gov.py", category:"barrio" },
+    { title:"Nivel del río Paraguay volvió a bajar en Asunción y otros puntos", source:"La Nación", sourceDomain:"lanacion.com.py", link:"https://www.lanacion.com.py", category:"pais" },
+    { title:"Destruyen más de 25 toneladas de marihuana en Amambay", source:"Diario HOY", sourceDomain:"hoy.com.py", link:"https://www.hoy.com.py", category:"pais" }
+  ]
+};
+
+let NEWS = FALLBACK_NEWS;
+const container = document.getElementById('sections');
+const constellation = document.getElementById('constellation');
+
+function timeAgo(iso){
+  if(!iso) return "";
+  const diff = Date.now() - new Date(iso).getTime();
+  const h = Math.floor(diff/3600000);
+  if(h < 1) return "Hace instantes";
+  if(h < 24) return `Hace ${h} h`;
+  const d = Math.floor(h/24);
+  return `Hace ${d} d`;
+}
+
+function buildConstellation(items){
+  const domains = [...new Set(items.map(i=>i.sourceDomain).filter(Boolean))].slice(0,7);
+  const orbitEls = [document.querySelector('.o1'), document.querySelector('.o2'), document.querySelector('.o3')];
+  domains.forEach((d, i)=>{
+    const orbit = orbitEls[i % orbitEls.length];
+    const radius = orbit.offsetWidth / 2 || (75 + (i%3)*40);
+    const angle = (i / domains.length) * 2 * Math.PI;
+    const node = document.createElement('div');
+    node.className = 'node';
+    node.style.left = `calc(50% + ${Math.cos(angle)*radius}px - 17px)`;
+    node.style.top = `calc(50% + ${Math.sin(angle)*radius}px - 17px)`;
+    node.innerHTML = `<img src="${faviconFor(d)}" alt="" loading="lazy">`;
+    orbit.appendChild(node);
+  });
+}
+
+function render(filter){
+  container.innerHTML = "";
+  SECTIONS.forEach(sec=>{
+    const items = NEWS.items.filter(n=>n.category===sec.key);
+    if(!items.length) return;
+    if(filter!=="all" && filter!==sec.key) return;
+    const section = document.createElement('section');
+    section.className = `section sec-${sec.key}`;
+    section.innerHTML = `
+      <div class="section-head">
+        <h2>${sec.label}</h2>
+        <span class="kicker">${sec.kicker}</span>
+      </div>
+      <div class="grid"></div>
+    `;
+    const grid = section.querySelector('.grid');
+    items.forEach(n=>{
+      const btn = document.createElement('button');
+      btn.className = 'card';
+      btn.innerHTML = `
+        <div class="card-top">
+          <div class="src-badge"><img src="${faviconFor(n.sourceDomain)}" alt="" loading="lazy"></div>
+          <div class="meta">
+            <span class="src-name">${n.source}</span>
+            <span class="src-time">${timeAgo(n.pubDate)}</span>
+          </div>
+        </div>
+        <h3>${n.title}</h3>
+        <div class="card-foot">
+          <span class="read-more">Leer más
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+          </span>
+        </div>
+      `;
+      btn.addEventListener('click', ()=>openModal(n));
+      grid.appendChild(btn);
+    });
+    container.appendChild(section);
+  });
+}
+
+const overlay = document.getElementById('overlay');
+const modal = document.getElementById('modal');
+const modalMeta = document.getElementById('modalMeta');
+const modalTitle = document.getElementById('modalTitle');
+const modalLink = document.getElementById('modalLink');
+const modalIcon = document.getElementById('modalIcon');
+const modalShare = document.getElementById('modalShare');
+let lastFocused = null;
+
+function openModal(n){
+  lastFocused = document.activeElement;
+  modalIcon.src = faviconFor(n.sourceDomain);
+  modalMeta.textContent = `${n.source} · ${timeAgo(n.pubDate)}`;
+  modalTitle.textContent = n.title;
+  modalLink.href = n.link || "#";
+  overlay.classList.add('open');
+  document.getElementById('modalClose').focus();
+}
+function closeModal(){
+  overlay.classList.remove('open');
+  if(lastFocused) lastFocused.focus();
+}
+document.getElementById('modalClose').addEventListener('click', closeModal);
+overlay.addEventListener('click', e=>{ if(e.target===overlay) closeModal(); });
+document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeModal(); });
+modalShare.addEventListener('click', ()=>{
+  const text = `${modalTitle.textContent} — vía Notilea`;
+  if(navigator.share){ navigator.share({title:'Notilea', text, url:modalLink.href}); }
+  else { navigator.clipboard.writeText(`${text} ${modalLink.href}`); modalShare.textContent='Copiado ✓'; setTimeout(()=>modalShare.textContent='Compartir',1400); }
+});
+
+document.getElementById('filterStrip').addEventListener('click', e=>{
+  const chip = e.target.closest('.chip');
+  if(!chip || chip.classList.contains('chip-link')) return;
+  document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active'));
+  chip.classList.add('active');
+  render(chip.dataset.filter);
+});
+
+function updateClock(){
+  const now = new Date();
+  const fmt = new Intl.DateTimeFormat('es-PY', {
+    timeZone:'America/Asuncion', weekday:'long', day:'numeric', month:'long', hour:'2-digit', minute:'2-digit'
+  }).format(now);
+  document.getElementById('liveClock').textContent = fmt;
+}
+updateClock();
+setInterval(updateClock, 30000);
+
+// Contador de visitantes: cada dispositivo/navegador suma UNA sola vez
+// (se recuerda con localStorage). Las visitas siguientes solo consultan
+// el total, sin volver a sumar.
+async function initVisitorCounter(){
+  const KEY = "notilea_lrb1977_visitas_unicas_v1";
+  const YA_CONTADO = "notilea_ya_contado";
+  const el = document.getElementById('visitorCount');
+  if(!el) return;
+  try{
+    const yaContado = localStorage.getItem(YA_CONTADO);
+    const endpoint = yaContado
+      ? `https://countapi.mileshilliard.com/api/v1/get/${KEY}`
+      : `https://countapi.mileshilliard.com/api/v1/hit/${KEY}`;
+    const res = await fetch(endpoint);
+    const data = await res.json();
+    const value = Number(data.value);
+    if(!Number.isNaN(value)){
+      el.textContent = value.toLocaleString('es-PY');
+      if(!yaContado) localStorage.setItem(YA_CONTADO, "1");
+    } else {
+      el.textContent = "—";
+    }
+  }catch(e){
+    el.textContent = "—";
+  }
+}
+initVisitorCounter();
+
+// --- Panel de El Niño 2026 ---
+function ninoTimeAgo(iso){
+  if(!iso) return "";
+  const diff = Date.now() - new Date(iso).getTime();
+  const d = Math.floor(diff/86400000);
+  if(d < 1) return "Hoy";
+  if(d === 1) return "Hace 1 día";
+  return `Hace ${d} días`;
+}
+
+async function loadNino(){
+  const listEl = document.getElementById('ninoList');
+  const updatedEl = document.getElementById('ninoUpdated');
+  let data = { items: [] };
+  try{
+    const res = await fetch('./elnino.json', {cache:'no-store'});
+    if(res.ok) data = await res.json();
+  }catch(e){ /* sin datos por ahora */ }
+
+  updatedEl.textContent = data.generatedAt
+    ? `Actualizado ${new Intl.DateTimeFormat('es-PY',{dateStyle:'medium', timeZone:'America/Asuncion'}).format(new Date(data.generatedAt))} · se refresca cada 2 días`
+    : "Se refresca cada 2 días";
+
+  listEl.innerHTML = "";
+  (data.items || []).forEach(n=>{
+    const a = document.createElement('a');
+    a.className = 'nino-item';
+    a.href = n.link || '#';
+    a.target = '_blank';
+    a.rel = 'noopener';
+    a.innerHTML = `<span class="n-src">${n.source}${n.pubDate ? ' · ' + ninoTimeAgo(n.pubDate) : ''}</span><span class="n-title">${n.title}</span>`;
+    listEl.appendChild(a);
+  });
+  if(!(data.items || []).length){
+    listEl.innerHTML = '<p style="color:var(--text-dim); font-size:13px;">Sin datos todavía. Volvé a intentar más tarde.</p>';
+  }
+}
+
+const ninoOverlay = document.getElementById('ninoOverlay');
+document.getElementById('ninoBadge').addEventListener('click', ()=>{
+  ninoOverlay.classList.add('open');
+  loadNino();
+});
+document.getElementById('ninoClose').addEventListener('click', ()=> ninoOverlay.classList.remove('open'));
+ninoOverlay.addEventListener('click', e=>{ if(e.target===ninoOverlay) ninoOverlay.classList.remove('open'); });
+document.addEventListener('keydown', e=>{ if(e.key==='Escape') ninoOverlay.classList.remove('open'); });
+
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("sw.js").catch(() => {});
+  });
+}
+
+async function boot(){
+  try{
+    const res = await fetch('./news.json', {cache:'no-store'});
+    if(res.ok){ NEWS = await res.json(); }
+  }catch(e){ /* usa FALLBACK_NEWS */ }
+
+  const foot = document.getElementById('updatedFoot');
+  foot.textContent = NEWS.generatedAt
+    ? `Última actualización: ${new Intl.DateTimeFormat('es-PY',{dateStyle:'medium', timeStyle:'short', timeZone:'America/Asuncion'}).format(new Date(NEWS.generatedAt))}`
+    : "Fuente en vivo · mismo enlace cada día";
+
+  buildConstellation(NEWS.items);
+  render('all');
+}
+boot();
+</script>
+
+</body>
+</html>

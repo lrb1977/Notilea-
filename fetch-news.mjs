@@ -1,95 +1,108 @@
 // scripts/fetch-news.mjs
-// Descarga DOS feeds fijos de Google Noticias, siempre los mismos enlaces:
-//  1) El topic general de Paraguay (país / seguridad)
-//  2) Una búsqueda dedicada a Nueva Asunción y Nanawa (Presidente Hayes),
-//     que alimenta EXCLUSIVAMENTE la sección "Barrio".
-// Lo ejecuta el workflow de GitHub Actions una vez al día.
+// Trae noticias de DOS orígenes fijos:
+//  1) "País": directo de 4 medios paraguayos (ABC, Popular, Última Hora, HOY)
+//  2) "Barrio": búsqueda de Google Noticias sobre Nueva Asunción y Nanawa
+// Se ejecuta una vez al día (24 horas) vía GitHub Actions.
 
 import Parser from "rss-parser";
 import { writeFile } from "node:fs/promises";
 
-const FEED_URL =
-  "https://news.google.com/rss/topics/CAAqLQgKIidDQkFTRndvTkwyY3ZNVEYwWDNKaWRITmZNUklHWlhNdE5ERTVLQUFQAQ?ceid=US:es-419&hl=es-419&gl=US";
+// Cada medio puede exponer su RSS en distintas rutas según su plataforma;
+// se prueban en orden y se usa la primera que responda.
+const PAIS_SOURCES = [
+  {
+    name: "abc.com.py",
+    domain: "abc.com.py",
+    candidates: [
+      "https://www.abc.com.py/arc/outboundfeeds/rss/nacionales/?outputType=xml",
+      "https://www.abc.com.py/arc/outboundfeeds/rss/?outputType=xml"
+    ]
+  },
+  {
+    name: "Popular",
+    domain: "popular.com.py",
+    candidates: [
+      "https://www.popular.com.py/feed/",
+      "https://popular.com.py/feed/"
+    ]
+  },
+  {
+    name: "Última Hora",
+    domain: "ultimahora.com",
+    candidates: [
+      "https://www.ultimahora.com/rss.xml",
+      "https://www.ultimahora.com/arc/outboundfeeds/rss/?outputType=xml",
+      "https://www.ultimahora.com/feed"
+    ]
+  },
+  {
+    name: "Diario HOY",
+    domain: "hoy.com.py",
+    candidates: [
+      "https://www.hoy.com.py/rss.xml",
+      "https://www.hoy.com.py/arc/outboundfeeds/rss/?outputType=xml",
+      "https://www.hoy.com.py/feed"
+    ]
+  }
+];
 
 // Búsqueda dedicada al barrio: Nueva Asunción y Nanawa, Presidente Hayes.
 const LOCAL_QUERY = '("Nueva Asunción" OR Nanawa) Paraguay';
 const LOCAL_FEED_URL =
   `https://news.google.com/rss/search?q=${encodeURIComponent(LOCAL_QUERY)}&hl=es-419&gl=PY&ceid=PY:es-419`;
 
-// Dominio real de cada fuente, para poder mostrar su logo/favicon.
-const SOURCE_DOMAINS = {
-  "ABC Color": "abc.com.py",
-  "abc.com.py": "abc.com.py",
-  "La Nación": "lanacion.com.py",
-  "Diario HOY": "hoy.com.py",
-  "Diario HOY – En Paraguay y el Mundo": "hoy.com.py",
-  "El Nacional": "elnacional.com.py",
-  "Municipalidad de Asunción": "asuncion.gov.py",
-  "InfoNegocios Paraguay": "infonegocios.com.py",
-  "Telefuturo": "telefuturo.com.py",
-  "MSPBS": "mspbs.gov.py",
-  "Última Hora": "ultimahora.com",
-  "ultimahora.com": "ultimahora.com",
-  "5Días": "5dias.com.py",
-  "Paraguay.com": "paraguay.com",
-  "La Política Online": "lapoliticaonline.com"
-};
-
-const RULES = {
-  seguridad: [
-    "polic", "asalt", "detien", "detenc", "homicid", "asesin", "balacer",
-    "robo", "hurt", "narco", "droga", "marihuana", "crimen", "fiscal",
-    "desaparecid", "violen", "arma", "preso", "condena"
-  ]
-};
-
-function guessCategory(title) {
-  const t = title.toLowerCase();
-  if (RULES.seguridad.some((k) => t.includes(k))) return "seguridad";
-  return "pais";
-}
-
-function splitTitleSource(rawTitle) {
-  // Google News suele dar "Titular - Medio"
+function splitTitleSource(rawTitle, defaultSource) {
   const idx = rawTitle.lastIndexOf(" - ");
-  if (idx === -1) return { title: rawTitle, source: "Google Noticias" };
+  if (idx === -1) return { title: rawTitle, source: defaultSource };
   return {
     title: rawTitle.slice(0, idx).trim(),
-    source: rawTitle.slice(idx + 3).trim()
+    source: rawTitle.slice(idx + 3).trim() || defaultSource
   };
 }
 
-function mapItem(item, category) {
-  const fallback = splitTitleSource(item.title || "");
+function mapItem(item, category, defaultSource, defaultDomain) {
+  const fallback = splitTitleSource(item.title || "", defaultSource);
   const sourceName =
-    (typeof item.source === "string" && item.source.trim()) ||
-    fallback.source;
-  const title = fallback.title || item.title || "";
-  const domain = SOURCE_DOMAINS[sourceName] || null;
+    (typeof item.source === "string" && item.source.trim()) || fallback.source;
 
   return {
-    title,
+    title: fallback.title || item.title || "",
     link: item.link,
     source: sourceName,
-    sourceDomain: domain,
-    pubDate: item.pubDate || null,
+    sourceDomain: sourceName === defaultSource ? defaultDomain : defaultDomain,
+    pubDate: item.pubDate || item.isoDate || null,
     category
   };
 }
 
-async function fetchFeedWithRetry(parser, url, tries = 4) {
+async function fetchFeedWithRetry(parser, url, tries = 3) {
   let lastErr;
   for (let i = 0; i < tries; i++) {
     try {
       return await parser.parseURL(url);
     } catch (err) {
       lastErr = err;
-      const wait = 1500 * (i + 1);
-      console.log(`Intento ${i + 1} falló (${err.message}). Reintentando en ${wait}ms...`);
+      const wait = 1200 * (i + 1);
+      console.log(`  intento ${i + 1} falló (${err.message}). Reintentando en ${wait}ms...`);
       await new Promise((r) => setTimeout(r, wait));
     }
   }
   throw lastErr;
+}
+
+async function fetchSite(parser, site) {
+  for (const url of site.candidates) {
+    try {
+      console.log(`Probando ${site.name}: ${url}`);
+      const feed = await fetchFeedWithRetry(parser, url);
+      console.log(`  OK (${(feed.items || []).length} items)`);
+      return feed;
+    } catch (err) {
+      console.log(`  falló: ${err.message}`);
+    }
+  }
+  console.log(`  ${site.name}: ninguna URL candidata funcionó, se omite.`);
+  return null;
 }
 
 async function main() {
@@ -103,31 +116,42 @@ async function main() {
     }
   });
 
-  const [feed, localFeed] = await Promise.all([
-    fetchFeedWithRetry(parser, FEED_URL),
-    fetchFeedWithRetry(parser, LOCAL_FEED_URL)
-  ]);
+  // País: los 4 medios directos
+  const pais = [];
+  for (const site of PAIS_SOURCES) {
+    const feed = await fetchSite(parser, site);
+    if (!feed) continue;
+    const items = (feed.items || [])
+      .slice(0, 8)
+      .map((item) => mapItem(item, "pais", site.name, site.domain));
+    pais.push(...items);
+  }
+  // Ordenar por fecha, más recientes primero
+  pais.sort((a, b) => new Date(b.pubDate || 0) - new Date(a.pubDate || 0));
 
-  const nationalItems = (feed.items || [])
-    .slice(0, 20)
-    .map((item) => mapItem(item, guessCategory(item.title || "")));
+  // Barrio: búsqueda local en Google Noticias
+  let barrio = [];
+  try {
+    const localFeed = await fetchFeedWithRetry(parser, LOCAL_FEED_URL);
+    barrio = (localFeed.items || [])
+      .slice(0, 12)
+      .map((item) => mapItem(item, "barrio", "Google Noticias", null));
+  } catch (err) {
+    console.log(`Feed de barrio falló: ${err.message}`);
+  }
 
-  const barrioItems = (localFeed.items || [])
-    .slice(0, 12)
-    .map((item) => mapItem(item, "barrio"));
-
-  const items = [...barrioItems, ...nationalItems];
+  const items = [...barrio, ...pais];
 
   const payload = {
     generatedAt: new Date().toISOString(),
-    feedUrl: FEED_URL,
     localFeedUrl: LOCAL_FEED_URL,
+    paisSources: PAIS_SOURCES.map((s) => s.name),
     items
   };
 
   await writeFile("news.json", JSON.stringify(payload, null, 2) + "\n");
   console.log(
-    `news.json actualizado con ${items.length} noticias (${barrioItems.length} de barrio).`
+    `news.json actualizado con ${items.length} noticias (${barrio.length} de barrio, ${pais.length} de país).`
   );
 }
 

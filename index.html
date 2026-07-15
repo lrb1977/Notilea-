@@ -143,19 +143,30 @@
     color:var(--cyan);
     background:rgba(10,17,32,0.65);
     backdrop-filter:blur(8px);
-    border:1px solid var(--line);
+    border:1px solid var(--cyan);
     padding:8px 14px 8px 10px;
     border-radius:100px;
-    box-shadow:0 0 18px rgba(47,227,224,0.18);
-    transition:border-color .2s ease, box-shadow .2s ease, transform .2s ease;
+    transition:transform .2s ease;
     align-self:center;
+    animation:cornerLinkPulse 2.2s ease-in-out infinite;
   }
   .corner-link:hover{
-    border-color:var(--cyan);
-    box-shadow:0 0 22px rgba(47,227,224,0.4);
     transform:translateY(-1px);
   }
   .corner-link svg{ width:14px; height:14px; flex:0 0 auto; }
+  @keyframes cornerLinkPulse{
+    0%, 100%{
+      box-shadow:0 0 8px rgba(47,227,224,0.3);
+      border-color:rgba(47,227,224,0.55);
+    }
+    50%{
+      box-shadow:0 0 24px rgba(47,227,224,0.9), 0 0 44px rgba(47,227,224,0.35);
+      border-color:var(--cyan);
+    }
+  }
+  @media (prefers-reduced-motion: reduce){
+    .corner-link{ animation:none; }
+  }
 
   .nino-badge{
     all:unset;

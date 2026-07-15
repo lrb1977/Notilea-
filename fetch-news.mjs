@@ -47,7 +47,7 @@ const PAIS_SOURCES = [
 ];
 
 // Búsqueda dedicada al barrio: Nueva Asunción y Nanawa, Presidente Hayes.
-const LOCAL_QUERY = '("Nueva Asunción" OR Nanawa) Paraguay';
+const LOCAL_QUERY = '("Nanawa" "Presidente Hayes" OR "Nueva Asunción" "Presidente Hayes") after:2026-01-01';
 const LOCAL_FEED_URL =
   `https://news.google.com/rss/search?q=${encodeURIComponent(LOCAL_QUERY)}&hl=es-419&gl=PY&ceid=PY:es-419`;
 
@@ -134,6 +134,11 @@ async function main() {
   try {
     const localFeed = await fetchFeedWithRetry(parser, LOCAL_FEED_URL);
     barrio = (localFeed.items || [])
+      .filter((item) => {
+        const d = item.pubDate || item.isoDate;
+        if (!d) return true; // sin fecha, se deja pasar
+        return new Date(d).getFullYear() >= 2026;
+      })
       .slice(0, 12)
       .map((item) => mapItem(item, "barrio", "Google Noticias", null));
   } catch (err) {

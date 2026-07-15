@@ -807,25 +807,58 @@ function updateClock(){
 updateClock();
 setInterval(updateClock, 30000);
 
-// Contador de visitantes: cada dispositivo/navegador suma UNA sola vez
-// (se recuerda con localStorage). Las visitas siguientes solo consultan
-// el total, sin volver a sumar.
+// Contador de visitantes: separa "hoy" y "total", cada dispositivo suma
+// una sola vez por día (para "hoy") y una sola vez para siempre (para
+// "total"). El propio dueño del sitio no suma: para activarlo, entrar
+// una vez desde tu celular/PC a notilea con "?owner=lrb1977" al final
+// del enlace — queda guardado en ese navegador y ya no vuelve a contar.
+const OWNER_PARAM_VALUE = "lrb1977";
+const OWNER_FLAG = "notilea_owner_v1";
+(function checkOwner(){
+  const params = new URLSearchParams(location.search);
+  if(params.get('owner') === OWNER_PARAM_VALUE){
+    localStorage.setItem(OWNER_FLAG, "1");
+  }
+})();
+
+async function hitOrGet(key, shouldHit){
+  const endpoint = shouldHit
+    ? `https://countapi.mileshilliard.com/api/v1/hit/${key}`
+    : `https://countapi.mileshilliard.com/api/v1/get/${key}`;
+  const res = await fetch(endpoint);
+  const data = await res.json();
+  const value = Number(data.value);
+  return Number.isNaN(value) ? null : value;
+}
+
 async function initVisitorCounter(){
-  const KEY = "notilea_lrb1977_visitas_unicas_v1";
-  const YA_CONTADO = "notilea_ya_contado";
   const el = document.getElementById('visitorCount');
   if(!el) return;
+
+  const isOwner = localStorage.getItem(OWNER_FLAG) === "1";
+  const TOTAL_KEY = "notilea_lrb1977_visitas_total_v1";
+  const today = new Intl.DateTimeFormat('en-CA', {timeZone:'America/Asuncion'}).format(new Date()); // YYYY-MM-DD
+  const DAILY_KEY = `notilea_lrb1977_visitas_dia_${today}`;
+
+  const TOTAL_FLAG = "notilea_total_counted_v1";
+  const DAILY_FLAG_DATE = "notilea_daily_counted_date_v1";
+
+  const totalYaContado = localStorage.getItem(TOTAL_FLAG) === "1";
+  const dailyYaContadoHoy = localStorage.getItem(DAILY_FLAG_DATE) === today;
+
   try{
-    const yaContado = localStorage.getItem(YA_CONTADO);
-    const endpoint = yaContado
-      ? `https://countapi.mileshilliard.com/api/v1/get/${KEY}`
-      : `https://countapi.mileshilliard.com/api/v1/hit/${KEY}`;
-    const res = await fetch(endpoint);
-    const data = await res.json();
-    const value = Number(data.value);
-    if(!Number.isNaN(value)){
-      el.textContent = value.toLocaleString('es-PY');
-      if(!yaContado) localStorage.setItem(YA_CONTADO, "1");
+    const [totalVal, dailyVal] = await Promise.all([
+      hitOrGet(TOTAL_KEY, !isOwner && !totalYaContado),
+      hitOrGet(DAILY_KEY, !isOwner && !dailyYaContadoHoy)
+    ]);
+
+    if(!isOwner){
+      if(!totalYaContado) localStorage.setItem(TOTAL_FLAG, "1");
+      if(!dailyYaContadoHoy) localStorage.setItem(DAILY_FLAG_DATE, today);
+    }
+
+    if(totalVal !== null && dailyVal !== null){
+      el.textContent = `${dailyVal.toLocaleString('es-PY')} hoy · ${totalVal.toLocaleString('es-PY')} total`;
     } else {
       el.textContent = "—";
     }

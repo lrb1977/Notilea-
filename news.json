@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T17:28:30.124Z",
-  "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nueva%20Asunci%C3%B3n%22%20OR%20Nanawa)%20Paraguay&hl=es-419&gl=PY&ceid=PY:es-419",
+  "generatedAt": "2026-07-15T17:36:39.775Z",
+  "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
     "Popular",
@@ -9,99 +9,75 @@
   ],
   "items": [
     {
-      "title": "Batalla de Nanawa, la Albirroja y un mismo 4 de julio: cuando la historia invita a creer - El Nacional",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUZ6RTdYYXluWVgyMkJ5MFdKemJhLUdjZjlTaVpXOFlVb1haeDdWUlpDMDVaR05jWDN3NndSZnYzaTVwbDhvdDlpZkFNWm43bDlFWTJTUThnSnNHV2lTa19JWktYUHNsZ2VOaFloUF84dVlBOTVHTFM3Zk51RWx6V0oyWXdFQzJFMENWWjFzY2RBSkxwOEozY0ZyNnFzV0JYN2lnbUdFNDZ4U3dfQ0VxMDJB0gG3AUFVX3lxTE1aUXI1NVBkM2x5c0dUd1VVeFQ2VEd4X1o1eFFWOTFzTFNCN3lnQzhJWFRxM2p6YnBRZFFrNmstVl8zR19wdVJyN05RR05xUms5SUduSmczY1JzMlJ1Zmx4end0ZUZ0eHdUeTNKTnpqMWdiT2twem9sQXFkYjhTQ21ZN1NYMWRkWUdHUktDYlR5RUlQcEZla0JlWGJtQzNnaEtMY1JXTXRRYWFHd0tWSTJnc3pxMnFLRQ?oc=5",
-      "source": "El Nacional - El diario de los lectores influyentes",
+      "title": "Presidente Hayes conoció a los campeones del portal del chaco",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2s2X0h6UkV1ODVGRFhCR0czbVBsLWhaa1czMlZ0RHlfZXJ4cFJSY0J0OEprdF9YMnNTTXVWZ1F4dWVGS19sZWVCY3lPNHFHWlZhU0JtbnY2V0QzSU54TWt6Zko5QWgxV3lJUzhNRjNqWmUtQlJOWTl0Y3pKOFJhTEZfUkdFUlFKRzhCdjNn?oc=5",
+      "source": "Secretaria Nacional de Deportes – SND",
       "sourceDomain": null,
-      "pubDate": "Fri, 03 Jul 2026 18:07:00 GMT",
+      "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
-      "title": "Pronóstico meteorológico de Ciudad Nueva, Asunción, Paraguay | MSN El Tiempo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPazZDanR4Q280RFRSUW5CWXZfV2xsWDJvVTg0RnV0VTlRdm9UUG9DVmlpN1hvelJpUklZZFhjNEZIMlVNd0M0dTBsTmR6bFpXaWlwRDNCVnpkejZ2ZS1TeWtyRkwtWkQ1QWhjNnp4T0RfbUJkUDRwalJKV3RmazJCLTlRVXF5X0w2WWRfM2Y0SFk0Zw?oc=5",
-      "source": "MSN",
-      "sourceDomain": null,
-      "pubDate": "Wed, 20 May 2026 04:50:43 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "‘El príncipe de Nanawa’, (momentos de una vida, y una cámara)",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xZThaaGJ3aVZXbWhPTVc3SE1Fa0MwSURFeEtzZDhpTXV6alV5RWQ1czV6SF9DQndYblh6dGRRNEFpZF9DTVRicmk1N0ZSYWdrSl84YXFJOVNSOU5qYkxmVllXM0E?oc=5",
-      "source": "35 Milímetros",
-      "sourceDomain": null,
-      "pubDate": "Fri, 19 Jun 2026 15:22:14 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "Camión de gran porte queda al borde de caer al río Paraguay en el puente Nanawa en Concepción",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRm8ydkdnQVp5bFNtNnNCenBkdHN2Z0dhWVhjYlNDMXJHLUtDcjdvMy1XYkh0WGN5MFdySGNZVW0xUEdVTExHaXBqS08wWnZmLUYyUkVVV0xtVWUzUGhZUHg3Yno0N0h0ZnhEYjF5djJ1Y2tpMTEyMTN0QVg2Zy1wVzFmZjBnYkJGS0pLN3JrdWVpSU9PRngwblU2U2laaHdxeU1WV2p6azI1eEpoMFFxQzhxaHFmZDk0NHM5etIBygFBVV95cUxQcnhUTnhOeV93U0s5TG15alJTbC1DbE9XVXZoLVN4bnBUbklSdlo3Mk9na2gtY2s5NDRUcEtNOUI1S0VyTGpoazhPZWZabzFJdVp4cHR2R1FlOVRDOTd3NjZJX0dLNGh4dHVXWFU0bGtHYXo1R3NkSHVIRHhoRTNTTm1oWXVhRmE0NjJmemtBTHRRc05ZcHZhLW5Oc044Sjl6WDFYcEU3dXhfREppZFJaNWhvYmJucVNyWjZGNEpFSGFndGpHa05Ub3Zn?oc=5",
+      "title": "No hay respuestas a denuncias contra el intendente de Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0FaT1VvdWlpbnktbXNaS3ZEYmpaaVNoQlZrRTlqN2hJZW1lempib1JRUGUyNVJyQ2hKVlZKeDEwWjVBNTlEd0ItRTJZcmJNT3c2eG5FdHhBc2k0WDNhUnphSF9mUEZxRE51X1Y1aVhsdnJGUzRoVHBmcDM5M2o1a0ZIM2JBajM0QUhsVC1DYmfSAZ4BQVVfeXFMT3ZyWF9sT3BGc2o5Q1VRQ1IyQm9Hb2FHbWh0SXVZRW13UU9ETkpFOXNkWEJza1dJRERQNGNnRUhHdHliOVdVaU5ZdUp3UEJIQ1hPbkhmWFBKOGxrZWFNVVlZSHFFeHpCUjJfQUlPVndMUks3MkxGaEZOZnpGcjdvSE9wcGVVS2h4eTJ1T0paeng5aXd0TVpOa2tqM3BjRWc?oc=5",
       "source": "ultimahora.com",
       "sourceDomain": null,
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
-      "title": "Nueva Asunción, un distrito planificado que emerge como un nuevo polo urbano",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSUY2enhoNzRRVDBvanFzOG5OX3hfamQzT0dzVlhnYzFBUTZVQk40c1hOUjVIOEtOekRvS0h0VmJVbm5TS21SLVBXWVB3Unh0NkllMVZlOFUxR0JIX2RaVGxtQkVOdUhZU1p2TlVlUHN2VTdHWWpyc3lvNTVBWGQzOGl0RUdzZHJTSVlpTnB3YXcxU0g1RGE4TGZVUVhsMmx3WjlxZmxFWWtEUFdxc3pISVk2Wko2aVhHaWRaU1o1Q1BDUQ?oc=5",
-      "source": "La Nación",
+      "title": "El desgaste de Bachi le abre a Zárate una chance de quedarse con Villa Hayes",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZWRFOGxpRGNHcXhjbjd0eGV4NThSSHoxb2k0OTR6QzFXRHVFZDhGU19KM2w0N3kyWW5wdE9GMWhfdmIwNWV1VGU1amNVdk5zSGs3M09ZQ3p5ejc1U2Y3aW9PQy1sN21DaXBGbi0xZUNBVlg4LTFEOHUwV25MTnVhaGxMNV9wakVCbkJUeW93cFdaVTZSVlptTEs0YXpRZl92RVFnRVBxeG90Y2d1YjJmUmxyQUh3eGt5QS1VYmI5MGdhWkZfSldTcFpLa2pjeFRVY0JiSw?oc=5",
+      "source": "La Política Online",
       "sourceDomain": null,
-      "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
+      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
-      "title": "'El príncipe de Nanawa', un documental sobre la adolescencia",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1ZIUFBsRDRSMGp5VkRXUWdWSDRmSWFwcktSV3EzNEFmNHVHYTFKZ1BMOHdjeHpmOXRVVWlHdkw5WjB0aG4xMDNUQTEydTMtcW1BSGF3SzV2V0thS2lkZU9zOEIwOG13MWtaY1gyVkExU0QyMnRtejRxOHJWc215UVVOSHlNLVNhUmlzamdWN09xV1ZwTHlVWlFXNDJkZw?oc=5",
-      "source": "ABC",
+      "title": "Proyecto de ley busca potenciar desarrollo territorial en municipios de Presidente Hayes y Central",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xbHNFb190RjloZGxBRTJmVjRPUUV2RU13TFY2U2FYamg4YWRjWFNWcnlxOV9uNHZ5dWtVRkpEZ2Y1UW1MMVBoWlBqSHV5Zk9HLWxVa2NQbU1GQzFNZUpPSQ?oc=5",
+      "source": "Cámara de Diputados del Paraguay",
       "sourceDomain": null,
-      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
-      "title": "Independiente Nanawa vs Rubio NU » Mejores Cuotas y Estadísticas",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtWmhFOUZYVERGTGxiVTlkWjZSV2RDNVZzT1paUW1xQ0l6RklvdFZ6WllLX1pYTUZYcE1XczF0R1F5c2JjNUZUb1BkcjBpZnduTElmMmJiM0MxQllDeDJtall0aWNuZFN0c3FtLVpCM2dSdlZx?oc=5",
-      "source": "Odds Scanner",
-      "sourceDomain": null,
-      "pubDate": "Thu, 07 May 2026 19:28:21 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "“El Príncipe de Nanawa”: La frontera como territorio de identidad y resistencia",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNUROTm1OS1dJNHRwNjVEQ3U1MENHVGdkdF9Zd3pIOHlwam51RUxVMThDMGpub1g4UW5HbUxkUEV0NlhmQzN3Ym45SlRnZXI4akRLRFJhY0tLV3lQOS1uMnQtdlh0R01uN1g5MklILTUxVnpfTnJGeHlMME9yc3dfSk9NZjN2eF85bENHbW13eVpsQWpsdHQzRDItUEctRXpSWmFpeFYzNHBhRHh6aDh3MWc1WGR4Tnd2RWkyYnpxbWRQM1ZjLVRPUV9lN19VQmvSAeMBQVVfeXFMTlVJTHhWV041Yy03LUREaV9NUi1HZ0d0Z3VDb1FsLXhTRERvRU1qWVBZQUljVGYtajZVRHc4bzBESzdDQzN5S2M4bmdrU0lPQ3ZRcHVYNUZMcnhLRVA4TVppRXhnS1o5NnM0LVNCRTNwSXFLMXM0VlNRd25wUzZEWFVNYnl6c2JMNlFRRFFYcEVuOWxkU1g5LVE4THdkX3ctU3BVR3Z6dnZ1bTNpMFY3eHBrbEZRUDZWSXZCOXBMWkZ6VFNDX0lFMzBmUEdkZkNZSmhqbDVzN3dxRDVXSm5IUGJYR1k?oc=5",
+      "title": "Junta de Nanawa pide a Diputados intervenir gestión del intendente Samaniego",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUHl4VUxqbDk2VE5rMVgtMTFWa1hWNTFPbzZIWmlmQlk5MkpTRGFDMm1OUDkxME5sVXNzczY0d3JIQlhybGVmV2VEczEwT0FnVklIRnJrTUc0ZUlTajBOS3VxMVIzODQxT29hZmVoRUNLOUJleG1YbzkyZ29kQnJaNXNXOXFOaTJvcEw2dHRubUNZdEFMTFRweTY5aFhVeHFSZ0hmX2lrOFdwSFFDRTJmYW04X2xtQ1ZZOGxWMdIB0AFBVV95cUxNSDZKQUYtSjRzbkJyMFBXdHFjQ2RiZG5ER08tQ2hlMTM1OGZxMnl0SGRlX0lobVhqQkFCYnp6SDBvdGxaOTN5Vzlsc0lKRDNVTWU3d0JKWEpxc2dkOTZsZHV4RW9MSkRjSFpXaE15NGlYb0RvS1otVE5RamI1WUxZMG1jXzlLWmlFSHBZWTczMl9fampvQklZVV9CNkx0aGxCcE8yNU9PbjN4QXNYZWhOeGltU1h4Y2I0bWRmN3ZrMFlLcTF6aWdVWU0tNzZ0b0I3?oc=5",
       "source": "abc.com.py",
       "sourceDomain": null,
-      "pubDate": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
-      "title": "Captura internacional: se detuvo al cuarto integrante de una organización narcocriminal que facilitaba drogas sintéticas desde Paraguay a Argentina y Chile",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFBNNzhtOUJCY1c1dEctbll6UEI5Xzc0NFR1WDUzSkt5ajRrZGEwS0pYeGJKNEc0bXlZT0ZaR0szY1VNajMya3BMWGQzZDdvOUtmTUI4Z3hUYUFwRHlXdE9mc3ZxV19FZ3hRNHJCYWxfMzFhZVVEa19KZldPelZMYWtCM2dLbDJMeGR3OTYtR3lzMnZxb1J1UnZWSld5cGE1WDdYOTNMd3plVUpjVEk5Zy0ySDRDZFdoLTBQR3FRRGZXTzI3X3d3?oc=5",
-      "source": "Argentina.gob.ar",
+      "title": "Imputan por homicidio doloso a pareja que habría quemado a una joven en Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGk3cWk5MmpzeWdETHRGeFJkMFdQMkhWMG1YYy1YREF5VFB2YU1MU1JWMWZ2WlZkV1V6b1MzdkdOX1ljVWlBbjhPWk9BQjBnbXltSG5WWF9MTktXaW5QS3dPRUo4Ym8zNmhlVm9TVFU0czhVN0JQZkpqLWRWOVk3VEFRUUZWLWhkNlMtV05wc3VIaGV3SHdHMGJlWnJLbDZtMFJCT1pWMDJPMkxvYXFWT2FsRE9BWGJDc3g0RzR3Vng?oc=5",
+      "source": "La Nación",
       "sourceDomain": null,
-      "pubDate": "Sat, 13 Dec 2025 08:00:00 GMT",
+      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
-      "title": "Joven clorindense murió calcinada en Nanawa: investigan un incendio intencional tras una discusión por celos",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQjk3bDR1b1Y0OGJRU3VId0cwdi15WktvQ3UzTlA0alNmTXZzZXljSHBkSk5vel9CbldVbGJtTWJjOWNoYk53UTVsVDNRTFI3eVZtYVEzS0dYdnk0d0d0TjZfNk5Ldl9Sd1hJZXFqam9WUl9jcDRfZzJrUzM0WGt5RUhpQTBVN0ZuNWEwdElWUC1pZjdjUkpWejctZDE0ZDlicVpuQ1I4UFRlR3pma2EteDZmWjJEdzV3OFY0c3k0V1dBbFNlZHl6T05sUl9fdk1TOGc1eEM5b2lwRTJPMTM4TFp3?oc=5",
-      "source": "Prensa Libre Formosa",
+      "title": "Mujer es sospechosa de matar a actual concubina de su ex pareja",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRjFTSkt0dkV6WW05dWg4NFhHUXdrWFo0cV9mM3pfSC1hakwwOEl0MkpoaVlOUkl2aFU5Sm1McmM5SUhiMjdmbTZ6UUs1SDdXajZrYmR4aUJPNUNEQ1NVVnZkWFRqdXJrNTE4SlZybnNua0NqQ2NlSmN4U0RPWll0Qi1aVElmUTZ6dGxjRVhfWHhmYzBqSnZFTkFB?oc=5",
+      "source": "adndigital.com.py",
       "sourceDomain": null,
       "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
-      "title": "El incesante movimiento con destino a Nanawa contrasta con la quietud en negocios de Clorinda - Diario La Mañana",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR0ZIRWJNdUo5Smw3YVFGWUlDT2c4cW5KYVc2V3gwcGVTOHI5aENxXzUzVTRLUmh3ajgzUEhyR0ZvUS11LUJJLXdHMzNJdHNZdFplRW1CMXdIbTR0SFNJbW9maXlzVlZ1M0JvOEhOaXhlRVZ3cElIWFlJb3pjWEdUNDVDMnpDX1FCeFFkbTlRVnJiSUc0aVdDOG1YcWlnellhcVlyTUFPNFAyNWlKekN6RUk3UjYxN3pPTnFKWmkzaWc0QXlQVTNGODhhYzlLRHBNdUVicDB2TFg5TGctWTlaMkhNcw?oc=5",
-      "source": "Diario La Mañana - La verdad en tus manos",
+      "title": "Fiscalía imputó a los presuntos asesinos de una joven argentina en Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGNRcC1jWHZZQmFHOFlmeUQxcXIwRkdELTMzUEdnRVlxLWkzNkxiRmpRNnJOM284eXRxdWtRYVJycDdGcXUzelgxY21LbVE0Rm5lbHp5bm85Uk9faGx4aWRjSlhnblRHUU5ZUmRuY2F1bDY5RGJKNS1ZUFI5dXFlY0xDTTQ5UExOXzhEa2JqNnJwLXIxVFJVUHpkQTcxSmpwUTEyVTFaZkxXUnJ5SVZSSmh3UzlORHBicVdv0gHPAUFVX3lxTFBzT1hDa2lyMmkzWTBzX20xbmkwU2VXOHZMNUMxckRXTnpOOXlnZTQxOXZlbmhrTFJRTU5KVnZuX2JnWE5aUV90cTlVVENOdTN6di1YdE8tWmlleVFFSzRvLXg4by1kZDRLcWxENVZNcS1iWGdGcFB0SHhub2FlVS1xTHFyWmlpVHZCXzJCVmpsdVhNdjZwSHVja0lUenh4VjJXRjdFMVJndmZJampodGlWdFNkQ1lXZUpSdEEtY1hscjZ2bEtwcDVjb1g0Sm9jVQ?oc=5",
+      "source": "abc.com.py",
       "sourceDomain": null,
-      "pubDate": "Sat, 15 Nov 2025 08:00:00 GMT",
+      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
-      "title": "Un hombre se precipitó desde el puente Nanawa y desapareció en aguas del río Paraguay",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlNFUDNjcjZYcjh0OWR0QnF6Ni0tWEwtREVHOEt0aFIzVUZMVUVESkNDU2pkTGd6YjlabFo4bWJROFhmLVNLTjBfVl9QQmxxVjNtOWkxWXVvQzQwbnVaTDVqd1hFbE8wN01OemVCNTI2YlRfc1YtOHdvTVhRTDV5RUZacmdpWThhdzkzQUFjdVB5SVBUWWhiZmVGV1lLNEgzNGZOS09uYWdXLXhpVEF0SDdjQzBDWW92YTZmNU1DNFpBQVBSd0JFY2xB?oc=5",
-      "source": "La Nación",
+      "title": "Joven muere calcinada en supuesto ataque de una mujer a su ex pareja",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUTVGNHpsYjl5d0JUdWs5MGxYam55YkxKS1ZTVlZBc1BvSlpPQy1GdE1qVWRoMjNEV2VFREo0anNDcFFfYVgyVzNFRjlYUmRYUVQ1MjlvMDd6VEZHbFVJOEJwX3liUWloS24zWDVOVDBBUGtRNU9EdGFqZnNBeDFXbFN5cklRWjlSeEx3blZ1UnB6ejJlQnJKT3RXVdIBqAFBVV95cUxNd2JYeEZ3bXhkbEFVVnZlcmtfNEJDeW5mYkN6SGowU21BMnNwWXRoWXJvVnVsN2pSRjlsdFJpc2V2d0Z0REhTSUlxYzloa1FDYzNSUkdEYjJhM05uMFd3Yi1sMmdnUlkteEdtTFA1bjltOUZacG9GV3JnQkhzLURVcUpuenF4YkJkU29CVmFIYzVveXhvRS1ZYjBkVjQ3X21EX1FUQl95OUM?oc=5",
+      "source": "ultimahora.com",
       "sourceDomain": null,
-      "pubDate": "Sat, 29 Nov 2025 08:00:00 GMT",
+      "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {

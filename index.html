@@ -106,6 +106,20 @@
     background:linear-gradient(120deg, #ffffff 0%, var(--cyan) 55%, var(--violet) 100%);
     -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent;
     filter:drop-shadow(0 0 22px rgba(47,227,224,0.35));
+    animation:wordmarkPulse 2.6s ease-in-out infinite;
+  }
+  @keyframes wordmarkPulse{
+    0%, 100%{
+      filter:drop-shadow(0 0 16px rgba(47,227,224,0.3));
+      opacity:1;
+    }
+    50%{
+      filter:drop-shadow(0 0 38px rgba(47,227,224,0.75)) drop-shadow(0 0 60px rgba(139,107,255,0.4));
+      opacity:0.92;
+    }
+  }
+  @media (prefers-reduced-motion: reduce){
+    .wordmark{ animation:none; }
   }
   .edition-tag{
     font-family:'Space Mono', monospace;
@@ -600,10 +614,8 @@
 </section>
 
 <nav class="strip" id="filterStrip">
-  <button class="chip active" data-filter="all">Todas</button>
+  <button class="chip active" data-filter="pais">País</button>
   <button class="chip" data-filter="barrio">Barrio</button>
-  <button class="chip" data-filter="pais">País</button>
-  <button class="chip" data-filter="seguridad">Seguridad</button>
   <span class="chip-sep"></span>
   <a class="chip chip-link" href="https://news.google.com/topics/CAAqLAgKIiZDQkFTRmdvSUwyMHZNRGx1YlY4U0JtVnpMVFF4T1JvQ1ZWTW9BQVAB?ceid=US:es-419&oc=3" target="_blank" rel="noopener">
     Internacional
@@ -650,9 +662,8 @@ function faviconFor(domain){
 }
 
 const SECTIONS = [
-  {key:"barrio", label:"Barrio", kicker:"Cerca de casa"},
   {key:"pais", label:"País", kicker:"Lo nacional"},
-  {key:"seguridad", label:"Seguridad", kicker:"Alerta ciudadana"}
+  {key:"barrio", label:"Barrio", kicker:"Cerca de casa"}
 ];
 
 // Datos de respaldo por si news.json aún no cargó o el archivo se abrió sin servidor.
@@ -661,7 +672,7 @@ const FALLBACK_NEWS = {
   items: [
     { title:"Plaza Herminio Giménez se transforma gracias a una alianza entre la Municipalidad y los vecinos de Mariscal López", source:"Municipalidad de Asunción", sourceDomain:"asuncion.gov.py", link:"https://www.asuncion.gov.py", category:"barrio" },
     { title:"Nivel del río Paraguay volvió a bajar en Asunción y otros puntos", source:"La Nación", sourceDomain:"lanacion.com.py", link:"https://www.lanacion.com.py", category:"pais" },
-    { title:"Destruyen más de 25 toneladas de marihuana en Amambay", source:"Diario HOY", sourceDomain:"hoy.com.py", link:"https://www.hoy.com.py", category:"seguridad" }
+    { title:"Destruyen más de 25 toneladas de marihuana en Amambay", source:"Diario HOY", sourceDomain:"hoy.com.py", link:"https://www.hoy.com.py", category:"pais" }
   ]
 };
 
@@ -878,7 +889,7 @@ async function boot(){
     : "Fuente en vivo · mismo enlace cada día";
 
   buildConstellation(NEWS.items);
-  render('all');
+  render('pais');
 }
 boot();
 </script>

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T17:36:39.775Z",
+  "generatedAt": "2026-07-16T10:48:02.947Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -8,14 +8,6 @@
     "Diario HOY"
   ],
   "items": [
-    {
-      "title": "Presidente Hayes conoció a los campeones del portal del chaco",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2s2X0h6UkV1ODVGRFhCR0czbVBsLWhaa1czMlZ0RHlfZXJ4cFJSY0J0OEprdF9YMnNTTXVWZ1F4dWVGS19sZWVCY3lPNHFHWlZhU0JtbnY2V0QzSU54TWt6Zko5QWgxV3lJUzhNRjNqWmUtQlJOWTl0Y3pKOFJhTEZfUkdFUlFKRzhCdjNn?oc=5",
-      "source": "Secretaria Nacional de Deportes – SND",
-      "sourceDomain": null,
-      "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
     {
       "title": "No hay respuestas a denuncias contra el intendente de Nanawa",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0FaT1VvdWlpbnktbXNaS3ZEYmpaaVNoQlZrRTlqN2hJZW1lempib1JRUGUyNVJyQ2hKVlZKeDEwWjVBNTlEd0ItRTJZcmJNT3c2eG5FdHhBc2k0WDNhUnphSF9mUEZxRE51X1Y1aVhsdnJGUzRoVHBmcDM5M2o1a0ZIM2JBajM0QUhsVC1DYmfSAZ4BQVVfeXFMT3ZyWF9sT3BGc2o5Q1VRQ1IyQm9Hb2FHbWh0SXVZRW13UU9ETkpFOXNkWEJza1dJRERQNGNnRUhHdHliOVdVaU5ZdUp3UEJIQ1hPbkhmWFBKOGxrZWFNVVlZSHFFeHpCUjJfQUlPVndMUks3MkxGaEZOZnpGcjdvSE9wcGVVS2h4eTJ1T0paeng5aXd0TVpOa2tqM3BjRWc?oc=5",
@@ -41,6 +33,22 @@
       "category": "barrio"
     },
     {
+      "title": "Joven corrige datos sobre Beterete Cue",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTYtSlpCZWZLNjZJVGFfM3ZCQzdLREZKZHVDanUweWtJaHJBYThJQjJmd015UWpiMDZrc1dYVEh1SHRRVHN3ZFpNWE1XU1FXRERzWjJLT3FVbHQxZzNkZ1IzUzhJVTVtRVpqWWJGZjBCeTNIVXM1RmNIR0g2LUg0NzMzdnd4Ni1IUXhDcEkzTl9YUjNITUpWMnIwTGdoNnBD?oc=5",
+      "source": "La Nación",
+      "sourceDomain": null,
+      "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "JEEN ya se juegan en diversos puntos del país",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mem9vNGpmWk00Njl4OUFBV2hJcW9iM1hnQzRETjNwRzNDNjhtMk9UWHE0ZDZ0NGZwX2Z2OFlqSk5KQVAzTnFiUGpYanFJdVdTdUJUQUZJdXc5OFZ5VjBpZGtmRDNZcTlzRVRrTlg4QnRnOEJWU1RCaQ?oc=5",
+      "source": "Secretaria Nacional de Deportes – SND",
+      "sourceDomain": null,
+      "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
       "title": "Junta de Nanawa pide a Diputados intervenir gestión del intendente Samaniego",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUHl4VUxqbDk2VE5rMVgtMTFWa1hWNTFPbzZIWmlmQlk5MkpTRGFDMm1OUDkxME5sVXNzczY0d3JIQlhybGVmV2VEczEwT0FnVklIRnJrTUc0ZUlTajBOS3VxMVIzODQxT29hZmVoRUNLOUJleG1YbzkyZ29kQnJaNXNXOXFOaTJvcEw2dHRubUNZdEFMTFRweTY5aFhVeHFSZ0hmX2lrOFdwSFFDRTJmYW04X2xtQ1ZZOGxWMdIB0AFBVV95cUxNSDZKQUYtSjRzbkJyMFBXdHFjQ2RiZG5ER08tQ2hlMTM1OGZxMnl0SGRlX0lobVhqQkFCYnp6SDBvdGxaOTN5Vzlsc0lKRDNVTWU3d0JKWEpxc2dkOTZsZHV4RW9MSkRjSFpXaE15NGlYb0RvS1otVE5RamI1WUxZMG1jXzlLWmlFSHBZWTczMl9fampvQklZVV9CNkx0aGxCcE8yNU9PbjN4QXNYZWhOeGltU1h4Y2I0bWRmN3ZrMFlLcTF6aWdVWU0tNzZ0b0I3?oc=5",
       "source": "abc.com.py",
@@ -49,19 +57,19 @@
       "category": "barrio"
     },
     {
-      "title": "Imputan por homicidio doloso a pareja que habría quemado a una joven en Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGk3cWk5MmpzeWdETHRGeFJkMFdQMkhWMG1YYy1YREF5VFB2YU1MU1JWMWZ2WlZkV1V6b1MzdkdOX1ljVWlBbjhPWk9BQjBnbXltSG5WWF9MTktXaW5QS3dPRUo4Ym8zNmhlVm9TVFU0czhVN0JQZkpqLWRWOVk3VEFRUUZWLWhkNlMtV05wc3VIaGV3SHdHMGJlWnJLbDZtMFJCT1pWMDJPMkxvYXFWT2FsRE9BWGJDc3g0RzR3Vng?oc=5",
-      "source": "La Nación",
-      "sourceDomain": null,
-      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
       "title": "Mujer es sospechosa de matar a actual concubina de su ex pareja",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRjFTSkt0dkV6WW05dWg4NFhHUXdrWFo0cV9mM3pfSC1hakwwOEl0MkpoaVlOUkl2aFU5Sm1McmM5SUhiMjdmbTZ6UUs1SDdXajZrYmR4aUJPNUNEQ1NVVnZkWFRqdXJrNTE4SlZybnNua0NqQ2NlSmN4U0RPWll0Qi1aVElmUTZ6dGxjRVhfWHhmYzBqSnZFTkFB?oc=5",
       "source": "adndigital.com.py",
       "sourceDomain": null,
       "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Imputan por homicidio doloso a pareja que habría quemado a una joven en Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGk3cWk5MmpzeWdETHRGeFJkMFdQMkhWMG1YYy1YREF5VFB2YU1MU1JWMWZ2WlZkV1V6b1MzdkdOX1ljVWlBbjhPWk9BQjBnbXltSG5WWF9MTktXaW5QS3dPRUo4Ym8zNmhlVm9TVFU0czhVN0JQZkpqLWRWOVk3VEFRUUZWLWhkNlMtV05wc3VIaGV3SHdHMGJlWnJLbDZtMFJCT1pWMDJPMkxvYXFWT2FsRE9BWGJDc3g0RzR3Vng?oc=5",
+      "source": "La Nación",
+      "sourceDomain": null,
+      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -81,131 +89,131 @@
       "category": "barrio"
     },
     {
-      "title": "Edición especial de”Asunción, Hoteles con Historia”",
-      "link": "https://www.popular.com.py/2026/07/15/edicion-especial-deasuncion-hoteles-con-historia/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 15 Jul 2026 17:25:53 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Mundial de Rally: el sector hotelero reporta que las reservas ya alcanzan el 70% de la capacidad en Itapúa",
-      "link": "https://www.abc.com.py/nacionales/2026/07/15/mundial-de-rally-el-sector-hotelero-reporta-que-las-reservas-ya-alcanzan-el-70-de-la-capacidad-en-itapua/",
+      "title": "Identidad digital del Mercosur: qué cambia para los paraguayos tras el acuerdo regional",
+      "link": "https://www.abc.com.py/nacionales/2026/07/16/identidad-digital-del-mercosur-que-cambia-para-los-paraguayos-tras-el-acuerdo-regional/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 15 Jul 2026 17:07:17 +0000",
+      "pubDate": "Thu, 16 Jul 2026 10:28:31 +0000",
       "category": "pais"
     },
     {
-      "title": "(GALERÍA) ¡Tony Sanabria se mostró como buen papacito con sus hijas en Nueva York!",
-      "link": "https://www.popular.com.py/2026/07/15/galeria-tony-sanabria-se-mostro-como-buen-papacito-con-sus-hijas-en-nueva-york/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 15 Jul 2026 17:04:13 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Guarambaré: médico naturista muere tras sufrir grave golpe en la cabeza",
-      "link": "https://www.abc.com.py/policiales/2026/07/15/guarambare-medico-naturista-muere-tras-sufrir-grave-golpe-en-la-cabeza/",
+      "title": "“Viento tarova” podría alcanzar los 90 km/h: este es el origen del fenómeno",
+      "link": "https://www.abc.com.py/clima/2026/07/16/viento-tarova-podria-alcanzar-los-90-kmh-este-es-el-origen-del-fenomeno/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 15 Jul 2026 16:55:22 +0000",
+      "pubDate": "Thu, 16 Jul 2026 10:13:51 +0000",
       "category": "pais"
     },
     {
-      "title": "Detienen a hombre señalado por abusar de una mujer con cáncer terminal y de sus dos hijas",
-      "link": "https://www.abc.com.py/policiales/2026/07/15/detienen-a-hombre-senalado-por-abusar-de-una-mujer-con-cancer-terminal-y-de-sus-dos-hijas/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 15 Jul 2026 16:41:05 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "¿Qué dijo Celeste Amarilla en su  intervención tras la eliminación de Francia y la polémica con Mbappé?",
-      "link": "https://www.abc.com.py/politica/2026/07/15/que-dijo-celeste-amarilla-en-su-primera-intervencion-tras-la-eliminacion-de-francia-y-la-polemica-con-mbappe/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 15 Jul 2026 16:21:38 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Liberación: imputan a conductor de camión que transportaba marihuana en San Pedro",
-      "link": "https://www.abc.com.py/policiales/2026/07/15/liberacion-imputan-a-conductor-de-camion-que-transportaba-marihuana-en-san-pedro/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 15 Jul 2026 16:17:21 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Exportaciones paraguayas de maquila crecen 25% y hasta junio alcanzaron US$ 717 millones",
-      "link": "https://www.abc.com.py/economia/2026/07/15/exportaciones-de-maquila-en-paraguay-crecen-25-y-hasta-junio-alcanzan-us-717-millones/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 15 Jul 2026 16:15:11 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "INE busca incorporar registros administrativos en los censos",
-      "link": "https://www.abc.com.py/nacionales/2026/07/15/ine-busca-incorporar-registros-administrativos-en-los-censos/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 15 Jul 2026 16:11:10 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Exdoña de Miguelito Narváez: “Yo perdonaría una infidelidad, lo que no perdono es la mentira”",
-      "link": "https://www.popular.com.py/2026/07/15/exdona-de-miguelito-narvaez-yo-perdonaria-una-infidelidad-lo-que-no-perdono-es-la-mentira/",
+      "title": "(VIDEO) ¡Ingueroviable! Le quitaron la roja y el pito a arbitro que terminó detenido en plena cancha",
+      "link": "https://www.popular.com.py/2026/07/16/video-ingueroviable-le-quitaron-la-roja-y-el-pito-a-arbitro-que-termino-detenido-en-plena-cancha/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 15 Jul 2026 16:09:37 +0000",
+      "pubDate": "Thu, 16 Jul 2026 10:03:36 +0000",
       "category": "pais"
     },
     {
-      "title": "Tuvo que viajar 350 kilómetros para realizar la cedulación de abuelitos en Fuerte Olimpo",
-      "link": "https://www.abc.com.py/nacionales/chaco/2026/07/15/tuvo-que-viajar-350-kilometros-para-realizar-la-cedulacion-de-abuelitos-en-fuerte-olimpo/",
+      "title": "MEF reglamenta el uso del Siara para rendiciones de cuentas de organizaciones sin fines de lucro",
+      "link": "https://www.abc.com.py/economia/2026/07/16/mef-reglamenta-el-uso-del-siara-para-rendiciones-de-cuentas-de-organizaciones-sin-fines-de-lucro/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 15 Jul 2026 16:02:51 +0000",
+      "pubDate": "Thu, 16 Jul 2026 10:00:00 +0000",
       "category": "pais"
     },
     {
-      "title": "Diana Recalde busca “recuperar orgullo” de vivir en Villa Elisa",
-      "link": "https://www.popular.com.py/2026/07/15/diana-recalde-busca-recuperar-orgullo-de-vivir-en-villa-elisa/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 15 Jul 2026 16:01:01 +0000",
+      "title": "Preocupa a almaceneros el aumento de compras ‘fiadas’",
+      "link": "https://www.abc.com.py/economia/2026/07/16/preocupa-a-almaceneros-el-aumento-del-tarjeteo-y-el-fiado/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Thu, 16 Jul 2026 09:53:54 +0000",
       "category": "pais"
     },
     {
-      "title": "Colorados cierran filas en Asu: “La familia está unida”, destacó Latorre",
-      "link": "https://www.popular.com.py/2026/07/15/colorados-cierran-filas-en-asu-la-familia-esta-unida-destaco-latorre/",
+      "title": "¡Peloteros albirrojos declarados ciudadanos ilustres de Central!",
+      "link": "https://www.popular.com.py/2026/07/16/peloteros-albirrojos-declarados-ciudadanos-ilustres-de-central/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 15 Jul 2026 16:00:29 +0000",
+      "pubDate": "Thu, 16 Jul 2026 09:29:12 +0000",
       "category": "pais"
     },
     {
-      "title": "Meteorología ou hína yvytu tarova de hasta 80 km/h",
-      "link": "https://www.popular.com.py/2026/07/15/meteorologia-ou-hina-yvytu-tarova-de-hasta-80-km-h/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 15 Jul 2026 14:53:15 +0000",
+      "title": "Clima en Paraguay: ambiente cálido y alerta de vientos fuertes",
+      "link": "https://www.abc.com.py/clima/2026/07/16/clima-en-paraguay-ambiente-calido-y-alerta-de-vientos-fuertes/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Thu, 16 Jul 2026 08:26:56 +0000",
       "category": "pais"
     },
     {
-      "title": "¡Cayó “Choco”, el machetero que tenía en zozobra a todo un barrio!",
-      "link": "https://www.popular.com.py/2026/07/15/cayo-choco-el-machetero-que-tenia-en-zozobra-a-todo-un-barrio/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 15 Jul 2026 14:52:28 +0000",
+      "title": "Limpio: se hizo pasar por compradora de su celular robado y logró la captura del presunto ladrón",
+      "link": "https://www.abc.com.py/policiales/2026/07/16/limpio-se-hizo-pasar-por-compradora-de-su-celular-robado-y-logro-la-captura-del-presunto-ladron/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Thu, 16 Jul 2026 04:01:46 +0000",
       "category": "pais"
     },
     {
-      "title": "Cayó un buscado internacional por ąɓũşō şɘ✕ũą|",
-      "link": "https://www.popular.com.py/2026/07/15/cayo-un-buscado-internacional-por-abuso-sexual/",
+      "title": "Más de US$ 9.000 millones de Bonos Soberanos colocados entre 2013 y 2026",
+      "link": "https://www.abc.com.py/economia/2026/07/16/mas-de-us-9000-millones-de-bonos-soberanos-colocados-entre-2013-y-2026/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Thu, 16 Jul 2026 04:00:01 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Video: incendio en depósito de bomberos bajo el viaducto de Madame Lynch",
+      "link": "https://www.abc.com.py/nacionales/2026/07/15/video-incendio-en-deposito-de-bomberos-bajo-el-viaducto-de-madame-lynch/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Thu, 16 Jul 2026 02:57:51 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Ojepillá: Narcos oñemytŷ en plena reserva del Mbaracayú",
+      "link": "https://www.popular.com.py/2026/07/15/ojepilla-narcos-onemyti-en-plena-reserva-del-mbaracayu/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 15 Jul 2026 14:51:46 +0000",
+      "pubDate": "Thu, 16 Jul 2026 01:06:58 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "La cantante Fabu Olmedo estalló porque usaron su canción sin permiso",
+      "link": "https://www.popular.com.py/2026/07/15/la-cantante-fabu-olmedo-estallo-porque-usaron-su-cancion-sin-permiso/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Wed, 15 Jul 2026 21:27:03 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "¡Lo dio vuelta! ¡Argentina jugará la final contra España!",
+      "link": "https://www.popular.com.py/2026/07/15/lo-dio-vuelta-argentina-jugara-la-final-contra-espana/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Wed, 15 Jul 2026 21:14:28 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Fio Zaracho: “Ya no vende más tanto mostrar mucho”",
+      "link": "https://www.popular.com.py/2026/07/15/fio-zaracho-ya-no-vende-mas-tanto-mostrar-mucho/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Wed, 15 Jul 2026 21:00:18 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "“Cuando todos copian, el original domina” dijo la diosa de Dubái",
+      "link": "https://www.popular.com.py/2026/07/15/cuando-todos-copian-el-original-domina-dijo-la-diosa-de-dubai/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Wed, 15 Jul 2026 19:49:46 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "“Como pecás pagás y como escupís tragás” dijo la sexy Ainara",
+      "link": "https://www.popular.com.py/2026/07/15/como-pecas-pagas-y-como-escupis-tragas-dijo-la-sexy-ainara/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Wed, 15 Jul 2026 19:27:58 +0000",
       "category": "pais"
     },
     {

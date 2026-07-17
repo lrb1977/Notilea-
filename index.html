@@ -203,6 +203,77 @@
       transform:scale(1.035);
     }
   }
+  .dhm-badge{
+    display:inline-flex !important;
+    align-items:center;
+    gap:6px;
+    color:#FFC9C9 !important;
+    background:rgba(255,40,40,0.14) !important;
+    border:1px solid rgba(255,70,70,0.6) !important;
+    animation:dhmPulse 1.3s ease-in-out infinite;
+  }
+  @keyframes dhmPulse{
+    0%, 100%{
+      box-shadow:0 0 6px rgba(255,50,50,0.4);
+      border-color:rgba(255,70,70,0.6);
+      transform:scale(1);
+    }
+    50%{
+      box-shadow:0 0 24px rgba(255,50,50,0.95), 0 0 46px rgba(255,50,50,0.35);
+      border-color:rgba(255,140,140,1);
+      transform:scale(1.045);
+    }
+  }
+  @media (prefers-reduced-motion: reduce){
+    .dhm-badge{ animation:none; }
+  }
+  .dhm-count{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    min-width:16px;
+    height:16px;
+    padding:0 4px;
+    border-radius:100px;
+    background:#FF3B30;
+    color:#fff;
+    font-size:10px;
+    font-weight:700;
+  }
+  .dhm-count.is-zero{
+    background:rgba(255,255,255,0.12);
+    color:var(--text-dim);
+  }
+  .dhm-time{
+    font-size:9.5px;
+    color:#FFC9C9;
+    opacity:0.85;
+  }
+  .dhm-frame-wrap{
+    position:relative;
+    width:100%;
+    height:56vh;
+    border-radius:10px;
+    overflow:hidden;
+    border:1px solid var(--line);
+    background:#0a0e18;
+  }
+  .dhm-frame{
+    width:100%; height:100%;
+    border:0;
+    background:#fff;
+  }
+  .dhm-frame-fallback{
+    position:absolute;
+    bottom:0; left:0; right:0;
+    padding:10px 14px;
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    color:var(--text-dim);
+    background:linear-gradient(0deg, rgba(10,14,24,0.92), transparent);
+    pointer-events:none;
+  }
+
   .nino-list{
     display:flex;
     flex-direction:column;
@@ -610,6 +681,28 @@
   </div>
 </div>
 
+<div class="overlay" id="dhmOverlay">
+  <div class="modal dhm-modal" id="dhmModal">
+    <button class="modal-close" id="dhmClose" aria-label="Cerrar">✕</button>
+    <div class="modal-top">
+      <div class="src-badge" style="background:rgba(255,59,48,0.15); border-color:rgba(255,59,48,0.5);">🚨</div>
+      <div class="modal-meta">
+        <div style="font-family:'Rajdhani',sans-serif; font-weight:700; font-size:18px; color:#FF6B6B;">Avisos DHM en vivo</div>
+        <span>Dirección de Meteorología e Hidrología · Paraguay</span>
+      </div>
+    </div>
+    <div class="dhm-frame-wrap">
+      <iframe id="dhmFrame" class="dhm-frame" src="about:blank" title="Avisos meteorológicos DHM" loading="lazy"></iframe>
+      <div class="dhm-frame-fallback" id="dhmFallback">
+        Si no ves los avisos cargar acá abajo, abrilos directo en la página oficial.
+      </div>
+    </div>
+    <div class="modal-actions" style="margin-top:14px;">
+      <a href="https://www.meteorologia.gov.py/avisos/" target="_blank" rel="noopener" class="btn-primary">Abrir página del DHM →</a>
+    </div>
+  </div>
+</div>
+
 <section class="hero">
   <div class="hero-copy">
     <span class="eyebrow">Red de fuentes conectadas</span>
@@ -627,6 +720,11 @@
 <nav class="strip" id="filterStrip">
   <button class="chip active" data-filter="pais">País</button>
   <button class="chip" data-filter="barrio">Barrio</button>
+  <button class="chip dhm-badge" id="dhmBadge" type="button">
+    🚨 DHM ALERTAS
+    <span class="dhm-count" id="dhmCount">0</span>
+    <span class="dhm-time" id="dhmTime">--:--</span>
+  </button>
   <span class="chip-sep"></span>
   <a class="chip chip-link" href="https://news.google.com/topics/CAAqLAgKIiZDQkFTRmdvSUwyMHZNRGx1YlY4U0JtVnpMVFF4T1JvQ1ZWTW9BQVAB?ceid=US:es-419&oc=3" target="_blank" rel="noopener">
     Internacional
@@ -791,7 +889,7 @@ modalShare.addEventListener('click', ()=>{
 
 document.getElementById('filterStrip').addEventListener('click', e=>{
   const chip = e.target.closest('.chip');
-  if(!chip || chip.classList.contains('chip-link')) return;
+  if(!chip || chip.classList.contains('chip-link') || chip.classList.contains('dhm-badge')) return;
   document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active'));
   chip.classList.add('active');
   render(chip.dataset.filter);
@@ -914,6 +1012,54 @@ document.getElementById('ninoBadge').addEventListener('click', ()=>{
 document.getElementById('ninoClose').addEventListener('click', ()=> ninoOverlay.classList.remove('open'));
 ninoOverlay.addEventListener('click', e=>{ if(e.target===ninoOverlay) ninoOverlay.classList.remove('open'); });
 document.addEventListener('keydown', e=>{ if(e.key==='Escape') ninoOverlay.classList.remove('open'); });
+
+// --- Panel de alertas del DHM (en vivo, carga la página oficial al abrir) ---
+async function loadDhmBadge(){
+  const countEl = document.getElementById('dhmCount');
+  const timeEl = document.getElementById('dhmTime');
+  if(!countEl || !timeEl) return;
+  try{
+    const res = await fetch('./dhm-alertas.json', {cache:'no-store'});
+    if(!res.ok) throw new Error('sin datos');
+    const data = await res.json();
+    const count = Number(data.count) || 0;
+    countEl.textContent = count;
+    countEl.classList.toggle('is-zero', count === 0);
+    timeEl.textContent = data.checkedAt
+      ? new Intl.DateTimeFormat('es-PY', {hour:'2-digit', minute:'2-digit', timeZone:'America/Asuncion'}).format(new Date(data.checkedAt))
+      : "--:--";
+  }catch(e){
+    countEl.textContent = "0";
+    countEl.classList.add('is-zero');
+    timeEl.textContent = "--:--";
+  }
+}
+loadDhmBadge();
+setInterval(loadDhmBadge, 15 * 60 * 1000); // revisa el archivo cada 15 min sin recargar la página
+
+const dhmOverlay = document.getElementById('dhmOverlay');
+const dhmFrame = document.getElementById('dhmFrame');
+document.getElementById('dhmBadge').addEventListener('click', ()=>{
+  dhmOverlay.classList.add('open');
+  // Recarga el iframe cada vez que se abre, para traer el estado actual.
+  dhmFrame.src = "https://www.meteorologia.gov.py/avisos/?t=" + Date.now();
+});
+document.getElementById('dhmClose').addEventListener('click', ()=>{
+  dhmOverlay.classList.remove('open');
+  dhmFrame.src = "about:blank";
+});
+dhmOverlay.addEventListener('click', e=>{
+  if(e.target===dhmOverlay){
+    dhmOverlay.classList.remove('open');
+    dhmFrame.src = "about:blank";
+  }
+});
+document.addEventListener('keydown', e=>{
+  if(e.key==='Escape' && dhmOverlay.classList.contains('open')){
+    dhmOverlay.classList.remove('open');
+    dhmFrame.src = "about:blank";
+  }
+});
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {

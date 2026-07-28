@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-07-28T11:11:45.939Z",
+  "checkedAt": "2026-07-28T13:49:52.440Z",
   "sourceUrl": "https://www.meteorologia.gov.py/avisos/",
   "count": 0,
   "alerts": [],
-  "error": "URL is not a constructor"
+  "error": "fetch failed"
 }

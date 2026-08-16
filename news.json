@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T09:14:24.320Z",
+  "generatedAt": "2026-08-16T09:16:14.804Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -9,19 +9,19 @@
   ],
   "items": [
     {
-      "title": "El desgaste de Bachi le abre a Zárate una chance de quedarse con Villa Hayes",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZWRFOGxpRGNHcXhjbjd0eGV4NThSSHoxb2k0OTR6QzFXRHVFZDhGU19KM2w0N3kyWW5wdE9GMWhfdmIwNWV1VGU1amNVdk5zSGs3M09ZQ3p5ejc1U2Y3aW9PQy1sN21DaXBGbi0xZUNBVlg4LTFEOHUwV25MTnVhaGxMNV9wakVCbkJUeW93cFdaVTZSVlptTEs0YXpRZl92RVFnRVBxeG90Y2d1YjJmUmxyQUh3eGt5QS1VYmI5MGdhWkZfSldTcFpLa2pjeFRVY0JiSw?oc=5",
-      "source": "La Política Online",
-      "sourceDomain": null,
-      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
       "title": "No hay respuestas a denuncias contra el intendente de Nanawa",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0FaT1VvdWlpbnktbXNaS3ZEYmpaaVNoQlZrRTlqN2hJZW1lempib1JRUGUyNVJyQ2hKVlZKeDEwWjVBNTlEd0ItRTJZcmJNT3c2eG5FdHhBc2k0WDNhUnphSF9mUEZxRE51X1Y1aVhsdnJGUzRoVHBmcDM5M2o1a0ZIM2JBajM0QUhsVC1DYmfSAZ4BQVVfeXFMT3ZyWF9sT3BGc2o5Q1VRQ1IyQm9Hb2FHbWh0SXVZRW13UU9ETkpFOXNkWEJza1dJRERQNGNnRUhHdHliOVdVaU5ZdUp3UEJIQ1hPbkhmWFBKOGxrZWFNVVlZSHFFeHpCUjJfQUlPVndMUks3MkxGaEZOZnpGcjdvSE9wcGVVS2h4eTJ1T0paeng5aXd0TVpOa2tqM3BjRWc?oc=5",
       "source": "ultimahora.com",
       "sourceDomain": null,
       "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "El desgaste de Bachi le abre a Zárate una chance de quedarse con Villa Hayes",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZWRFOGxpRGNHcXhjbjd0eGV4NThSSHoxb2k0OTR6QzFXRHVFZDhGU19KM2w0N3kyWW5wdE9GMWhfdmIwNWV1VGU1amNVdk5zSGs3M09ZQ3p5ejc1U2Y3aW9PQy1sN21DaXBGbi0xZUNBVlg4LTFEOHUwV25MTnVhaGxMNV9wakVCbkJUeW93cFdaVTZSVlptTEs0YXpRZl92RVFnRVBxeG90Y2d1YjJmUmxyQUh3eGt5QS1VYmI5MGdhWkZfSldTcFpLa2pjeFRVY0JiSw?oc=5",
+      "source": "La Política Online",
+      "sourceDomain": null,
+      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -81,139 +81,131 @@
       "category": "barrio"
     },
     {
-      "title": "Nuevo puente Pararã, a un paso de su inauguración, promete transformar la conectividad en el Bajo Chaco",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS2ROdzNyb2U1RlFTR3RfUmJ4Z1RwdVgwb2ZGa0dubDBSVjJ3UzVUWHVCZjA5QXpfV2NubzVmaDZIal9qeElJaDBmOHdhbjhoX3FsTC1XYzFMbXRud1VCR0R3YVI0T3NmTmJleGppQVNpVm9SUGk0MjZaVDBnY1VVTEhrVjRJalFsQ0V2OENDMElJTl9nM0M0dGNfdzRWc2xwM3ZYZXNYdW5zRG5jV1FEcG5ZUzZqcGR5c1VFbTVrakRlUVBWZlc5b0NIRFg1NDRFT241cTJYQnZaRjlmbnNoT0RxQTI?oc=5",
-      "source": "La Nación",
-      "sourceDomain": null,
-      "pubDate": "Tue, 17 Feb 2026 08:00:00 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "Asunción cumple 489 años: música, ferias y festivales copan la agenda de festejos",
-      "link": "https://www.abc.com.py/nacionales/2026/08/15/asuncion-cumple-489-anos-musica-ferias-y-festivales-copan-la-agenda-de-festejos/",
+      "title": "Llamativa “megainversión” de ueno en software: es tres veces la suma de 9 bancos de plaza",
+      "link": "https://www.abc.com.py/economia/2026/08/16/llamativa-megainversion-de-ueno-en-software-es-tres-veces-la-suma-de-9-bancos-de-plaza/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 15 Aug 2026 04:52:27 +0000",
+      "pubDate": "Sun, 16 Aug 2026 07:00:00 +0000",
       "category": "pais"
     },
     {
-      "title": "Día del Niño: el Mercado 4 se prepara para una jornada de compras y regalos",
-      "link": "https://www.abc.com.py/nacionales/2026/08/15/dia-del-nino-el-mercado-4-se-prepara-para-una-jornada-de-compras-y-regalos/",
+      "title": "“Chespilandia”: Senad desarticula punto de microtráfico en Villa Hayes ",
+      "link": "https://www.abc.com.py/policiales/2026/08/16/chespilandia-senad-desarticula-punto-de-microtrafico-en-villa-hayes/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 15 Aug 2026 04:34:38 +0000",
+      "pubDate": "Sun, 16 Aug 2026 04:49:43 +0000",
       "category": "pais"
     },
     {
-      "title": "Simulaba compras por delivery y asaltaba a los repartidores: un sospechoso detenido",
-      "link": "https://www.abc.com.py/policiales/2026/08/15/simulaba-compras-por-delivery-y-asaltaba-a-los-repartidores-un-sospechoso-detenido/",
+      "title": "Dimensiones energéticas y geopolíticas de la cooperación nuclear",
+      "link": "https://www.abc.com.py/economia/2026/08/16/dimensiones-energeticas-y-geopoliticas-de-la-cooperacion-nuclear/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 15 Aug 2026 04:25:09 +0000",
+      "pubDate": "Sun, 16 Aug 2026 04:00:01 +0000",
       "category": "pais"
     },
     {
-      "title": "IPS reduce el peso de los CDA y eleva a casi 26% la participación de Bonos",
-      "link": "https://www.abc.com.py/economia/2026/08/15/ips-reduce-el-peso-de-los-cda-y-eleva-a-casi-26-la-participacion-de-bonos/",
+      "title": "DNIT registra 4.669 morosos y el 96% corresponde a pequeños contribuyentes",
+      "link": "https://www.abc.com.py/economia/2026/08/16/dnit-registra-4669-morosos-y-el-96-corresponde-a-pequenos-contribuyentes/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 15 Aug 2026 04:00:01 +0000",
+      "pubDate": "Sun, 16 Aug 2026 04:00:01 +0000",
       "category": "pais"
     },
     {
-      "title": "Grupo Vázquez posee terrenos en el “barrio Ueno”, afirma Municipalidad",
-      "link": "https://www.abc.com.py/politica/2026/08/15/grupo-vazquez-posee-terrenos-en-el-barrio-ueno-afirma-municipalidad/",
+      "title": "IPS gastará el doble en estudios para obras que ya tenían solución por G. 642 millones",
+      "link": "https://www.abc.com.py/politica/2026/08/16/ips-gastara-el-doble-en-estudios-para-obras-que-ya-tenian-solucion-por-g-642-millones/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 15 Aug 2026 04:00:01 +0000",
+      "pubDate": "Sun, 16 Aug 2026 04:00:01 +0000",
       "category": "pais"
     },
     {
-      "title": "Tras viaje a Italia, diputados cartistas ahora van a República Dominicana",
-      "link": "https://www.abc.com.py/politica/2026/08/15/tras-viaje-a-italia-diputados-cartistas-ahora-van-a-republica-dominicana/",
+      "title": "“Mi vida entera de la profesión llevaron”, denuncia odontólogo víctima de robo",
+      "link": "https://www.abc.com.py/policiales/2026/08/15/mi-vida-entera-de-la-profesion-llevaron-denuncia-odontologo-victima-de-robo/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 15 Aug 2026 04:00:01 +0000",
+      "pubDate": "Sun, 16 Aug 2026 01:58:01 +0000",
       "category": "pais"
     },
     {
-      "title": "Sole Núñez promete ganar Asunción con votos colorados",
-      "link": "https://www.abc.com.py/politica/2026/08/15/sole-nunez-promete-ganar-asuncion-con-votos-colorados/",
+      "title": "Caapucú: Gustavo Penayo asegura que el conflicto con concejales seguirá hasta el 4 de octubre",
+      "link": "https://www.abc.com.py/politica/2026/08/15/caapucu-gustavo-penayo-asegura-que-el-conflicto-con-concejales-seguira-hasta-el-4-de-octubre/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 15 Aug 2026 03:30:38 +0000",
+      "pubDate": "Sun, 16 Aug 2026 01:13:29 +0000",
       "category": "pais"
     },
     {
-      "title": "Atención: estas son las calles que estarán cerradas este sábado en Asunción por los festejos",
-      "link": "https://www.abc.com.py/nacionales/2026/08/14/atencion-estas-son-las-calles-que-estaran-cerradas-este-sabado-en-asuncion-por-los-festejos/",
+      "title": "Video: bomberos confirman víctimas fatales tras accidente en Pedrozo",
+      "link": "https://www.abc.com.py/policiales/2026/08/15/video-bomberos-confirman-victimas-fatales-tras-accidente-en-pedrozo/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 15 Aug 2026 01:30:28 +0000",
+      "pubDate": "Sun, 16 Aug 2026 00:31:43 +0000",
       "category": "pais"
     },
     {
-      "title": "Libertad sumó un delantero y perdió un mediocampista",
-      "link": "https://www.popular.com.py/2026/08/14/libertad-sumo-un-delantero-y-perdio-un-mediocampista/",
+      "title": "Rubio cacheteó a Guaraní, y profundiza más la crisis aurinegra",
+      "link": "https://www.popular.com.py/2026/08/15/rubio-cacheteo-a-guarani-y-profundiza-mas-la-crisis-aurinegra/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 15 Aug 2026 00:08:05 +0000",
+      "pubDate": "Sat, 15 Aug 2026 21:56:27 +0000",
       "category": "pais"
     },
     {
-      "title": "La doña de Orlando Gill: “Por mi familia salgo como una leona, pero no soy mala”.",
-      "link": "https://www.popular.com.py/2026/08/14/la-dona-de-orlando-gill-por-mi-familia-salgo-como-una-leona-pero-no-soy-mala/",
+      "title": "Pase lo que pase, el Gallo Norteño cerrará la fecha siendo único líder",
+      "link": "https://www.popular.com.py/2026/08/15/pase-lo-que-pase-el-gallo-norteno-cerrara-la-fecha-siendo-unico-lider/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 14 Aug 2026 23:57:38 +0000",
+      "pubDate": "Sat, 15 Aug 2026 20:27:13 +0000",
       "category": "pais"
     },
     {
-      "title": "Una mujer se escapó de su ex endemoniado y él terminó quemando la casa",
-      "link": "https://www.popular.com.py/2026/08/14/una-mujer-se-escapo-de-su-ex-endemoniado-y-el-termino-quemando-la-casa/",
+      "title": "Dani Vallejo eliminó a un top 20 del mundo",
+      "link": "https://www.popular.com.py/2026/08/15/dani-vallejo-elimino-a-un-top-20-del-mundo/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 14 Aug 2026 23:48:37 +0000",
+      "pubDate": "Sat, 15 Aug 2026 20:24:08 +0000",
       "category": "pais"
     },
     {
-      "title": "Ombojo’a su causa de vicio vai vendeha",
-      "link": "https://www.popular.com.py/2026/08/14/ombojoa-su-causa-de-vicio-vai-vendeha/",
+      "title": "¡Romeo Santos creó una fundación para ayudar a peques autistas!",
+      "link": "https://www.popular.com.py/2026/08/15/romeo-santos-creo-una-fundacion-para-ayudar-a-peques-autistas/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 14 Aug 2026 23:16:34 +0000",
+      "pubDate": "Sat, 15 Aug 2026 18:09:10 +0000",
       "category": "pais"
     },
     {
-      "title": "Ya hay fecha y hora para el penúltimo superclásico del año",
-      "link": "https://www.popular.com.py/2026/08/14/ya-hay-fecha-y-hora-para-el-penultimo-superclasico-del-ano/",
+      "title": "(VIDEO) ¡Ya eligieron a la reina del rally paraguayo!",
+      "link": "https://www.popular.com.py/2026/08/15/video-ya-eligieron-a-la-reina-del-rally-paraguayo/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 14 Aug 2026 23:11:28 +0000",
+      "pubDate": "Sat, 15 Aug 2026 17:07:41 +0000",
       "category": "pais"
     },
     {
-      "title": "Sabri Sánchez la Miss Tanga 2023 ya lo dijo “Algunas ni talento para el sexo tienen”",
-      "link": "https://www.popular.com.py/2026/08/14/sabri-sanchez-la-miss-tanga-2023-ya-lo-dijo-algunas-ni-talento-para-el-sexo-tienen/",
+      "title": "(VIDEO) ¡Mirá el alegrón que dio ñande Miss a toda su familia!",
+      "link": "https://www.popular.com.py/2026/08/15/video-mira-el-alegron-que-dio-nande-miss-a-toda-su-familia/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 14 Aug 2026 22:41:02 +0000",
+      "pubDate": "Sat, 15 Aug 2026 16:08:36 +0000",
       "category": "pais"
     },
     {
-      "title": "¡Atendé! Central Chopp busca al Mister gordito más bello de Paraguay",
-      "link": "https://www.popular.com.py/2026/08/14/atende-central-chopp-busca-al-mister-gordito-mas-bello-de-paraguay/",
+      "title": "¡Periodista peloteril contó la batalla que lleva con su peque!",
+      "link": "https://www.popular.com.py/2026/08/15/periodista-peloteril-conto-la-batalla-que-lleva-con-su-peque/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 14 Aug 2026 21:57:16 +0000",
+      "pubDate": "Sat, 15 Aug 2026 15:09:06 +0000",
       "category": "pais"
     },
     {
-      "title": "Regreso de Iturbe y Merolla, buenas noticias para Holan",
-      "link": "https://www.popular.com.py/2026/08/14/regreso-de-iturbe-y-merolla-buenas-noticias-para-holan/",
+      "title": "¡Selena Gómez y su mami fueron demandadas por fraude!",
+      "link": "https://www.popular.com.py/2026/08/15/selena-gomez-y-su-mami-fueron-demandadas-por-fraude/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 14 Aug 2026 21:35:19 +0000",
+      "pubDate": "Sat, 15 Aug 2026 14:07:17 +0000",
       "category": "pais"
     },
     {

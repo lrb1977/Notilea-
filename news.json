@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T09:16:14.804Z",
+  "generatedAt": "2026-08-17T09:28:14.632Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -27,7 +27,7 @@
     {
       "title": "Proyecto de ley busca potenciar desarrollo territorial en municipios de Presidente Hayes y Central",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xbHNFb190RjloZGxBRTJmVjRPUUV2RU13TFY2U2FYamg4YWRjWFNWcnlxOV9uNHZ5dWtVRkpEZ2Y1UW1MMVBoWlBqSHV5Zk9HLWxVa2NQbU1GQzFNZUpPSQ?oc=5",
-      "source": "Cámara de Diputados del Paraguay",
+      "source": "diputados.gov.py",
       "sourceDomain": null,
       "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
       "category": "barrio"
@@ -81,131 +81,131 @@
       "category": "barrio"
     },
     {
-      "title": "Llamativa “megainversión” de ueno en software: es tres veces la suma de 9 bancos de plaza",
-      "link": "https://www.abc.com.py/economia/2026/08/16/llamativa-megainversion-de-ueno-en-software-es-tres-veces-la-suma-de-9-bancos-de-plaza/",
+      "title": "Aumento de combustibles: Petropar actualiza sus precios",
+      "link": "https://www.abc.com.py/nacionales/2026/08/17/aumento-de-combustibles-petropar-actualiza-sus-precios/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 16 Aug 2026 07:00:00 +0000",
+      "pubDate": "Mon, 17 Aug 2026 09:15:26 +0000",
       "category": "pais"
     },
     {
-      "title": "“Chespilandia”: Senad desarticula punto de microtráfico en Villa Hayes ",
-      "link": "https://www.abc.com.py/policiales/2026/08/16/chespilandia-senad-desarticula-punto-de-microtrafico-en-villa-hayes/",
+      "title": "Oiko más de 13 mil atenciones en Instituto de Medicina Tropical",
+      "link": "https://www.popular.com.py/2026/08/17/oiko-mas-de-13-mil-atenciones-en-instituto-de-medicina-tropical/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Mon, 17 Aug 2026 08:38:24 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Fiscalía destaca hecho punible más cometido contra los niños",
+      "link": "https://www.popular.com.py/2026/08/17/fiscalia-destaca-hecho-punible-mas-cometido-contra-los-ninos/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Mon, 17 Aug 2026 08:26:22 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Clima en Paraguay: Calor de 35°C en pleno invierno en Asunción",
+      "link": "https://www.abc.com.py/clima/2026/08/17/clima-en-paraguay-calor-de-35c-en-pleno-invierno-en-asuncion/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 16 Aug 2026 04:49:43 +0000",
+      "pubDate": "Mon, 17 Aug 2026 08:21:26 +0000",
       "category": "pais"
     },
     {
-      "title": "Dimensiones energéticas y geopolíticas de la cooperación nuclear",
-      "link": "https://www.abc.com.py/economia/2026/08/16/dimensiones-energeticas-y-geopoliticas-de-la-cooperacion-nuclear/",
+      "title": "Sobrevivientes de una masacre",
+      "link": "https://www.abc.com.py/nacionales/2026/08/17/sobrevivientes-de-una-masacre/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 16 Aug 2026 04:00:01 +0000",
+      "pubDate": "Mon, 17 Aug 2026 08:00:00 +0000",
       "category": "pais"
     },
     {
-      "title": "DNIT registra 4.669 morosos y el 96% corresponde a pequeños contribuyentes",
-      "link": "https://www.abc.com.py/economia/2026/08/16/dnit-registra-4669-morosos-y-el-96-corresponde-a-pequenos-contribuyentes/",
+      "title": "Crecimiento de la dinámica de empleos temporales en Itapúa durante el Mundial de Rally",
+      "link": "https://www.abc.com.py/economia/2026/08/17/crecimiento-de-la-dinamica-de-empleos-temporales-en-itapua-durante-el-mundial-de-rally/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 16 Aug 2026 04:00:01 +0000",
+      "pubDate": "Mon, 17 Aug 2026 08:00:00 +0000",
       "category": "pais"
     },
     {
-      "title": "IPS gastará el doble en estudios para obras que ya tenían solución por G. 642 millones",
-      "link": "https://www.abc.com.py/politica/2026/08/16/ips-gastara-el-doble-en-estudios-para-obras-que-ya-tenian-solucion-por-g-642-millones/",
+      "title": "¿Ueno ignora disposiciones del BCP sobre inversiones en software?",
+      "link": "https://www.abc.com.py/economia/2026/08/17/ueno-ignora-disposiciones-del-bcp-sobre-inversiones-en-software/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 16 Aug 2026 04:00:01 +0000",
+      "pubDate": "Mon, 17 Aug 2026 04:00:01 +0000",
       "category": "pais"
     },
     {
-      "title": "“Mi vida entera de la profesión llevaron”, denuncia odontólogo víctima de robo",
-      "link": "https://www.abc.com.py/policiales/2026/08/15/mi-vida-entera-de-la-profesion-llevaron-denuncia-odontologo-victima-de-robo/",
+      "title": "Motociclista muere tras impactar contra una columna en Ypané",
+      "link": "https://www.abc.com.py/policiales/2026/08/17/motociclista-muere-tras-impactar-contra-una-columna-en-ypane/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 16 Aug 2026 01:58:01 +0000",
+      "pubDate": "Mon, 17 Aug 2026 03:44:07 +0000",
       "category": "pais"
     },
     {
-      "title": "Caapucú: Gustavo Penayo asegura que el conflicto con concejales seguirá hasta el 4 de octubre",
-      "link": "https://www.abc.com.py/politica/2026/08/15/caapucu-gustavo-penayo-asegura-que-el-conflicto-con-concejales-seguira-hasta-el-4-de-octubre/",
+      "title": "Barrio Herrera: capturan a sospechoso tras intentar entrar a viviendas, pero recupera su libertad",
+      "link": "https://www.abc.com.py/policiales/2026/08/16/barrio-herrera-capturan-a-sospechoso-tras-intentar-entrar-a-viviendas-pero-recupera-su-libertad/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 16 Aug 2026 01:13:29 +0000",
+      "pubDate": "Mon, 17 Aug 2026 02:34:17 +0000",
       "category": "pais"
     },
     {
-      "title": "Video: bomberos confirman víctimas fatales tras accidente en Pedrozo",
-      "link": "https://www.abc.com.py/policiales/2026/08/15/video-bomberos-confirman-victimas-fatales-tras-accidente-en-pedrozo/",
+      "title": "25 de Diciembre: niño muere durante una competencia de Rally",
+      "link": "https://www.abc.com.py/policiales/2026/08/16/25-de-diciembre-nino-muere-durante-una-competencia-de-rally/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 16 Aug 2026 00:31:43 +0000",
+      "pubDate": "Mon, 17 Aug 2026 01:56:40 +0000",
       "category": "pais"
     },
     {
-      "title": "Rubio cacheteó a Guaraní, y profundiza más la crisis aurinegra",
-      "link": "https://www.popular.com.py/2026/08/15/rubio-cacheteo-a-guarani-y-profundiza-mas-la-crisis-aurinegra/",
+      "title": "Olimpia remontó ante Ameliano y recuperó la sonrisa en el torneo local",
+      "link": "https://www.popular.com.py/2026/08/16/olimpia-remonto-ante-ameliano-y-recupero-la-sonrisa-en-el-torneo-local/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 15 Aug 2026 21:56:27 +0000",
+      "pubDate": "Sun, 16 Aug 2026 23:53:45 +0000",
       "category": "pais"
     },
     {
-      "title": "Pase lo que pase, el Gallo Norteño cerrará la fecha siendo único líder",
-      "link": "https://www.popular.com.py/2026/08/15/pase-lo-que-pase-el-gallo-norteno-cerrara-la-fecha-siendo-unico-lider/",
+      "title": "Ojupi a 5 las víctimas fatales del feo accidente en la bajada de Pedrozo",
+      "link": "https://www.popular.com.py/2026/08/16/ojupi-a-5-las-victimas-fatales-del-feo-accidente-en-la-bajada-de-pedrozo/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 15 Aug 2026 20:27:13 +0000",
+      "pubDate": "Sun, 16 Aug 2026 21:29:57 +0000",
       "category": "pais"
     },
     {
-      "title": "Dani Vallejo eliminó a un top 20 del mundo",
-      "link": "https://www.popular.com.py/2026/08/15/dani-vallejo-elimino-a-un-top-20-del-mundo/",
+      "title": "Incautan insumos de la “tirze” Chaco ruguápe",
+      "link": "https://www.popular.com.py/2026/08/16/incautan-insumos-de-la-tirze-chaco-ruguape/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 15 Aug 2026 20:24:08 +0000",
+      "pubDate": "Sun, 16 Aug 2026 20:39:53 +0000",
       "category": "pais"
     },
     {
-      "title": "¡Romeo Santos creó una fundación para ayudar a peques autistas!",
-      "link": "https://www.popular.com.py/2026/08/15/romeo-santos-creo-una-fundacion-para-ayudar-a-peques-autistas/",
+      "title": "Katherin: “En silencio se le devora mejor a los hombres prohibidos”",
+      "link": "https://www.popular.com.py/2026/08/16/katherin-en-silencio-se-le-devora-mejor-a-los-hombres-prohibidos/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 15 Aug 2026 18:09:10 +0000",
+      "pubDate": "Sun, 16 Aug 2026 19:43:58 +0000",
       "category": "pais"
     },
     {
-      "title": "(VIDEO) ¡Ya eligieron a la reina del rally paraguayo!",
-      "link": "https://www.popular.com.py/2026/08/15/video-ya-eligieron-a-la-reina-del-rally-paraguayo/",
+      "title": "El mundialista Musiala se desplomó en pleno partido del Bayern",
+      "link": "https://www.popular.com.py/2026/08/16/el-mundialista-musiala-se-desplomo-en-pleno-partido-del-bayern/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 15 Aug 2026 17:07:41 +0000",
+      "pubDate": "Sun, 16 Aug 2026 19:37:10 +0000",
       "category": "pais"
     },
     {
-      "title": "(VIDEO) ¡Mirá el alegrón que dio ñande Miss a toda su familia!",
-      "link": "https://www.popular.com.py/2026/08/15/video-mira-el-alegron-que-dio-nande-miss-a-toda-su-familia/",
+      "title": "Revelaron contrato de Cristiano con Georgina en caso de divorcio: No será miti miti el tema",
+      "link": "https://www.popular.com.py/2026/08/16/revelaron-contrato-de-cristiano-con-georgina-en-caso-de-divorcio-no-sera-miti-miti-el-tema/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 15 Aug 2026 16:08:36 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "¡Periodista peloteril contó la batalla que lleva con su peque!",
-      "link": "https://www.popular.com.py/2026/08/15/periodista-peloteril-conto-la-batalla-que-lleva-con-su-peque/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 15 Aug 2026 15:09:06 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "¡Selena Gómez y su mami fueron demandadas por fraude!",
-      "link": "https://www.popular.com.py/2026/08/15/selena-gomez-y-su-mami-fueron-demandadas-por-fraude/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 15 Aug 2026 14:07:17 +0000",
+      "pubDate": "Sun, 16 Aug 2026 19:22:45 +0000",
       "category": "pais"
     },
     {

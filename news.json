@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T09:28:14.632Z",
+  "generatedAt": "2026-08-18T09:20:41.074Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -27,7 +27,7 @@
     {
       "title": "Proyecto de ley busca potenciar desarrollo territorial en municipios de Presidente Hayes y Central",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xbHNFb190RjloZGxBRTJmVjRPUUV2RU13TFY2U2FYamg4YWRjWFNWcnlxOV9uNHZ5dWtVRkpEZ2Y1UW1MMVBoWlBqSHV5Zk9HLWxVa2NQbU1GQzFNZUpPSQ?oc=5",
-      "source": "diputados.gov.py",
+      "source": "Cámara de Diputados del Paraguay",
       "sourceDomain": null,
       "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
       "category": "barrio"
@@ -35,7 +35,7 @@
     {
       "title": "Joven corrige datos sobre Beterete Cue",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTYtSlpCZWZLNjZJVGFfM3ZCQzdLREZKZHVDanUweWtJaHJBYThJQjJmd015UWpiMDZrc1dYVEh1SHRRVHN3ZFpNWE1XU1FXRERzWjJLT3FVbHQxZzNkZ1IzUzhJVTVtRVpqWWJGZjBCeTNIVXM1RmNIR0g2LUg0NzMzdnd4Ni1IUXhDcEkzTl9YUjNITUpWMnIwTGdoNnBD?oc=5",
-      "source": "La Nación",
+      "source": "lanacion.com.py",
       "sourceDomain": null,
       "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
       "category": "barrio"
@@ -59,7 +59,7 @@
     {
       "title": "Imputan por homicidio doloso a pareja que habría quemado a una joven en Nanawa",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGk3cWk5MmpzeWdETHRGeFJkMFdQMkhWMG1YYy1YREF5VFB2YU1MU1JWMWZ2WlZkV1V6b1MzdkdOX1ljVWlBbjhPWk9BQjBnbXltSG5WWF9MTktXaW5QS3dPRUo4Ym8zNmhlVm9TVFU0czhVN0JQZkpqLWRWOVk3VEFRUUZWLWhkNlMtV05wc3VIaGV3SHdHMGJlWnJLbDZtMFJCT1pWMDJPMkxvYXFWT2FsRE9BWGJDc3g0RzR3Vng?oc=5",
-      "source": "La Nación",
+      "source": "lanacion.com.py",
       "sourceDomain": null,
       "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
       "category": "barrio"
@@ -81,131 +81,139 @@
       "category": "barrio"
     },
     {
-      "title": "Aumento de combustibles: Petropar actualiza sus precios",
-      "link": "https://www.abc.com.py/nacionales/2026/08/17/aumento-de-combustibles-petropar-actualiza-sus-precios/",
+      "title": "Nuevo puente Pararã, a un paso de su inauguración, promete transformar la conectividad en el Bajo Chaco",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS2ROdzNyb2U1RlFTR3RfUmJ4Z1RwdVgwb2ZGa0dubDBSVjJ3UzVUWHVCZjA5QXpfV2NubzVmaDZIal9qeElJaDBmOHdhbjhoX3FsTC1XYzFMbXRud1VCR0R3YVI0T3NmTmJleGppQVNpVm9SUGk0MjZaVDBnY1VVTEhrVjRJalFsQ0V2OENDMElJTl9nM0M0dGNfdzRWc2xwM3ZYZXNYdW5zRG5jV1FEcG5ZUzZqcGR5c1VFbTVrakRlUVBWZlc5b0NIRFg1NDRFT241cTJYQnZaRjlmbnNoT0RxQTI?oc=5",
+      "source": "lanacion.com.py",
+      "sourceDomain": null,
+      "pubDate": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Joven muere al caer de moto en Ruta PY02, posiblemente a causa de bache",
+      "link": "https://www.abc.com.py/policiales/2026/08/18/san-lorenzo-joven-muere-tras-caer-de-moto-en-ruta-py02-posiblemente-a-causa-de-bache/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 17 Aug 2026 09:15:26 +0000",
+      "pubDate": "Tue, 18 Aug 2026 09:00:09 +0000",
       "category": "pais"
     },
     {
-      "title": "Oiko más de 13 mil atenciones en Instituto de Medicina Tropical",
-      "link": "https://www.popular.com.py/2026/08/17/oiko-mas-de-13-mil-atenciones-en-instituto-de-medicina-tropical/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 17 Aug 2026 08:38:24 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Fiscalía destaca hecho punible más cometido contra los niños",
-      "link": "https://www.popular.com.py/2026/08/17/fiscalia-destaca-hecho-punible-mas-cometido-contra-los-ninos/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 17 Aug 2026 08:26:22 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Clima en Paraguay: Calor de 35°C en pleno invierno en Asunción",
-      "link": "https://www.abc.com.py/clima/2026/08/17/clima-en-paraguay-calor-de-35c-en-pleno-invierno-en-asuncion/",
+      "title": "Pedrozo: la obra que ya debía eliminar el cruce mortal en mayo, pero sigue inconclusa por desidia",
+      "link": "https://www.abc.com.py/economia/2026/08/18/pedrozo-la-obra-que-ya-debia-eliminar-el-cruce-mortal-en-mayo-pero-sigue-inconclusa-por-desidia/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 17 Aug 2026 08:21:26 +0000",
+      "pubDate": "Tue, 18 Aug 2026 09:00:00 +0000",
       "category": "pais"
     },
     {
-      "title": "Sobrevivientes de una masacre",
-      "link": "https://www.abc.com.py/nacionales/2026/08/17/sobrevivientes-de-una-masacre/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Crecimiento de la dinámica de empleos temporales en Itapúa durante el Mundial de Rally",
-      "link": "https://www.abc.com.py/economia/2026/08/17/crecimiento-de-la-dinamica-de-empleos-temporales-en-itapua-durante-el-mundial-de-rally/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "¿Ueno ignora disposiciones del BCP sobre inversiones en software?",
-      "link": "https://www.abc.com.py/economia/2026/08/17/ueno-ignora-disposiciones-del-bcp-sobre-inversiones-en-software/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 17 Aug 2026 04:00:01 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Motociclista muere tras impactar contra una columna en Ypané",
-      "link": "https://www.abc.com.py/policiales/2026/08/17/motociclista-muere-tras-impactar-contra-una-columna-en-ypane/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 17 Aug 2026 03:44:07 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Barrio Herrera: capturan a sospechoso tras intentar entrar a viviendas, pero recupera su libertad",
-      "link": "https://www.abc.com.py/policiales/2026/08/16/barrio-herrera-capturan-a-sospechoso-tras-intentar-entrar-a-viviendas-pero-recupera-su-libertad/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 17 Aug 2026 02:34:17 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "25 de Diciembre: niño muere durante una competencia de Rally",
-      "link": "https://www.abc.com.py/policiales/2026/08/16/25-de-diciembre-nino-muere-durante-una-competencia-de-rally/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 17 Aug 2026 01:56:40 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Olimpia remontó ante Ameliano y recuperó la sonrisa en el torneo local",
-      "link": "https://www.popular.com.py/2026/08/16/olimpia-remonto-ante-ameliano-y-recupero-la-sonrisa-en-el-torneo-local/",
+      "title": "Ojejapota jornada de identidad para conocer a los antepasados",
+      "link": "https://www.popular.com.py/2026/08/18/ojejapota-jornada-de-identidad-para-conocer-a-los-antepasados/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sun, 16 Aug 2026 23:53:45 +0000",
+      "pubDate": "Tue, 18 Aug 2026 08:32:21 +0000",
       "category": "pais"
     },
     {
-      "title": "Ojupi a 5 las víctimas fatales del feo accidente en la bajada de Pedrozo",
-      "link": "https://www.popular.com.py/2026/08/16/ojupi-a-5-las-victimas-fatales-del-feo-accidente-en-la-bajada-de-pedrozo/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Sun, 16 Aug 2026 21:29:57 +0000",
+      "title": "Combustibles: ¿cuánto cuesta ahora cargar en Petropar frente a los privados?",
+      "link": "https://www.abc.com.py/economia/2026/08/18/combustibles-cuanto-cuesta-ahora-cargar-en-petropar-frente-a-los-privados/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Tue, 18 Aug 2026 08:30:00 +0000",
       "category": "pais"
     },
     {
-      "title": "Incautan insumos de la “tirze” Chaco ruguápe",
-      "link": "https://www.popular.com.py/2026/08/16/incautan-insumos-de-la-tirze-chaco-ruguape/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Sun, 16 Aug 2026 20:39:53 +0000",
+      "title": "Clima en Paraguay: vuelve a bajar la temperatura y regresan las lluvias",
+      "link": "https://www.abc.com.py/clima/2026/08/18/clima-en-paraguay-vuelve-a-bajar-la-temperatura-y-regresan-las-lluvias/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Tue, 18 Aug 2026 08:23:50 +0000",
       "category": "pais"
     },
     {
-      "title": "Katherin: “En silencio se le devora mejor a los hombres prohibidos”",
-      "link": "https://www.popular.com.py/2026/08/16/katherin-en-silencio-se-le-devora-mejor-a-los-hombres-prohibidos/",
+      "title": "Ojeipe’a feroz tumor a léka de 70 años",
+      "link": "https://www.popular.com.py/2026/08/18/ojeipea-feroz-tumor-a-leka-de-70-anos/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sun, 16 Aug 2026 19:43:58 +0000",
+      "pubDate": "Tue, 18 Aug 2026 08:21:51 +0000",
       "category": "pais"
     },
     {
-      "title": "El mundialista Musiala se desplomó en pleno partido del Bayern",
-      "link": "https://www.popular.com.py/2026/08/16/el-mundialista-musiala-se-desplomo-en-pleno-partido-del-bayern/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Sun, 16 Aug 2026 19:37:10 +0000",
+      "title": "Otra millonaria “bolsa” de ueno: G. 385.276 millones incluyen anticipos de software y operaciones con firmas vinculadas",
+      "link": "https://www.abc.com.py/economia/2026/08/18/otra-millonaria-bolsa-de-ueno-g-385276-millones-incluyen-anticipos-de-software-y-operaciones-con-firmas-vinculadas/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Tue, 18 Aug 2026 07:00:00 +0000",
       "category": "pais"
     },
     {
-      "title": "Revelaron contrato de Cristiano con Georgina en caso de divorcio: No será miti miti el tema",
-      "link": "https://www.popular.com.py/2026/08/16/revelaron-contrato-de-cristiano-con-georgina-en-caso-de-divorcio-no-sera-miti-miti-el-tema/",
+      "title": "Villa Elisa: seis jóvenes fueron aprehendidos con una moto denunciada como robada",
+      "link": "https://www.abc.com.py/policiales/2026/08/18/villa-elisa-seis-jovenes-fueron-aprehendidos-con-una-moto-denunciada-como-robada/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Tue, 18 Aug 2026 05:19:53 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Operación Redención: Gremios docentes exigen esclarecer muertes de docente y líder indígena",
+      "link": "https://www.abc.com.py/nacionales/2026/08/18/operacion-redencion-gremios-docentes-exigen-esclarecer-muertes-de-docente-y-lider-indigena/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Tue, 18 Aug 2026 04:11:32 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Entre transparencia y ambigüedad: el nuevo dilema de los bancos centrales",
+      "link": "https://www.abc.com.py/economia/2026/08/18/entre-transparencia-y-ambiguedad-el-nuevo-dilema-de-los-bancos-centrales/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Tue, 18 Aug 2026 04:00:01 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Ramón Sosa no va a poder jugar contra Cerro",
+      "link": "https://www.popular.com.py/2026/08/17/ramon-sosa-no-va-a-poder-jugar-contra-cerro/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sun, 16 Aug 2026 19:22:45 +0000",
+      "pubDate": "Tue, 18 Aug 2026 00:15:40 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "¡El CIT celebra sus 45 años!",
+      "link": "https://www.popular.com.py/2026/08/17/el-cit-celebra-sus-45-anos/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Tue, 18 Aug 2026 00:13:56 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Thiago Mendes, rival de Olimpia, contó porquépa le negó el saludo a Neymar",
+      "link": "https://www.popular.com.py/2026/08/17/thiago-mendes-rival-de-olimpia-conto-porquepa-le-nego-el-saludo-a-neymar/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Tue, 18 Aug 2026 00:02:50 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Llegó Boca para enfrentar mañana a Recoleta por la Sudamericana",
+      "link": "https://www.popular.com.py/2026/08/17/llego-boca-para-enfrentar-manana-a-recoleta-por-la-sudamericana/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Mon, 17 Aug 2026 23:47:19 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "¡Atendé el fenómeno que se da con la Virgen María y sus Angeles en Misiones!",
+      "link": "https://www.popular.com.py/2026/08/17/atende-el-fenomeno-que-se-da-con-la-virgen-maria-y-sus-angeles-en-misiones/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Mon, 17 Aug 2026 23:27:47 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Capturan a dos “pajaros de cuentas”",
+      "link": "https://www.popular.com.py/2026/08/17/capturan-a-dos-pajaros-de-cuentas/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Mon, 17 Aug 2026 21:56:55 +0000",
       "category": "pais"
     },
     {

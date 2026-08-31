@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T16:24:05.146Z",
+  "generatedAt": "2026-08-31T18:56:12.770Z",
   "feedUrl": "https://news.google.com/rss/search?q=El%20Ni%C3%B1o%202026%20Sudam%C3%A9rica%20clima&hl=es-419&gl=US&ceid=US:es-419",
   "items": [
     {
@@ -8,6 +8,13 @@
       "source": "Mongabay Latam",
       "sourceDomain": null,
       "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "BID | El Niño 2026-2027: cómo prepararse mejor en América Latina y el Caribe",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcnd4NmJnS1VUUXliWldEWDFfeDhEQ21aRlpCamU5VS0tcDI2WDBocWt4RHJnLUZtRkNYdy0wUjhUUjFuUnQ2Z2lWZWlHTEE4VmhaSW1nOV9SbUtVOHpGcmdTRllvTFh0SU5iWlBmVkJrM25HRWdJN0N2Z2lzVnhObXBXdW5XTkxncEQ0NmQtRElMTTBzNVJDZWxxek05Qnk0ZE96TjlmY1ZZQ1gxQWdhQjJadm1UYWhaQ2RUUTUyUVZSMkRqdG1wNkl3VmVSbjdmVk53?oc=5",
+      "source": "iadb.org",
+      "sourceDomain": null,
+      "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
     },
     {
       "title": "América Latina enfrentará \"El Niño\" más potente en décadas. Los países ya se preparan para el impacto",
@@ -21,14 +28,7 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYXBFaC1EN1lldElVYVRXT1ZzUTBUN3V2ZkFJNWs4VW1FNVhxcE9tZGVmWlBOWlNkMmt0OVNyb3lDWlJScG1XS2FubW1pQjdmLUdqTkNtek04ZTkxaG1fSVhRM2xzR1hPUmlIZ1Z3QzRmRHJmWVlwem1IQ3h2U3dwNkhFYmoyU1VTSkJDTWR4MU1aYkRXc0dpcE9OMjA0blhvTWRoWEVvWmJTMFltd1pFRXZWWGhMbzZoZkRjeHBuTUlyUXh5WWswVXdJeXpPS2hwNTZ1alAyRUhpak96NDUtVC01YTFfSGdnamZnZ19R0gGIAkFVX3lxTE1Kd0lJT3RnbzJReXo2ZWlkMEUxNVMtUXd4eUtBVGIxX1U5cnJ3R0NhcVRRODFFV3lrZW9hT05uaUQ4UHBfU0l6bmxGcjZQa0lxVzZ1Z1N5NjRoY1JoN2lMSjVOYWFPbTdBTEhGRUs4T3lNS1BXVE00bm41aE0tWE9WSFJYTW5sV3BzTVlFMlQ3UWRXakdmX1V2ZThCcmp4SU80NmVkUkdIcWJUNmVyVnlUSE9IaFVHaDcycEhUZmJRdUdZb1M4d2VJVGpFYk9HQ2xLWC1BRlhOcmZ4TG42VnQtczY2bGlqeHd1YXdoZWd5OXluR3h4WEZNdThKOWx4dEU0Wl9mNkVYQw?oc=5",
       "source": "Infobae",
       "sourceDomain": "infobae.com",
-      "pubDate": "Fri, 21 Aug 2026 18:14:00 GMT"
-    },
-    {
-      "title": "BID | El Niño 2026-2027: cómo prepararse mejor en América Latina y el Caribe",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcnd4NmJnS1VUUXliWldEWDFfeDhEQ21aRlpCamU5VS0tcDI2WDBocWt4RHJnLUZtRkNYdy0wUjhUUjFuUnQ2Z2lWZWlHTEE4VmhaSW1nOV9SbUtVOHpGcmdTRllvTFh0SU5iWlBmVkJrM25HRWdJN0N2Z2lzVnhObXBXdW5XTkxncEQ0NmQtRElMTTBzNVJDZWxxek05Qnk0ZE96TjlmY1ZZQ1gxQWdhQjJadm1UYWhaQ2RUUTUyUVZSMkRqdG1wNkl3VmVSbjdmVk53?oc=5",
-      "source": "Inter-American Development Bank",
-      "sourceDomain": null,
-      "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
+      "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "\"El Niño Godzilla\": ¿nos amenaza un super El Niño 2026?",
@@ -66,6 +66,13 @@
       "pubDate": "Sun, 31 May 2026 07:00:00 GMT"
     },
     {
+      "title": "Clima crítico: El mapa de riesgos que activará El Niño Godzilla en México y el resto de Latinoamérica",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ2p4UXlGQW02dTYwQXRBajlQMGI0djFpS21BTDJXSWFwVDQ3eENXdi01b3pnWGFVOWV6ZklSc2pRR1FWVDM4YWM3a19UMU9RTnJ3LTA0em05Ym5maFJCT21faHVJUTVNQUFwZjl6cTI2bVhlZUUxM1NFY2lCOV9Yby1EV3lEUUNmMk1mRktIRnVOWjdpeXBsSkk1ckE5Y25hSkhjeEU4cll0ZXNMUEMzZDJLV1ZRV2ViUXBiVDNpM1BieTBOMjZ5R2ZSZXF2SkpKejFobk1udmlmalE5Z05mSQ?oc=5",
+      "source": "FayerWayer",
+      "sourceDomain": null,
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "De Colombia a Argentina: cómo El Niño podría intensificar los incendios forestales en 2026 y 2027",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUNTTHNDT1NYeGlKVWM5cEZ6LVU4UE11dmZjTDExd1dHRnVZZHhJeHFEMVhHdk83NHBkQ0Ewc0hXS3ktQ3RqSHl3RnFJem1zdGJBN2R5R1JlUWdmeklndVFISzgtMzFGN0VMUlZBMjhUZmhhd0E5aTVnalIxSGoweERLNTZ2blI4dFZoRDUyZ09oV0NDczVtQm9xTU1EVUdGMVUxanBn?oc=5",
       "source": "Mongabay Latam",
@@ -99,13 +106,6 @@
       "source": "BBC",
       "sourceDomain": null,
       "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Alerta mundial por El Niño: qué fenómenos climáticos extremos se esperan, según el nuevo informe de la ONU",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMHVTZlZQQ2h2cjMyd0NfLTd4OW11ZDd4dUFYaExwd25FMXFUbE90c0ZfYTFvLWRtWUZVUkNVNEw3TWdSck9PTUZWNlRza0dLWnBDdnB2Q256WmpjYjlDU19OdjdseHdjeWIwZ0RxaXR2NlJwUm9jc1dWOWJ3Q1FWSml6TUhMc25uU3JGT1VxeURYaXBvWERqUDlXcEZfbFd0M01iQng3Tnp6dHFVS1hNNG9LcWlUVFE0NGRWdW9Da05uMExCbmx2Q3ZPRlE1MWhKczJiS2tZSEo5d1Nf0gH3AUFVX3lxTE1yVW5PWWF1dnY2RTVRdmlSSjZsUFEyXzBDWTJQY3FiejRLY3htYlF3ci1TOFVDb1BqZE1rNVhBWjRsY0ZmYnNEUE9fUi1LYnFOeGRGVzZweGdwVDlabVNnS3FmT0hqaHhicEpFQ2JZdHhvd0FrQWNveGRLS3Z3eUI4S1pCNEJYcExRTHpfNlA1RjNSbjhMeDlYN20yVHRuZ28xWDQ1VE5mMkpra2gzZnQxZExHZzVPN1FESjFFanJuQ3FZU21GcmRldldSNDdVQVlnZmxJZnAtbEdXUzctYWxjcGcyT05UZjFLNVRyNWZUT2wxYmxUTEU?oc=5",
-      "source": "Infobae",
-      "sourceDomain": "infobae.com",
-      "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT"
     }
   ]
 }

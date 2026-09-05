@@ -1,5 +1,111 @@
 {
-  "generatedAt": "2026-09-03T16:00:57.255Z",
+  "generatedAt": "2026-09-05T14:48:42.107Z",
   "feedUrl": "https://news.google.com/rss/search?q=El%20Ni%C3%B1o%202026%20Sudam%C3%A9rica%20clima&hl=es-419&gl=US&ceid=US:es-419",
-  "items": []
+  "items": [
+    {
+      "title": "La ONU advierte sobre un fenómeno de El Niño de \"proporciones gigantescas\" mientras los países se preparan para su impacto",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tQ1o4aENMQzRCM0FPMHJtNnRoR2EzZXJIYUhyOWRJVjBHUnlpNHB2ZmtKNmc3RGxodGk1WVU2NWVCZ0pNQ2RoMkdQYTIwN3Vib2xTbTYycF94NjTSAWBBVV95cUxNUGVLMW5NN2xwcEpYNTRnS1pPQ0ZLbHRQY3VOa0NUT0ViV05xbkthS3k4SkFaR1hfWG80UWlZOGVFTzZYaElULU5Fd2JRbzZOa2RENmlYRGk5aUJtNWVkMEE?oc=5",
+      "source": "BBC",
+      "sourceDomain": null,
+      "pubDate": "Thu, 03 Sep 2026 16:34:33 GMT"
+    },
+    {
+      "title": "BID | El Niño 2026-2027: cómo prepararse mejor en América Latina y el Caribe",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcnd4NmJnS1VUUXliWldEWDFfeDhEQ21aRlpCamU5VS0tcDI2WDBocWt4RHJnLUZtRkNYdy0wUjhUUjFuUnQ2Z2lWZWlHTEE4VmhaSW1nOV9SbUtVOHpGcmdTRllvTFh0SU5iWlBmVkJrM25HRWdJN0N2Z2lzVnhObXBXdW5XTkxncEQ0NmQtRElMTTBzNVJDZWxxek05Qnk0ZE96TjlmY1ZZQ1gxQWdhQjJadm1UYWhaQ2RUUTUyUVZSMkRqdG1wNkl3VmVSbjdmVk53?oc=5",
+      "source": "Inter-American Development Bank",
+      "sourceDomain": null,
+      "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Qué es el fenómeno de El Niño y por qué puede alterar el clima global",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOW14VTVZaVhxNEZwRVpDZWFiVmJGWXl3QTNod0daU2V5RE1hRWJON2pYVDFBejF0b1BfckRyd2ZMcnY2TXNoLVA1TXJCNmloUzNGTWgxOFRtVkFVYlg4RGVJRzRTeEdBZ2NNNHRIYjU2djNDaXVsSHotRHVhM1pMMGZIWEFxQ2E5VjB6Y2FKN2ZYaVZyV2ZDWG00M2RMWDBjdjFIVUxVZ0d6ZXlKakJweHM0LU9BTENzcGtvaGZWV29fTklndEdz0gHiAUFVX3lxTE14aER2d3cxM2x4NTNoMktRNWxRaFhjTzVwSTlvV3BkUzhmNF92QWFyWUFEVUNxU19CUVM5dWt0ZXk3QXdSMmZSdEs3OFNlTHpFSno1YlN6Q2NORVZZQ09Bdks3Yl94Z3ROd2paQmk3dThOQW5PNVBfMERGeHgzaVVzaWxJMmJ3alh0ZnkyYnRRcjM0LWhKaHJxZm1qenF6MWJfWlI0SzdzZHJBREppVGtsa3VnalNsWEZ0bzU3ejIzanJGQ0dxd2FjSHVXODRMVjFoY2tFb3Zxb0ZRZ25tOHMxWEE?oc=5",
+      "source": "Infobae",
+      "sourceDomain": "infobae.com",
+      "pubDate": "Thu, 03 Sep 2026 12:21:29 GMT"
+    },
+    {
+      "title": "América Latina enfrentará \"El Niño\" más potente en décadas. Los países ya se preparan para el impacto",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGxsalotcElpUnM2aGY1VmM1Wk1DakIyTXhPNzlJQjZ0RG92SzllNE0yWElMOUVXNV92dkhCUGZ1VkVRUnliemQ0TnJKNmVuc2JsQ0pCRVdtaVVJM1F5c20xWXRwTGdEQmlMdzFfbjN2Tlg5MWxlYU5ybGJPY0FxclVYekF1WFd0bWRjWjJtcmtDUVZzaS0zTGdaNjdsSTRjQWxacg?oc=5",
+      "source": "CNN en Español",
+      "sourceDomain": null,
+      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "El Niño: tormentas, olas de frío y efectos en especies marinas ya se sienten en Chile, Perú, Argentina y Ecuador",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWlXTy0yUzJYeFBaSGtnWGJyb1ZUTVZnT1hiUFhTcU5MaUtUVHczaURQekpLako3U2JqdHFfbkRpUjk5VWVDX183cWJQc3N4NTkyMEtMWl9fS2s1VkdRc0NvUjJKYjFSQ1B4NW8yRC1vQzFRWHNtNmRPbWFpTjdaQ0FmMk1MaGNtRXVtdEFzOVpkVFJKWkJQU25MVEQteE5vaDhhTllqT1Z0a3o1cURDek1lS1E?oc=5",
+      "source": "Mongabay Latam",
+      "sourceDomain": null,
+      "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "\"El Niño Godzilla\": ¿nos amenaza un super El Niño 2026?",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEMxczRRMUNzY0lQdVdYSFQ3eG95THB2NDFacnFXT01lRWttUC1YOWdjODRzblhMbjBaWXlmR1hSeDJLLVVsVHYzWmhvdWtYbDZMR1hPRHQ1aGtHbTVwVW0zOXJ4elAzS1YtZU8zUHE5bGVGU0x5RmxxVHY0SFdKX0xJaUg4THlZaWs2VXFtaUd1T2dnSHROZ0hFZlQ3NWpCYU1XT21XdDZCMk9aV1lfMG9mcVR3UdIBtgFBVV95cUxPblFhUUtEdUxydXpiMGVndEplN3FRVDZmMTZwekswZFFWR3dsNEtQOXlyTXRFRHA5NEMtWVQyMmc3ZG5GWEFGb3NRZGZuejBwTUpxOFpXVGJtS1VtcFJRdjAwOWJFS3BrTGx1R2d0MGYwbXVkLWJLd3JJQzQwNms5QXB5a3lmMGFVWG1VTEZESDlld2dtdTg1dHRKQ1dfMk0wOTVLdE5NZTFZVU9pcmdNUFd3aG9vZw?oc=5",
+      "source": "DW.com",
+      "sourceDomain": null,
+      "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "\"El Niño\" 2026: ¿Cómo nos preparamos para sus efectos en América Latina y el Caribe?",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjQzTGJTT1NqOTR2WUpoazhuQ1Y4V1dmbUtKYkFKMW93clJKMGJ1clZtanM1cjVCZGhRaUw3Rkx6ek5VWmtsRXpTcUM0SmFLYlNvUFUxMVlla082ZnhUWFh0WXh6ak1naFVWVEVxbUtVWDIwQVppYXRVdGIyZk8zYkZVbXlIUmNzTmNCRmdvQ2JrOHJ0Vm1EWjFoMi1uMlotSC1fbXd3OWdscXpVakRfa1h3?oc=5",
+      "source": "IFRC",
+      "sourceDomain": null,
+      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Cómo impacta en Salta \"El Niño\" más fuerte en 140 años: Sudamérica podría enfrentar lluvias extremas y sequías al mismo tiempo",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMUxPWWNWM3k0a2Nod0hVSDVfMnpTQWozcndYeVJTUXVhYllZRzljc3hqTjZXb1QxUHd0UF9zTGFKZkNaSmlRenpKNmhRMUVwVnlwSXhsanVmVUY5ODZPOFRwenlZTy1Cb05SdS1fWVRjSERvMDB0OVVMRlp4WXhJNFdXNGVZX1M1a2xTMjF5OE8zT2w4TTVCVXJXVTBfQmFBS2d2UUVDam1TX056UXlSYzVSaGw3NjRXYXViQmsybVAwLWhJVG01WFNYdWdKR3dsWDRtbGdtdGd4azlqSDd5N1NHUXk5T0c0U3c2bNIB8gFBVV95cUxOdVE1SUNWTmtvU3YzY19MUkpzN0J3TmdfUzV2UHRpNEpLblBhczN2UEFwUEV0TTRJYlhndzJmYkNaNXlWVHFhMVEwTWxGMk5YUzZ2N0N1Wk1jSTZ0NTlmQWRJbjVVaUUwUy1pRndmRkdfMDA0ZWVYcWxtSV9WVTl6eUZnUzFZZkRlV0gyMmNSUk5TcFJrdFJ1eFN0b3U1eGJXdUJMV3VyNTdTLTh1QlpMZ3ZOU05ueTljdHFZY2lrVl9iSERlV2xnWmx3T1ZuZ3RaRElRR2tyU2M3eTVkbjlVNUl3cGxzcE9xM3FPaUpwY3pUUQ?oc=5",
+      "source": "Gente de Salta",
+      "sourceDomain": null,
+      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Tres ciclones avanzan al mismo tiempo sobre el océano Pacífico por El Niño: por qué ocurre este fenómeno y cuáles son sus riesgos",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOanNsQ3JHSEpkTGdBTGxFaXgtS0FVY3h2d1pfbUhjT0U5SGVXemxtVmNDalVvTEdWd2RuaXRxOFl2UGQxY2RBTzAzUWk1X0FjOWlGNEdBMU90cF9TWExuRmljUmJDaGlCLUFXV1hvVkVyRDRabXY1aDY2c0hFOVprY3BJNGJtSFZ0ZHVWWHJqNlZVTWowYnRUM0ZaNTFGdDJEQmVPaHc4S2llNWRGWk12c2U0NEhxV0ZHaW01YmJpVUx4dXZ6dW5HWUQ1OFBfLXNPa3RqY0U4T3lKTExDN1I2NURDR0dSSUVDVk9nbzNxQXppOWZBUVJ0LUhzRDhkSG9OMF9WZUk5dEEwZDl3ZktZaUZ5eUhNUdIBsAJBVV95cUxONWljVV9zZ3UyTUlFNFhJQW9YdFMyVUJZUHg3NkZpb09uMnFYVVRFZmlSQTJTTVJpY2JwR0RxZHBkbm1XM0FNTGRSYWc5cERrMUFXZS1yeW5xRTJkSGx1SXJqOXkwcGhoYVNCMV9aempSU0o3bGM1VHNlUTFuZG5FWW5pTFNmR1B5bnVhVXZwWlc3WXJQeGllTm5IMDRHRllTSXMxNmh4VUxZUS1qblN0bHU1MXhBUkFIWDA2NkFMZGU4cUJoOUdNbmw0ek5lWEIxSU52b2RyODlJYmxrMmtjZDdxNDY3LVVfSVFxNWJHa1hzRkNGUGtTQk5WOXN0d211aTMtWHllU05vdllqQWc5aHc5NzMtNjJxWFFQOENWUU9pWDhmdDRFX3Y3allSVjd2?oc=5",
+      "source": "Infobae",
+      "sourceDomain": "infobae.com",
+      "pubDate": "Thu, 03 Sep 2026 06:00:00 GMT"
+    },
+    {
+      "title": "Los graves efectos que los científicos pronostican en América Latina por el fenómeno del \"Súper El Niño\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jeVNkQ2JOYXZJdjE1bEV5YlU5eFNvVTlpcVp2TFR2eUFwSFNYdUY4NjVKcTFfS1AwOXVPZmRKMlFLSkFNcDJoSWFPWmEyRU1jZGtDSTBON19sTGfSAWBBVV95cUxOY3NWSzRGZmdMRk5jT1ZJMWsyV3Q3bHhQNnE3aXdISk1RQU9HWEN0eFpZWm1VWjQ1b01LMFlzbzJJTTdlc0kxTEsxb3JWenlOZG15V0NxNWJfOFBCeUVJWWM?oc=5",
+      "source": "BBC",
+      "sourceDomain": null,
+      "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Cómo afectan El Niño y La Niña al clima de Sudamérica",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmFtamE5dFB6MExRNFNxZzFkVjg2ZEduSFF1ZHNCWkM4XzdEeThVcWp5dDhaeWx4QmlGdUN5MVU0WkoyUFZMYWFHZ2Uzb0lMaUlzWHJDX2ZHUzdWdlB2a0VzRll4dk9YdVpUWURUSGpjODFhUmRZQVYzX1hCV3JFWnhFc3pTdw?oc=5",
+      "source": "RTS Medios",
+      "sourceDomain": null,
+      "pubDate": "Sun, 31 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Clima crítico: El mapa de riesgos que activará El Niño Godzilla en México y el resto de Latinoamérica",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ2p4UXlGQW02dTYwQXRBajlQMGI0djFpS21BTDJXSWFwVDQ3eENXdi01b3pnWGFVOWV6ZklSc2pRR1FWVDM4YWM3a19UMU9RTnJ3LTA0em05Ym5maFJCT21faHVJUTVNQUFwZjl6cTI2bVhlZUUxM1NFY2lCOV9Yby1EV3lEUUNmMk1mRktIRnVOWjdpeXBsSkk1ckE5Y25hSkhjeEU4cll0ZXNMUEMzZDJLV1ZRV2ViUXBiVDNpM1BieTBOMjZ5R2ZSZXF2SkpKejFobk1udmlmalE5Z05mSQ?oc=5",
+      "source": "FayerWayer",
+      "sourceDomain": null,
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "De Colombia a Argentina: cómo El Niño podría intensificar los incendios forestales en 2026 y 2027",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUNTTHNDT1NYeGlKVWM5cEZ6LVU4UE11dmZjTDExd1dHRnVZZHhJeHFEMVhHdk83NHBkQ0Ewc0hXS3ktQ3RqSHl3RnFJem1zdGJBN2R5R1JlUWdmeklndVFISzgtMzFGN0VMUlZBMjhUZmhhd0E5aTVnalIxSGoweERLNTZ2blI4dFZoRDUyZ09oV0NDczVtQm9xTU1EVUdGMVUxanBn?oc=5",
+      "source": "Mongabay Latam",
+      "sourceDomain": null,
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "El Niño 2026–2027 eleva su intensidad: anomalía sin precedentes y riesgos climáticos a escala global",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYXBFaC1EN1lldElVYVRXT1ZzUTBUN3V2ZkFJNWs4VW1FNVhxcE9tZGVmWlBOWlNkMmt0OVNyb3lDWlJScG1XS2FubW1pQjdmLUdqTkNtek04ZTkxaG1fSVhRM2xzR1hPUmlIZ1Z3QzRmRHJmWVlwem1IQ3h2U3dwNkhFYmoyU1VTSkJDTWR4MU1aYkRXc0dpcE9OMjA0blhvTWRoWEVvWmJTMFltd1pFRXZWWGhMbzZoZkRjeHBuTUlyUXh5WWswVXdJeXpPS2hwNTZ1alAyRUhpak96NDUtVC01YTFfSGdnamZnZ19R0gGIAkFVX3lxTE1Kd0lJT3RnbzJReXo2ZWlkMEUxNVMtUXd4eUtBVGIxX1U5cnJ3R0NhcVRRODFFV3lrZW9hT05uaUQ4UHBfU0l6bmxGcjZQa0lxVzZ1Z1N5NjRoY1JoN2lMSjVOYWFPbTdBTEhGRUs4T3lNS1BXVE00bm41aE0tWE9WSFJYTW5sV3BzTVlFMlQ3UWRXakdmX1V2ZThCcmp4SU80NmVkUkdIcWJUNmVyVnlUSE9IaFVHaDcycEhUZmJRdUdZb1M4d2VJVGpFYk9HQ2xLWC1BRlhOcmZ4TG42VnQtczY2bGlqeHd1YXdoZWd5OXluR3h4WEZNdThKOWx4dEU0Wl9mNkVYQw?oc=5",
+      "source": "Infobae",
+      "sourceDomain": "infobae.com",
+      "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "\"Super El Niño\": los gráficos que muestran por qué puede ser el fenómeno más extremo en décadas (y cuáles serían sus efectos)",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSF8wQ1ZOLXBzX3E1Z1lodTZLbTZzMDNXN18zZThadW5temJOSjl5UkY1eTZGZ3FnaFN6ODh5UDdvSEtEN0xyUDNPSUZ6VGZVOXhwcFNITUZGV3FQLVh6bGJOYzc1bDlEN2NJOVFOVm1jbkhHU19tN0d4b0RtUm9kQmhR?oc=5",
+      "source": "BBC",
+      "sourceDomain": null,
+      "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT"
+    }
+  ]
 }

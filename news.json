@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T12:26:04.030Z",
+  "generatedAt": "2026-09-07T14:32:12.920Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTU9hSkZNY0Q1SHVNaVduWm5Jckx6aUlvX0RrYkNYSlY5RFhCdUpiR1FFZHYzRDlqRlRnclhiYUE5eHUzelptQUkwYUJRUDlZZFYxVlYtVUh2NFdFU3ZJX1VTQTA5VHVvWnVuY3B3OW9CUk5aSUhmSVJSRnRqTHpLX1ROaHc1VTRYMHc1UHIwTHdmNDd5RUZkRGwwRmN4U01BSTkwRE130gGzAUFVX3lxTE1GS1ZmWHVtdnNXa2pxRG1KUE1fT09nUFB0QjRoWmlJOVdib2E3MTF3ejB2U3hwOE0zUzRJUEo1cDJtSlNQVnpqSTFEZUMwV1VraFhqZXdnbGFjZHlKTXR4eERUTTM1R3pSby1xUFpwY2E3Q3kyWFJQM2FRUVVzb0Q5Mm4wdVRNQWFPNElRZnFEdEJDNGZKOHpZZGRydlE3SUZPdENoeTVlRmlnT3VYeW9qbC0w?oc=5",
       "source": "ultimahora.com",
       "sourceDomain": null,
-      "pubDate": "Sat, 29 Aug 2026 01:07:00 GMT",
+      "pubDate": "Fri, 28 Aug 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -41,9 +41,25 @@
       "category": "barrio"
     },
     {
+      "title": "Pronóstico meteorológico de Nanawa, Presidente Hayes, Paraguay",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83bTZYQXZpb0NxbUx5ZVd4eXJBSDU1bWtUVndGTm1YblY0VmJwRjQxVFJMVmxJUEszVHQ0VHRURWJWYnhXWmtiTkZ2U2FhaFFQd1k5bXpEZU13ZTZJbzFPTTBVeEhHZ3lzOUxyRHh2S2N0bFBGLVZCcWxFVnRSUQ?oc=5",
+      "source": "MSN",
+      "sourceDomain": null,
+      "pubDate": "Thu, 05 Mar 2026 01:06:33 GMT",
+      "category": "barrio"
+    },
+    {
       "title": "Nanawa: intendente oculta datos y retiene salarios porque tiene respaldo de Bachi, denuncian concejales",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEpHbnYzbzVtMFVtTG1fSTVrYUlEZEYxLTBocHItSmxJME1BNVBOU2cyV3pMbElxazNWTE9TVVdmeThVclhZRVFzck50SE9ILVczVmsyZzgzN2Nob0dvaDBRYnhmTE1oZnc2aTJRWnZLVkxwWGx0bUNELUYwdU80NHRUaFotMnpiQjFuQVMwX0hYMkRJNGgycWppaWNHTkdnY1Z0aGxYMXRxYWljRmlfTjBNSmdKLWJma2VTNUlPOGJxQ1NWa1ZwejNSTUg3bk9IdVVFMzg0b3FUMU11OUHSAfIBQVVfeXFMTTNPbGZaRmJoZmdkX0NEU204dUd3Q1dUaklIcGh0eVlsNUZLQWphNUJrMTRydy1TQnpFaEdlcUdkWFliRDFIUmU1STBicWNmZkNaVXpUa3JMNVRqeG1IbWtXWlBvSHJOX1I2amVyamV5Y25jVkhPNUo1YXlZdlhSQ09yNUZ6NWl4MjRjbFp4N3FzUVlYbWUwM1Q0eVhkV3Z4cnhad0tVYmhGX3lEbEZ1V3JLUklBYVVtVmNFUVdxVDUxQXhYR1E3Vmx3OVZwOE9BRjRXdEVHWkVuUFlQVVRuOEdfaHRrb2xTR21TOTJ5emRLY0E?oc=5",
       "source": "abc.com.py",
+      "sourceDomain": null,
+      "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Otorgan a Nanawa más de G. 1.500 millones pese a denuncias y el intendente acusado se defiende",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0ZrVlhMOXA0V3g2UUNhbFBCZ1pqcDJIOGNSUVFra2lFQ2c4czhBdVRPYWptSmZQelBpQ3N3RlFwazJSV2l3Z29EZUJnOFU4OExqa3NxdUU2X1k4NTFSbG83WGpjOXB5cF9wbWpnTEE1cm1XeGpFUHlpYzkzWG02X21pMFFTZVlfazVfYlNRbXJQdFNDWmMtY1JOOTZxWWtpMVRieUVtaE5SRlEzaW9DMWd2dlY1djZiMk1MQtIBygFBVV95cUxPbnJoTlNSUW1Gd2FUdmJsbkdlUExEYnpQSldxRmtoTjBGQlRtM0FoTUlBX2JPbGd2ZGhraWM1VkRyaEM4dlFBVjY3bDlFX2hnZUlVa3F2TF9sUzZjT2NHY3ZrTEI4TkVlWVFWRUtxMmZFaDVLSzA2em1fZ3kwQTVUOGJsSEVlNklTQ2lnNGhpWUx3aTl5ZHp1MEROTGZ0Rm02MmpDNkpXVF9Xekk1N2tqaFBkOGp3cFVGVjhWVE9NVlFJTVRRZmhLSnV3?oc=5",
+      "source": "ultimahora.com",
       "sourceDomain": null,
       "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT",
       "category": "barrio"
@@ -57,22 +73,6 @@
       "category": "barrio"
     },
     {
-      "title": "Otorgan a Nanawa más de G. 1.500 millones pese a denuncias y el intendente acusado se defiende",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0ZrVlhMOXA0V3g2UUNhbFBCZ1pqcDJIOGNSUVFra2lFQ2c4czhBdVRPYWptSmZQelBpQ3N3RlFwazJSV2l3Z29EZUJnOFU4OExqa3NxdUU2X1k4NTFSbG83WGpjOXB5cF9wbWpnTEE1cm1XeGpFUHlpYzkzWG02X21pMFFTZVlfazVfYlNRbXJQdFNDWmMtY1JOOTZxWWtpMVRieUVtaE5SRlEzaW9DMWd2dlY1djZiMk1MQtIBygFBVV95cUxPbnJoTlNSUW1Gd2FUdmJsbkdlUExEYnpQSldxRmtoTjBGQlRtM0FoTUlBX2JPbGd2ZGhraWM1VkRyaEM4dlFBVjY3bDlFX2hnZUlVa3F2TF9sUzZjT2NHY3ZrTEI4TkVlWVFWRUtxMmZFaDVLSzA2em1fZ3kwQTVUOGJsSEVlNklTQ2lnNGhpWUx3aTl5ZHp1MEROTGZ0Rm02MmpDNkpXVF9Xekk1N2tqaFBkOGp3cFVGVjhWVE9NVlFJTVRRZmhLSnV3?oc=5",
-      "source": "ultimahora.com",
-      "sourceDomain": null,
-      "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "Peña veta expropiación de finca a favor de la Essap en Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkhSM2tXUUZkMHJGU2xnbmNzTVlKUDJRZUdkanB0TURCOXkyUmdIV2RqOGw0SWtRQWVQQWx5LTBLNVlBRklKSzFzRTVCT21faWJFR09CN1NieFBtT19qSG95dHRnVnN6VjB0SDBBQTFRemJDWjJxVTJaaTJLTnhYT2k1N240cmU3ZjZseGNXdHR2M19uSnFQLWs3ZGlIdGdfYnMtVW9pWTHSAbwBQVVfeXFMUHhOY3N5NjN0Q0JhSGtOUHdLYzUzQ3dZa3ZCTTVVbENLZVpOLUxDVkpBcUgyM09nblF0ZFJXSFo1aVhfSERobGpZcVJvWHI1VkdOWTlRMXlVS2ZBcXYxNHhlWmJUd0ZMZndFN2Y1ZmhsQmUzV0NiU3VRZTg5Y0lYNkJnYzVpWHFWRXRidlNWZ0tLUVp1bDFWQzJCTHNLVXAzU0NZS3RqVGZTVDBVcmhtRmJzdjVzQ2lJUkJwcWo?oc=5",
-      "source": "abc.com.py",
-      "sourceDomain": null,
-      "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
       "title": "Fiscalía imputó a los presuntos asesinos de una joven argentina en Nanawa",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGNRcC1jWHZZQmFHOFlmeUQxcXIwRkdELTMzUEdnRVlxLWkzNkxiRmpRNnJOM284eXRxdWtRYVJycDdGcXUzelgxY21LbVE0Rm5lbHp5bm85Uk9faGx4aWRjSlhnblRHUU5ZUmRuY2F1bDY5RGJKNS1ZUFI5dXFlY0xDTTQ5UExOXzhEa2JqNnJwLXIxVFJVUHpkQTcxSmpwUTEyVTFaZkxXUnJ5SVZSSmh3UzlORHBicVdv0gHPAUFVX3lxTFBzT1hDa2lyMmkzWTBzX20xbmkwU2VXOHZMNUMxckRXTnpOOXlnZTQxOXZlbmhrTFJRTU5KVnZuX2JnWE5aUV90cTlVVENOdTN6di1YdE8tWmlleVFFSzRvLXg4by1kZDRLcWxENVZNcS1iWGdGcFB0SHhub2FlVS1xTHFyWmlpVHZCXzJCVmpsdVhNdjZwSHVja0lUenh4VjJXRjdFMVJndmZJampodGlWdFNkQ1lXZUpSdEEtY1hscjZ2bEtwcDVjb1g0Sm9jVQ?oc=5",
       "source": "abc.com.py",
@@ -81,131 +81,131 @@
       "category": "barrio"
     },
     {
-      "title": "“Puerto Madero” de Asunción: negocio de “Coto” Nogués ya empieza a facturar",
-      "link": "https://www.abc.com.py/economia/2026/09/06/puerto-madero-de-asuncion-negocio-de-coto-nogues-ya-empieza-a-facturar/",
+      "title": "Pedidos de informes sobre fondos del IPS en Ueno Bank y restitución de pagarés, en agenda del Senado",
+      "link": "https://www.abc.com.py/politica/2026/09/07/pedidos-de-informes-sobre-fondos-del-ips-en-ueno-bank-y-restitucion-de-pagares-en-agenda-del-senado/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 06 Sep 2026 11:00:00 +0000",
+      "pubDate": "Mon, 07 Sep 2026 14:28:06 +0000",
       "category": "pais"
     },
     {
-      "title": "La polémica sesión en plena pandemia que llevó a Hernán Rivas al JEM: así justificaron su designación",
-      "link": "https://www.abc.com.py/politica/2026/09/06/la-polemica-sesion-en-plena-pandemia-que-llevo-a-hernan-rivas-al-jem-asi-justificaron-su-designacion/",
+      "title": "Cartistas impulsan pedido de informe al BCP sobre operaciones de Ueno Bank",
+      "link": "https://www.abc.com.py/politica/2026/09/07/cartistas-impulsan-pedido-de-informe-al-bcp-sobre-operaciones-de-ueno-bank/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 06 Sep 2026 10:00:00 +0000",
+      "pubDate": "Mon, 07 Sep 2026 14:25:42 +0000",
       "category": "pais"
     },
     {
-      "title": "FADA-UNA plantea incorporar propuestas académicas a la gestión pública para mejorar las ciudades",
-      "link": "https://www.abc.com.py/economia/2026/09/06/fada-una-plantea-incorporar-propuestas-academicas-a-la-gestion-publica-para-mejorar-las-ciudades/",
+      "title": "Crisis sanitaria: senadores disidentes ven con buenos ojos la creación de un comité especial",
+      "link": "https://www.abc.com.py/nacionales/2026/09/07/crisis-sanitaria-senadores-disidentes-ven-con-buenos-ojos-la-creacion-de-un-comite-especial/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 06 Sep 2026 10:00:00 +0000",
+      "pubDate": "Mon, 07 Sep 2026 14:12:40 +0000",
       "category": "pais"
     },
     {
-      "title": "Caso Bajac: condenado por coima pide prisión domiciliaria",
-      "link": "https://www.abc.com.py/nacionales/2026/09/06/caso-bajac-condenado-por-coima-pide-prision-domiciliaria/",
+      "title": "Operación Drop: cárcel para cuatro miembros del Clan Verón y buscan a otro cabecilla",
+      "link": "https://www.abc.com.py/nacionales/2026/09/07/operacion-drop-carcel-para-cuatro-miembros-del-clan-veron-y-buscan-a-otro-cabecilla/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 06 Sep 2026 10:00:00 +0000",
+      "pubDate": "Mon, 07 Sep 2026 14:09:44 +0000",
       "category": "pais"
     },
     {
-      "title": "Domingo con amanecer frío y cielo parcialmente nublado",
-      "link": "https://www.abc.com.py/clima/2026/09/06/domingo-con-amanecer-frio-y-cielo-parcialmente-nublado/",
+      "title": "¡Chiqui Arce contó el motivo que lo llevó a decir chauchesku a las redes!",
+      "link": "https://www.popular.com.py/2026/09/07/chiqui-arce-conto-el-motivo-que-lo-llevo-a-decir-chauchesku-a-las-redes/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Mon, 07 Sep 2026 14:08:19 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Santa María de Fe celebrará a su patrona entre historia y tradición",
+      "link": "https://www.abc.com.py/viajes/2026/09/07/santa-maria-de-fe-celebrara-a-su-patrona-entre-historia-y-tradicion/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 06 Sep 2026 09:27:39 +0000",
+      "pubDate": "Mon, 07 Sep 2026 13:58:35 +0000",
       "category": "pais"
     },
     {
-      "title": "De hidroeléctrica a megapuente atirantado: así evolucionó la ingeniería paraguaya ",
-      "link": "https://www.abc.com.py/economia/2026/09/06/de-hidroelectrica-a-megapuente-atirantado-asi-evoluciono-la-ingenieria-paraguaya/",
+      "title": "¿Caída por ataque o ACV? Las “sospechas” del director del Hospital Nacional sobre Hugo Javier",
+      "link": "https://www.abc.com.py/nacionales/2026/09/07/caida-por-ataque-o-acv-las-sospechas-del-director-del-hospital-nacional-sobre-hugo-javier/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 06 Sep 2026 08:00:00 +0000",
+      "pubDate": "Mon, 07 Sep 2026 13:56:30 +0000",
       "category": "pais"
     },
     {
-      "title": "Con nueva ley buscan que el IPS siga colocando  por encima del tope actual",
-      "link": "https://www.abc.com.py/economia/2026/09/06/proyecto-de-ley-permitira-que-ips-siga-colocando-fondos-en-ueno-por-encima-del-tope-legal/",
+      "title": "Hugo Javier está en la indigencia, según abogado que pide ver las cámaras de seguridad ",
+      "link": "https://www.abc.com.py/nacionales/2026/09/07/hugo-javier-esta-en-la-indigencia-segun-abogado-que-pide-ver-las-camaras-de-seguridad/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 06 Sep 2026 04:00:01 +0000",
+      "pubDate": "Mon, 07 Sep 2026 13:46:50 +0000",
       "category": "pais"
     },
     {
-      "title": "Operación Berilo: el cumpleaños que tumbó a Cucho Cabaña",
-      "link": "https://www.abc.com.py/policiales/2026/09/06/operacion-berilo-el-cumpleanos-que-tumbo-a-cucho-cabana/",
+      "title": "Congreso instala Comisión Bicameral que estudiará el PGN 2027: quiénes la integran",
+      "link": "https://www.abc.com.py/economia/2026/09/07/congreso-instala-comision-bicameral-que-estudiara-el-pgn-2027-sepa-quienes-la-integran/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sun, 06 Sep 2026 04:00:01 +0000",
+      "pubDate": "Mon, 07 Sep 2026 13:44:02 +0000",
       "category": "pais"
     },
     {
-      "title": "Operación Drop: ¡Desarticulan feroz organización de narcomenudeo y lavado de activos!",
-      "link": "https://www.popular.com.py/2026/09/05/operacion-drop-desarticulan-feroz-organizacion-de-narcomenudeo-y-lavado-de-activos/",
+      "title": "Universitarios vale en alianza con empresa proyectan fumigar con IA",
+      "link": "https://www.popular.com.py/2026/09/07/universitarios-vale-en-alianza-con-empresa-proyectan-fumigar-con-ia/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sun, 06 Sep 2026 01:10:00 +0000",
+      "pubDate": "Mon, 07 Sep 2026 13:40:14 +0000",
       "category": "pais"
     },
     {
-      "title": "Triunfo purete de ñande piloto en Monza, Italia",
-      "link": "https://www.popular.com.py/2026/09/05/triunfo-purete-de-nande-piloto-en-monza-italia/",
+      "title": "Lorena Denis: “Ayúdennos a responder la pregunta ¿dónde está mi papá?”",
+      "link": "https://www.popular.com.py/2026/09/07/lorena-denis-ayudennos-a-responder-la-pregunta-donde-esta-mi-papa/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 05 Sep 2026 14:27:35 +0000",
+      "pubDate": "Mon, 07 Sep 2026 13:39:09 +0000",
       "category": "pais"
     },
     {
-      "title": "Ho’a proveedor de “merca” a indígenas",
-      "link": "https://www.popular.com.py/2026/09/05/hoa-proveedor-de-merca-a-indigenas/",
+      "title": "Requisa mbarete en la excárcel de Tacumbú",
+      "link": "https://www.popular.com.py/2026/09/07/requisa-mbarete-en-la-excarcel-de-tacumbu/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 05 Sep 2026 11:18:05 +0000",
+      "pubDate": "Mon, 07 Sep 2026 13:24:59 +0000",
       "category": "pais"
     },
     {
-      "title": "Olimpia se va a quedar sin Eduardo Delmás",
-      "link": "https://www.popular.com.py/2026/09/04/olimpia-se-va-a-quedar-sin-eduardo-delmas/",
+      "title": "Desde hoy el IPS habilita censo digital ",
+      "link": "https://www.popular.com.py/2026/09/07/desde-hoy-el-ips-habilita-censo-digital/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 04 Sep 2026 23:29:43 +0000",
+      "pubDate": "Mon, 07 Sep 2026 13:06:27 +0000",
       "category": "pais"
     },
     {
-      "title": "Doctora denunció que su novio, un funcionario de IPS, desapareció después de una discusión",
-      "link": "https://www.popular.com.py/2026/09/04/doctora-denuncio-que-su-novio-un-funcionario-de-ips-desaparecio-despues-de-una-discusion/",
+      "title": "En terapia intensiva: Hugo Javier ojegueraha al HNI",
+      "link": "https://www.popular.com.py/2026/09/07/en-terapia-intensiva-hugo-javier-ojegueraha-al-hni/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 04 Sep 2026 23:24:58 +0000",
+      "pubDate": "Mon, 07 Sep 2026 13:04:41 +0000",
       "category": "pais"
     },
     {
-      "title": "Dieron detalles de la negociación por Matía Galarza",
-      "link": "https://www.popular.com.py/2026/09/04/dieron-detalles-de-la-negociacion-por-matia-galarza/",
+      "title": "¡Fueron a despedir a un familiar en el cementerio ha upeaja oñemoperömbaite!",
+      "link": "https://www.popular.com.py/2026/09/07/fueron-a-despedir-a-un-familiar-en-el-cementerio-ha-upeaja-onemoperombaite/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 04 Sep 2026 23:19:44 +0000",
+      "pubDate": "Mon, 07 Sep 2026 13:02:46 +0000",
       "category": "pais"
     },
     {
-      "title": "¡Muni de Asu elimina vertederos clandé ha oîma multazas!",
-      "link": "https://www.popular.com.py/2026/09/04/muni-de-asu-elimina-vertederos-clande-ha-oima-multazas/",
+      "title": "¡Ainara Ávalos y una amiga se llevaron un sustazo!",
+      "link": "https://www.popular.com.py/2026/09/07/ainara-avalos-y-una-amiga-se-llevaron-un-sustazo/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 04 Sep 2026 22:05:04 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "No aprenden: Ho’a jeýma doña y retoño “narco-recicladores”",
-      "link": "https://www.popular.com.py/2026/09/04/no-aprenden-hoa-jeyma-dona-y-retono-narco-recicladores/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 04 Sep 2026 19:05:52 +0000",
+      "pubDate": "Mon, 07 Sep 2026 13:01:48 +0000",
       "category": "pais"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T13:48:48.459Z",
+  "generatedAt": "2026-09-17T13:51:14.696Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -19,7 +19,7 @@
     {
       "title": "Proyecto de ley busca potenciar desarrollo territorial en municipios de Presidente Hayes y Central",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xbHNFb190RjloZGxBRTJmVjRPUUV2RU13TFY2U2FYamg4YWRjWFNWcnlxOV9uNHZ5dWtVRkpEZ2Y1UW1MMVBoWlBqSHV5Zk9HLWxVa2NQbU1GQzFNZUpPSQ?oc=5",
-      "source": "Cámara de Diputados del Paraguay",
+      "source": "diputados.gov.py",
       "sourceDomain": null,
       "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
       "category": "barrio"
@@ -57,14 +57,6 @@
       "category": "barrio"
     },
     {
-      "title": "Peña veta expropiación de finca a favor de la Essap en Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkhSM2tXUUZkMHJGU2xnbmNzTVlKUDJRZUdkanB0TURCOXkyUmdIV2RqOGw0SWtRQWVQQWx5LTBLNVlBRklKSzFzRTVCT21faWJFR09CN1NieFBtT19qSG95dHRnVnN6VjB0SDBBQTFRemJDWjJxVTJaaTJLTnhYT2k1N240cmU3ZjZseGNXdHR2M19uSnFQLWs3ZGlIdGdfYnMtVW9pWTHSAbwBQVVfeXFMUHhOY3N5NjN0Q0JhSGtOUHdLYzUzQ3dZa3ZCTTVVbENLZVpOLUxDVkpBcUgyM09nblF0ZFJXSFo1aVhfSERobGpZcVJvWHI1VkdOWTlRMXlVS2ZBcXYxNHhlWmJUd0ZMZndFN2Y1ZmhsQmUzV0NiU3VRZTg5Y0lYNkJnYzVpWHFWRXRidlNWZ0tLUVp1bDFWQzJCTHNLVXAzU0NZS3RqVGZTVDBVcmhtRmJzdjVzQ2lJUkJwcWo?oc=5",
-      "source": "abc.com.py",
-      "sourceDomain": null,
-      "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
       "title": "Otorgan a Nanawa más de G. 1.500 millones pese a denuncias y el intendente acusado se defiende",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0ZrVlhMOXA0V3g2UUNhbFBCZ1pqcDJIOGNSUVFra2lFQ2c4czhBdVRPYWptSmZQelBpQ3N3RlFwazJSV2l3Z29EZUJnOFU4OExqa3NxdUU2X1k4NTFSbG83WGpjOXB5cF9wbWpnTEE1cm1XeGpFUHlpYzkzWG02X21pMFFTZVlfazVfYlNRbXJQdFNDWmMtY1JOOTZxWWtpMVRieUVtaE5SRlEzaW9DMWd2dlY1djZiMk1MQg?oc=5",
       "source": "ultimahora.com",
@@ -73,139 +65,147 @@
       "category": "barrio"
     },
     {
-      "title": "Joven muere calcinada en supuesto ataque de una mujer a su ex pareja",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUTVGNHpsYjl5d0JUdWs5MGxYam55YkxKS1ZTVlZBc1BvSlpPQy1GdE1qVWRoMjNEV2VFREo0anNDcFFfYVgyVzNFRjlYUmRYUVQ1MjlvMDd6VEZHbFVJOEJwX3liUWloS24zWDVOVDBBUGtRNU9EdGFqZnNBeDFXbFN5cklRWjlSeEx3blZ1UnB6ejJlQnJKT3RXVdIBqAFBVV95cUxNd2JYeEZ3bXhkbEFVVnZlcmtfNEJDeW5mYkN6SGowU21BMnNwWXRoWXJvVnVsN2pSRjlsdFJpc2V2d0Z0REhTSUlxYzloa1FDYzNSUkdEYjJhM05uMFd3Yi1sMmdnUlkteEdtTFA1bjltOUZacG9GV3JnQkhzLURVcUpuenF4YkJkU29CVmFIYzVveXhvRS1ZYjBkVjQ3X21EX1FUQl95OUM?oc=5",
-      "source": "ultimahora.com",
+      "title": "Peña veta expropiación de finca a favor de la Essap en Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkhSM2tXUUZkMHJGU2xnbmNzTVlKUDJRZUdkanB0TURCOXkyUmdIV2RqOGw0SWtRQWVQQWx5LTBLNVlBRklKSzFzRTVCT21faWJFR09CN1NieFBtT19qSG95dHRnVnN6VjB0SDBBQTFRemJDWjJxVTJaaTJLTnhYT2k1N240cmU3ZjZseGNXdHR2M19uSnFQLWs3ZGlIdGdfYnMtVW9pWTHSAbwBQVVfeXFMUHhOY3N5NjN0Q0JhSGtOUHdLYzUzQ3dZa3ZCTTVVbENLZVpOLUxDVkpBcUgyM09nblF0ZFJXSFo1aVhfSERobGpZcVJvWHI1VkdOWTlRMXlVS2ZBcXYxNHhlWmJUd0ZMZndFN2Y1ZmhsQmUzV0NiU3VRZTg5Y0lYNkJnYzVpWHFWRXRidlNWZ0tLUVp1bDFWQzJCTHNLVXAzU0NZS3RqVGZTVDBVcmhtRmJzdjVzQ2lJUkJwcWo?oc=5",
+      "source": "abc.com.py",
       "sourceDomain": null,
-      "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
-      "title": "Bachi Núñez pide dejar que Alliana elija a su precandidato a vicepresidente",
-      "link": "https://www.abc.com.py/politica/2026/09/16/bachi-nunez-pide-dejar-que-alliana-elija-a-su-precandidato-a-vicepresidente/",
+      "title": "Argentina cierra con portón la pasarela entre Clorinda y Nanawa y las reacciones no se hacen esperar",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX1lhN1VSZFF1ZGJNWVNFd1NaWlJ2U0txQ1dfa0dGNmpkX2hCZTdaSFZ5Yl9fcGVESWhvNS1PdG8taUtFQVZoZ3V4UFNhRlV0TG45UkNjTVFRcTFmT3I2YkEzVldFY21qNTZSNlRqRUM0c2tZUjhIN0JfaWZiNVpVcnNBT3JjNGtvcE5kLUd1NlZKLVJyd290N3lYVExHSjNaVVVVcEZxVUtqR1N4YnVtU3B2OTFIZnRQdi16VGZnY0x0YXNDLWfSAdMBQVVfeXFMT1hPRjFvVjNJRG5Fcjl3ZHI0YmppaXE0Skt0NnFTOUo4OERTV2ZzcnRkamNiMFM2T3VFMHd5N00xMHNvb2JQcW44RFZzMUVqZHpaQTAzaG5WTzNmN0tRT2RLZ0tSZWNRb1ZZY3FzQU9LcU5SSzBLY3lSSkNFdk9keGZsZ0JzdzBNbnQ4RXVPdi1QUlppYmsxb3ZjTWZZV0M0Nk5fMV80SWk4SlBaTXA3eklBTXY2V2dLWTFfbkhkZ3pNQ2FhS0stVF85OGhsTkRxQXFRNA?oc=5",
+      "source": "ultimahora.com",
+      "sourceDomain": null,
+      "pubDate": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Paraguayo fue detenido con 212 kilos de marihuana en el Puente de la Amistad ",
+      "link": "https://www.abc.com.py/este/2026/09/17/paraguayo-fue-detenido-con-212-kilos-de-marihuana-en-el-puente-de-la-amistad/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 16 Sep 2026 13:41:25 +0000",
+      "pubDate": "Thu, 17 Sep 2026 13:35:01 +0000",
       "category": "pais"
     },
     {
-      "title": "Oposición oficializa acuerdo y busca la Intendencia en Ayolas",
-      "link": "https://www.abc.com.py/politica/2026/09/16/oposicion-oficializa-acuerdo-y-busca-la-intendencia-en-ayolas/",
+      "title": "OTEP-A rechaza el acuerdo entre el Gobierno y la FEP y trasladará sus reclamos al Congreso",
+      "link": "https://www.abc.com.py/nacionales/2026/09/17/otep-a-rechaza-el-acuerdo-entre-el-gobierno-y-la-fep-y-trasladara-sus-reclamos-al-congreso/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 16 Sep 2026 13:33:21 +0000",
+      "pubDate": "Thu, 17 Sep 2026 13:33:42 +0000",
       "category": "pais"
     },
     {
-      "title": "Video: la espada de San Miguel Arcángel visitará Paraguay por primera vez",
-      "link": "https://www.abc.com.py/nacionales/2026/09/16/video-la-espada-de-san-miguel-arcangel-visitara-paraguay-por-primera-vez/",
+      "title": "Asegurada reclamó a funcionaria del IPS que le negó pohã",
+      "link": "https://www.popular.com.py/2026/09/17/asegurada-reclamo-a-funcionaria-del-ips-que-le-nego-poha/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Thu, 17 Sep 2026 13:32:49 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Ojapo traslado aéreo exitoso de una puerpera hasta Concepción ",
+      "link": "https://www.popular.com.py/2026/09/17/ojapo-traslado-aereo-exitoso-de-una-puerpera-hasta-concepcion/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Thu, 17 Sep 2026 13:31:05 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Baruja publica foto con Peña y Alliana en medio de discordia cartista: mirá lo que dijo",
+      "link": "https://www.abc.com.py/politica/2026/09/17/baruja-publica-foto-con-pena-y-alliana-en-medio-de-discordia-cartista-mira-lo-que-dijo/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 16 Sep 2026 13:27:20 +0000",
+      "pubDate": "Thu, 17 Sep 2026 13:25:33 +0000",
       "category": "pais"
     },
     {
-      "title": "Rotación de residentes: plantean una salida para la crisis de especialistas en Alto Paraguay",
-      "link": "https://www.abc.com.py/nacionales/chaco/2026/09/16/rotacion-de-residentes-plantean-una-salida-para-la-crisis-de-especialistas-en-alto-paraguay/",
+      "title": "Costanera Norte: la millonaria promesa del Parque Lineal que quedó en el olvido",
+      "link": "https://www.abc.com.py/nacionales/2026/09/17/costanera-norte-la-millonaria-promesa-del-parque-lineal-que-quedo-en-el-olvido/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 16 Sep 2026 13:23:45 +0000",
+      "pubDate": "Thu, 17 Sep 2026 13:20:43 +0000",
       "category": "pais"
     },
     {
-      "title": "Lluvias y calor húmedo marcarán la transición hacia la primavera, anticipa Meteorología",
-      "link": "https://www.abc.com.py/clima/2026/09/16/lluvias-y-calor-humedo-marcaran-la-transicion-hacia-la-primavera-anticipa-meteorologia/",
+      "title": "Suba de combustibles: ¿hasta cuándo Petropar mantendrá sus precios?",
+      "link": "https://www.abc.com.py/nacionales/2026/09/17/suba-de-combustibles-hasta-cuando-petropar-mantendra-sus-precios/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 16 Sep 2026 13:22:09 +0000",
+      "pubDate": "Thu, 17 Sep 2026 13:15:38 +0000",
       "category": "pais"
     },
     {
-      "title": "Oficialismo busca apaciguar las aguas tras el “cortocircuito” entre Cartes y Alliana por la candidatura a vicepresidente",
-      "link": "https://www.abc.com.py/nacionales/2026/09/16/oficialismo-busca-apaciguar-las-aguas-tras-el-cortocircuito-entre-cartes-y-alliana-por-la-candidatura-a-vicepresidente/",
+      "title": "UNE anuncia ruptura intersindical tras anuncio de acuerdo con el Gobierno",
+      "link": "https://www.abc.com.py/policiales/2026/09/17/une-anuncia-ruptura-intersindical-tras-anuncio-de-acuerdo-con-el-gobierno/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 16 Sep 2026 13:14:38 +0000",
+      "pubDate": "Thu, 17 Sep 2026 13:10:12 +0000",
       "category": "pais"
     },
     {
-      "title": "(GALERÍA) ¡Modelo paraguaya pasea por Londres separada de su novio famoso?",
-      "link": "https://www.popular.com.py/2026/09/16/galeria-modelo-paraguaya-pasea-por-londres-separada-de-su-novio-famoso/",
+      "title": "¿Sale Marilina Bogado y entra Fabi Martínez?",
+      "link": "https://www.popular.com.py/2026/09/17/sale-marilina-bogado-y-entra-fabi-martinez/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 16 Sep 2026 13:06:41 +0000",
+      "pubDate": "Thu, 17 Sep 2026 13:09:43 +0000",
       "category": "pais"
     },
     {
-      "title": "Condenan a 25 años de cárcel a hombre por matar a su hermano por comida, en Pirayú",
-      "link": "https://www.abc.com.py/policiales/2026/09/16/condenan-a-25-anos-de-carcel-a-hombre-por-matar-a-su-hermano-por-comida-en-pirayu/",
+      "title": "Kinesiólogos y fisioterapeutas se movilizan este viernes: piden trabajar 20 horas semanales",
+      "link": "https://www.abc.com.py/nacionales/2026/09/17/kinesiologos-y-fisioterapeutas-se-movilizan-este-viernes-piden-trabajar-20-horas-semanales/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 16 Sep 2026 13:04:00 +0000",
+      "pubDate": "Thu, 17 Sep 2026 13:07:22 +0000",
       "category": "pais"
     },
     {
-      "title": "Ojetopa medio kilo del purete en un auto",
-      "link": "https://www.popular.com.py/2026/09/16/ojetopa-medio-kilo-del-purete-en-un-auto/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 16 Sep 2026 12:41:51 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Se entregó la sobrina del finado “Lalo” Gomes",
-      "link": "https://www.popular.com.py/2026/09/16/se-entrego-la-sobrina-del-finado-lalo-gomes/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 16 Sep 2026 12:39:58 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Asaltan local de puchos electrónicos",
-      "link": "https://www.popular.com.py/2026/09/16/asaltan-local-de-puchos-electronicos/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 16 Sep 2026 12:38:45 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "¿Negligencia?: Omano mitâ’i de 12 años en Luque",
-      "link": "https://www.popular.com.py/2026/09/16/negligencia-omano-mitai-de-12-anos-en-luque/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 16 Sep 2026 12:36:13 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Ante diputados, Flecha se lanza contra la injusticia, el copamiento de poder y la impunidad",
-      "link": "https://www.abc.com.py/nacionales/2026/09/16/ante-diputados-flecha-se-lanza-contra-la-injusticia-el-copamiento-de-poder-y-la-impunidad/",
+      "title": "A 46 años del “bazucazo” a Somoza, el atentado que sacudió el régimen de Stroessner",
+      "link": "https://www.abc.com.py/nacionales/2026/09/17/a-46-anos-del-bazucazo-a-somoza-el-atentado-que-sacudio-el-regimen-de-stroessner/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 16 Sep 2026 12:27:01 +0000",
+      "pubDate": "Thu, 17 Sep 2026 13:02:15 +0000",
       "category": "pais"
     },
     {
-      "title": "(VIDEO) Laurys sobre su novio ideal: “Tiene que ser más hombre que yo”",
-      "link": "https://www.popular.com.py/2026/09/16/video-laurys-sobre-su-novio-ideal-tiene-que-ser-mas-hombre-que-yo/",
+      "title": "Feminicidio: Doña baleada hovápe omano tras días de agonía",
+      "link": "https://www.popular.com.py/2026/09/17/feminicidio-dona-baleada-hovape-omano-tras-dias-de-agonia/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 16 Sep 2026 12:02:54 +0000",
+      "pubDate": "Thu, 17 Sep 2026 12:20:51 +0000",
       "category": "pais"
     },
     {
-      "title": "(VIDEO) ¡Pipino Cuevas cumplió un sueño en reality de canto de ashá!",
-      "link": "https://www.popular.com.py/2026/09/16/video-pipino-cuevas-cumplio-un-sueno-en-reality-de-canto-de-asha/",
+      "title": "¡Doña de Tim Payne contó cómo lleva su vida en Paraguay y su mayor akã rasy!",
+      "link": "https://www.popular.com.py/2026/09/17/dona-de-tim-payne-conto-como-lleva-su-vida-en-paraguay-y-su-mayor-aka-rasy/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 16 Sep 2026 11:04:35 +0000",
+      "pubDate": "Thu, 17 Sep 2026 12:04:30 +0000",
       "category": "pais"
     },
     {
-      "title": "(GALERÍA) En medio de su cumple, ñande Miss Grand voló a Tailandia, ¡y dejó un regalazo!",
-      "link": "https://www.popular.com.py/2026/09/16/galeria-en-medio-de-su-cumple-nande-miss-grand-volo-a-tailandia-y-dejo-un-regalazo/",
+      "title": "(VIDEO) Oniichan: “Desde que estoy más rellenadita, soy más takuchila”",
+      "link": "https://www.popular.com.py/2026/09/17/video-oniichan-desde-que-estoy-mas-rellenadita-soy-mas-takuchila/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 16 Sep 2026 10:25:02 +0000",
+      "pubDate": "Thu, 17 Sep 2026 11:11:12 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "¡Purete! ¡Berta Rojas ligó tres nominaciones a los Grammys!",
+      "link": "https://www.popular.com.py/2026/09/17/purete-berta-rojas-ligo-tres-nominaciones-a-los-grammys/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Thu, 17 Sep 2026 10:40:26 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "¡Nadia Ferreira sorprendió a su ména con un festejó privé y de sorpresa!",
+      "link": "https://www.popular.com.py/2026/09/17/nadia-ferreira-sorprendio-a-su-mena-con-un-festejo-prive-y-de-sorpresa/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Thu, 17 Sep 2026 10:00:08 +0000",
       "category": "pais"
     },
     {

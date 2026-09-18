@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T13:51:14.696Z",
+  "generatedAt": "2026-09-18T13:13:25.285Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -9,35 +9,11 @@
   ],
   "items": [
     {
-      "title": "Buscan flexibilizar horario de portón sobre pasarela entre Clorinda y Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTU9hSkZNY0Q1SHVNaVduWm5Jckx6aUlvX0RrYkNYSlY5RFhCdUpiR1FFZHYzRDlqRlRnclhiYUE5eHUzelptQUkwYUJRUDlZZFYxVlYtVUh2NFdFU3ZJX1VTQTA5VHVvWnVuY3B3OW9CUk5aSUhmSVJSRnRqTHpLX1ROaHc1VTRYMHc1UHIwTHdmNDd5RUZkRGwwRmN4U01BSTkwRE130gGzAUFVX3lxTE1GS1ZmWHVtdnNXa2pxRG1KUE1fT09nUFB0QjRoWmlJOVdib2E3MTF3ejB2U3hwOE0zUzRJUEo1cDJtSlNQVnpqSTFEZUMwV1VraFhqZXdnbGFjZHlKTXR4eERUTTM1R3pSby1xUFpwY2E3Q3kyWFJQM2FRUVVzb0Q5Mm4wdVRNQWFPNElRZnFEdEJDNGZKOHpZZGRydlE3SUZPdENoeTVlRmlnT3VYeW9qbC0w?oc=5",
-      "source": "ultimahora.com",
-      "sourceDomain": null,
-      "pubDate": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
       "title": "Proyecto de ley busca potenciar desarrollo territorial en municipios de Presidente Hayes y Central",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xbHNFb190RjloZGxBRTJmVjRPUUV2RU13TFY2U2FYamg4YWRjWFNWcnlxOV9uNHZ5dWtVRkpEZ2Y1UW1MMVBoWlBqSHV5Zk9HLWxVa2NQbU1GQzFNZUpPSQ?oc=5",
-      "source": "diputados.gov.py",
+      "source": "Cámara de Diputados del Paraguay",
       "sourceDomain": null,
       "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "No hay respuestas a denuncias contra el intendente de Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0FaT1VvdWlpbnktbXNaS3ZEYmpaaVNoQlZrRTlqN2hJZW1lempib1JRUGUyNVJyQ2hKVlZKeDEwWjVBNTlEd0ItRTJZcmJNT3c2eG5FdHhBc2k0WDNhUnphSF9mUEZxRE51X1Y1aVhsdnJGUzRoVHBmcDM5M2o1a0ZIM2JBajM0QUhsVC1DYmfSAZ4BQVVfeXFMT3ZyWF9sT3BGc2o5Q1VRQ1IyQm9Hb2FHbWh0SXVZRW13UU9ETkpFOXNkWEJza1dJRERQNGNnRUhHdHliOVdVaU5ZdUp3UEJIQ1hPbkhmWFBKOGxrZWFNVVlZSHFFeHpCUjJfQUlPVndMUks3MkxGaEZOZnpGcjdvSE9wcGVVS2h4eTJ1T0paeng5aXd0TVpOa2tqM3BjRWc?oc=5",
-      "source": "ultimahora.com",
-      "sourceDomain": null,
-      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "Feudo de Bachi: A las puertas de las elecciones, apuran manejo político en Nueva Asunción y Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY3pHWXZYRzFHRjhmeWh1MlhkTUdBRTFTcGN4WHdicS1JTV9vSldyaFhTY25PUHBCSXBlanJVdTNWOGVPMERzMVZQS3FPM1hlYlRtYnFhTmtJU1NJRFZjUDV3UEVtOWp5Z1NkVHFVeUwwUVJ0TWRXRURobGNXckloaGhueGdCeFhuUlV4UHVScmdaaDRjLTV3Z0F0aHhQRG15XzZDOGY1T3ZJWlRyODRzV052ZVZQV1NqUnVzU2ozLXBBMC1Mb0drWnU2UXFuZTdJdTJ1ZldBa9IB6wFBVV95cUxQa2VpZDZXN1RfSEpDN0Ixa2JWUXN5dHZYOXlrYU9UcE82dk9VQWhjVm03WXFZeW04MEY0X2RRWWJWUklWRjZqSmFHSERIT1NWb011ZEUxcF92ZTlmR01aRHBNbDl4N1AtVGhvTVNRbDZPeVhKalNaMU90bnZBVDZjeU56N3NsVWxqN3dpbFJab0xfLTZaOE5pYkFFOHNlZUhmUjhTZUMtU21sQ1loM05WS24tQ0lzQ0ZydW83MjFFYUU2UEhkUzNnbWhDbEhtdm1vUHpHZ2gydXBQb3hGaXZfbl96Z0JfZXcwZnpz?oc=5",
-      "source": "abc.com.py",
-      "sourceDomain": null,
-      "pubDate": "Sat, 05 Sep 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -49,16 +25,32 @@
       "category": "barrio"
     },
     {
-      "title": "Macabro hallazgo causa conmoción en Nanawa: recien nacido estaba todo cortado",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRUYwRGl2YkxiTzdFc3djOS1uRzZWNnMtODhFWEJwXzNzNXJkQVZ5eHNiU2QyWUEzUHBNbFNjREdkMmk4RDJmTnpOdThWUks5N1RwaEhaS2pqREYwcHZpWXhEcHBXWG1SVElMNm1iblBhUG5iTXhGc2ZBSXpQdVl6T1dfTjQ0VlRJT2tvRExDWnpnTUlLSTlXN2lDRmhaMzNYUG1obnNKRmR4bE90cXdsMU53NnZBenVESkdadjFfY9IBvwFBVV95cUxNRUYwRGl2YkxiTzdFc3djOS1uRzZWNnMtODhFWEJwXzNzNXJkQVZ5eHNiU2QyWUEzUHBNbFNjREdkMmk4RDJmTnpOdThWUks5N1RwaEhaS2pqREYwcHZpWXhEcHBXWG1SVElMNm1iblBhUG5iTXhGc2ZBSXpQdVl6T1dfTjQ0VlRJT2tvRExDWnpnTUlLSTlXN2lDRmhaMzNYUG1obnNKRmR4bE90cXdsMU53NnZBenVESkdadjFfYw?oc=5",
-      "source": "extra.com.py",
+      "title": "Buscan flexibilizar horario de portón sobre pasarela entre Clorinda y Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTU9hSkZNY0Q1SHVNaVduWm5Jckx6aUlvX0RrYkNYSlY5RFhCdUpiR1FFZHYzRDlqRlRnclhiYUE5eHUzelptQUkwYUJRUDlZZFYxVlYtVUh2NFdFU3ZJX1VTQTA5VHVvWnVuY3B3OW9CUk5aSUhmSVJSRnRqTHpLX1ROaHc1VTRYMHc1UHIwTHdmNDd5RUZkRGwwRmN4U01BSTkwRE130gGzAUFVX3lxTE1GS1ZmWHVtdnNXa2pxRG1KUE1fT09nUFB0QjRoWmlJOVdib2E3MTF3ejB2U3hwOE0zUzRJUEo1cDJtSlNQVnpqSTFEZUMwV1VraFhqZXdnbGFjZHlKTXR4eERUTTM1R3pSby1xUFpwY2E3Q3kyWFJQM2FRUVVzb0Q5Mm4wdVRNQWFPNElRZnFEdEJDNGZKOHpZZGRydlE3SUZPdENoeTVlRmlnT3VYeW9qbC0w?oc=5",
+      "source": "ultimahora.com",
       "sourceDomain": null,
-      "pubDate": "Tue, 15 Sep 2026 14:35:42 GMT",
+      "pubDate": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Imputan por homicidio doloso a pareja que habría quemado a una joven en Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGk3cWk5MmpzeWdETHRGeFJkMFdQMkhWMG1YYy1YREF5VFB2YU1MU1JWMWZ2WlZkV1V6b1MzdkdOX1ljVWlBbjhPWk9BQjBnbXltSG5WWF9MTktXaW5QS3dPRUo4Ym8zNmhlVm9TVFU0czhVN0JQZkpqLWRWOVk3VEFRUUZWLWhkNlMtV05wc3VIaGV3SHdHMGJlWnJLbDZtMFJCT1pWMDJPMkxvYXFWT2FsRE9BWGJDc3g0RzR3Vng?oc=5",
+      "source": "La Nación",
+      "sourceDomain": null,
+      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Feudo de Bachi: A las puertas de las elecciones, apuran manejo político en Nueva Asunción y Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY3pHWXZYRzFHRjhmeWh1MlhkTUdBRTFTcGN4WHdicS1JTV9vSldyaFhTY25PUHBCSXBlanJVdTNWOGVPMERzMVZQS3FPM1hlYlRtYnFhTmtJU1NJRFZjUDV3UEVtOWp5Z1NkVHFVeUwwUVJ0TWRXRURobGNXckloaGhueGdCeFhuUlV4UHVScmdaaDRjLTV3Z0F0aHhQRG15XzZDOGY1T3ZJWlRyODRzV052ZVZQV1NqUnVzU2ozLXBBMC1Mb0drWnU2UXFuZTdJdTJ1ZldBa9IB6wFBVV95cUxQa2VpZDZXN1RfSEpDN0Ixa2JWUXN5dHZYOXlrYU9UcE82dk9VQWhjVm03WXFZeW04MEY0X2RRWWJWUklWRjZqSmFHSERIT1NWb011ZEUxcF92ZTlmR01aRHBNbDl4N1AtVGhvTVNRbDZPeVhKalNaMU90bnZBVDZjeU56N3NsVWxqN3dpbFJab0xfLTZaOE5pYkFFOHNlZUhmUjhTZUMtU21sQ1loM05WS24tQ0lzQ0ZydW83MjFFYUU2UEhkUzNnbWhDbEhtdm1vUHpHZ2gydXBQb3hGaXZfbl96Z0JfZXcwZnpz?oc=5",
+      "source": "abc.com.py",
+      "sourceDomain": null,
+      "pubDate": "Sat, 05 Sep 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
       "title": "Otorgan a Nanawa más de G. 1.500 millones pese a denuncias y el intendente acusado se defiende",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0ZrVlhMOXA0V3g2UUNhbFBCZ1pqcDJIOGNSUVFra2lFQ2c4czhBdVRPYWptSmZQelBpQ3N3RlFwazJSV2l3Z29EZUJnOFU4OExqa3NxdUU2X1k4NTFSbG83WGpjOXB5cF9wbWpnTEE1cm1XeGpFUHlpYzkzWG02X21pMFFTZVlfazVfYlNRbXJQdFNDWmMtY1JOOTZxWWtpMVRieUVtaE5SRlEzaW9DMWd2dlY1djZiMk1MQg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0ZrVlhMOXA0V3g2UUNhbFBCZ1pqcDJIOGNSUVFra2lFQ2c4czhBdVRPYWptSmZQelBpQ3N3RlFwazJSV2l3Z29EZUJnOFU4OExqa3NxdUU2X1k4NTFSbG83WGpjOXB5cF9wbWpnTEE1cm1XeGpFUHlpYzkzWG02X21pMFFTZVlfazVfYlNRbXJQdFNDWmMtY1JOOTZxWWtpMVRieUVtaE5SRlEzaW9DMWd2dlY1djZiMk1MQtIBygFBVV95cUxPbnJoTlNSUW1Gd2FUdmJsbkdlUExEYnpQSldxRmtoTjBGQlRtM0FoTUlBX2JPbGd2ZGhraWM1VkRyaEM4dlFBVjY3bDlFX2hnZUlVa3F2TF9sUzZjT2NHY3ZrTEI4TkVlWVFWRUtxMmZFaDVLSzA2em1fZ3kwQTVUOGJsSEVlNklTQ2lnNGhpWUx3aTl5ZHp1MEROTGZ0Rm02MmpDNkpXVF9Xekk1N2tqaFBkOGp3cFVGVjhWVE9NVlFJTVRRZmhLSnV3?oc=5",
       "source": "ultimahora.com",
       "sourceDomain": null,
       "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT",
@@ -81,131 +73,147 @@
       "category": "barrio"
     },
     {
-      "title": "Paraguayo fue detenido con 212 kilos de marihuana en el Puente de la Amistad ",
-      "link": "https://www.abc.com.py/este/2026/09/17/paraguayo-fue-detenido-con-212-kilos-de-marihuana-en-el-puente-de-la-amistad/",
+      "title": "Fiscalía imputó a los presuntos asesinos de una joven argentina en Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGNRcC1jWHZZQmFHOFlmeUQxcXIwRkdELTMzUEdnRVlxLWkzNkxiRmpRNnJOM284eXRxdWtRYVJycDdGcXUzelgxY21LbVE0Rm5lbHp5bm85Uk9faGx4aWRjSlhnblRHUU5ZUmRuY2F1bDY5RGJKNS1ZUFI5dXFlY0xDTTQ5UExOXzhEa2JqNnJwLXIxVFJVUHpkQTcxSmpwUTEyVTFaZkxXUnJ5SVZSSmh3UzlORHBicVdv0gHPAUFVX3lxTFBzT1hDa2lyMmkzWTBzX20xbmkwU2VXOHZMNUMxckRXTnpOOXlnZTQxOXZlbmhrTFJRTU5KVnZuX2JnWE5aUV90cTlVVENOdTN6di1YdE8tWmlleVFFSzRvLXg4by1kZDRLcWxENVZNcS1iWGdGcFB0SHhub2FlVS1xTHFyWmlpVHZCXzJCVmpsdVhNdjZwSHVja0lUenh4VjJXRjdFMVJndmZJampodGlWdFNkQ1lXZUpSdEEtY1hscjZ2bEtwcDVjb1g0Sm9jVQ?oc=5",
+      "source": "abc.com.py",
+      "sourceDomain": null,
+      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Joven muere calcinada en supuesto ataque de una mujer a su ex pareja",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUTVGNHpsYjl5d0JUdWs5MGxYam55YkxKS1ZTVlZBc1BvSlpPQy1GdE1qVWRoMjNEV2VFREo0anNDcFFfYVgyVzNFRjlYUmRYUVQ1MjlvMDd6VEZHbFVJOEJwX3liUWloS24zWDVOVDBBUGtRNU9EdGFqZnNBeDFXbFN5cklRWjlSeEx3blZ1UnB6ejJlQnJKT3RXVdIBqAFBVV95cUxNd2JYeEZ3bXhkbEFVVnZlcmtfNEJDeW5mYkN6SGowU21BMnNwWXRoWXJvVnVsN2pSRjlsdFJpc2V2d0Z0REhTSUlxYzloa1FDYzNSUkdEYjJhM05uMFd3Yi1sMmdnUlkteEdtTFA1bjltOUZacG9GV3JnQkhzLURVcUpuenF4YkJkU29CVmFIYzVveXhvRS1ZYjBkVjQ3X21EX1FUQl95OUM?oc=5",
+      "source": "ultimahora.com",
+      "sourceDomain": null,
+      "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "¿Existe ya una demanda de Atome contra el Estado paraguayo? Esto aclaró la Procuraduría",
+      "link": "https://www.abc.com.py/politica/2026/09/18/existe-ya-una-demanda-de-atome-contra-el-estado-paraguayo-esto-aclaro-la-procuraduria/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 17 Sep 2026 13:35:01 +0000",
+      "pubDate": "Fri, 18 Sep 2026 13:04:59 +0000",
       "category": "pais"
     },
     {
-      "title": "OTEP-A rechaza el acuerdo entre el Gobierno y la FEP y trasladará sus reclamos al Congreso",
-      "link": "https://www.abc.com.py/nacionales/2026/09/17/otep-a-rechaza-el-acuerdo-entre-el-gobierno-y-la-fep-y-trasladara-sus-reclamos-al-congreso/",
+      "title": "Lilian Ruiz avisa a ñañalas: “Mi amabilidad también tiene límites”",
+      "link": "https://www.popular.com.py/2026/09/18/lilian-ruiz-avisa-a-nanalas-mi-amabilidad-tambien-tiene-limites/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Fri, 18 Sep 2026 13:03:04 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Beto Ovelar exige resultados a docentes tras PISA, pero ¿quién evalúa al Congreso?",
+      "link": "https://www.abc.com.py/politica/2026/09/18/beto-ovelar-exige-resultados-a-docentes-tras-pisa-pero-quien-evalua-al-congreso/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 17 Sep 2026 13:33:42 +0000",
+      "pubDate": "Fri, 18 Sep 2026 13:02:49 +0000",
       "category": "pais"
     },
     {
-      "title": "Asegurada reclamó a funcionaria del IPS que le negó pohã",
-      "link": "https://www.popular.com.py/2026/09/17/asegurada-reclamo-a-funcionaria-del-ips-que-le-nego-poha/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 17 Sep 2026 13:32:49 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Ojapo traslado aéreo exitoso de una puerpera hasta Concepción ",
-      "link": "https://www.popular.com.py/2026/09/17/ojapo-traslado-aereo-exitoso-de-una-puerpera-hasta-concepcion/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 17 Sep 2026 13:31:05 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Baruja publica foto con Peña y Alliana en medio de discordia cartista: mirá lo que dijo",
-      "link": "https://www.abc.com.py/politica/2026/09/17/baruja-publica-foto-con-pena-y-alliana-en-medio-de-discordia-cartista-mira-lo-que-dijo/",
+      "title": "Funcionario de la Dinac muere tras choque sobre la autopista Ñu Guasu",
+      "link": "https://www.abc.com.py/policiales/2026/09/18/funcionario-de-la-dinac-muere-tras-choque-sobre-la-autopista-nu-guasu/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 17 Sep 2026 13:25:33 +0000",
+      "pubDate": "Fri, 18 Sep 2026 13:01:57 +0000",
       "category": "pais"
     },
     {
-      "title": "Costanera Norte: la millonaria promesa del Parque Lineal que quedó en el olvido",
-      "link": "https://www.abc.com.py/nacionales/2026/09/17/costanera-norte-la-millonaria-promesa-del-parque-lineal-que-quedo-en-el-olvido/",
+      "title": "Contaminación visual: CDE retirará carteles políticos de sus principales avenidas  ",
+      "link": "https://www.abc.com.py/este/2026/09/18/contaminacion-visual-cde-retirara-carteles-politicos-de-sus-principales-avenidas/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 17 Sep 2026 13:20:43 +0000",
+      "pubDate": "Fri, 18 Sep 2026 13:01:44 +0000",
       "category": "pais"
     },
     {
-      "title": "Suba de combustibles: ¿hasta cuándo Petropar mantendrá sus precios?",
-      "link": "https://www.abc.com.py/nacionales/2026/09/17/suba-de-combustibles-hasta-cuando-petropar-mantendra-sus-precios/",
+      "title": "“Ruido” en torno al sistema financiero preocupa y podría ser perjudicial para la economía, advierte exministro",
+      "link": "https://www.abc.com.py/economia/2026/09/18/ruido-en-torno-al-sistema-financiero-preocupa-y-podria-ser-perjudicial-para-la-economia-advierte-exministro/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 17 Sep 2026 13:15:38 +0000",
+      "pubDate": "Fri, 18 Sep 2026 12:43:41 +0000",
       "category": "pais"
     },
     {
-      "title": "UNE anuncia ruptura intersindical tras anuncio de acuerdo con el Gobierno",
-      "link": "https://www.abc.com.py/policiales/2026/09/17/une-anuncia-ruptura-intersindical-tras-anuncio-de-acuerdo-con-el-gobierno/",
+      "title": "Tensión en el cartismo: “Horacio le tocó la oreja al presidente”, dice diputado",
+      "link": "https://www.abc.com.py/politica/2026/09/18/tension-en-el-cartismo-horacio-le-toco-la-oreja-al-presidente-dice-diputado/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 17 Sep 2026 13:10:12 +0000",
+      "pubDate": "Fri, 18 Sep 2026 12:38:10 +0000",
       "category": "pais"
     },
     {
-      "title": "¿Sale Marilina Bogado y entra Fabi Martínez?",
-      "link": "https://www.popular.com.py/2026/09/17/sale-marilina-bogado-y-entra-fabi-martinez/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 17 Sep 2026 13:09:43 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Kinesiólogos y fisioterapeutas se movilizan este viernes: piden trabajar 20 horas semanales",
-      "link": "https://www.abc.com.py/nacionales/2026/09/17/kinesiologos-y-fisioterapeutas-se-movilizan-este-viernes-piden-trabajar-20-horas-semanales/",
+      "title": "“Titán”: así funciona el nuevo chatbot del PAI que informa sobre vacunas",
+      "link": "https://www.abc.com.py/nacionales/2026/09/18/titan-asi-funciona-el-nuevo-chatbot-del-pai-que-informa-sobre-vacunas/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 17 Sep 2026 13:07:22 +0000",
+      "pubDate": "Fri, 18 Sep 2026 12:13:15 +0000",
       "category": "pais"
     },
     {
-      "title": "A 46 años del “bazucazo” a Somoza, el atentado que sacudió el régimen de Stroessner",
-      "link": "https://www.abc.com.py/nacionales/2026/09/17/a-46-anos-del-bazucazo-a-somoza-el-atentado-que-sacudio-el-regimen-de-stroessner/",
+      "title": "Laurys Dyva a sus ex: “Ustedes solo fueron una aventura en el recreo”",
+      "link": "https://www.popular.com.py/2026/09/18/laurys-dyva-a-sus-ex-ustedes-solo-fueron-una-aventura-en-el-recreo/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Fri, 18 Sep 2026 12:06:53 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Elecciones municipales: hoy vence el plazo para difundir encuestas y sondeos de votos",
+      "link": "https://www.abc.com.py/politica/2026/09/18/elecciones-municipales-hoy-fenece-plazo-para-encuestas-y-sondeos-de-votos/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 17 Sep 2026 13:02:15 +0000",
+      "pubDate": "Fri, 18 Sep 2026 11:52:49 +0000",
       "category": "pais"
     },
     {
-      "title": "Feminicidio: Doña baleada hovápe omano tras días de agonía",
-      "link": "https://www.popular.com.py/2026/09/17/feminicidio-dona-baleada-hovape-omano-tras-dias-de-agonia/",
+      "title": "(VIDEO) ¡Mañami cómo apareció el pelotero Diego Gómez!",
+      "link": "https://www.popular.com.py/2026/09/18/video-manami-como-aparecio-el-pelotero-diego-gomez/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 17 Sep 2026 12:20:51 +0000",
+      "pubDate": "Fri, 18 Sep 2026 11:00:18 +0000",
       "category": "pais"
     },
     {
-      "title": "¡Doña de Tim Payne contó cómo lleva su vida en Paraguay y su mayor akã rasy!",
-      "link": "https://www.popular.com.py/2026/09/17/dona-de-tim-payne-conto-como-lleva-su-vida-en-paraguay-y-su-mayor-aka-rasy/",
+      "title": "¡Yolanda Park contó cuánto ganó por su primer laburo en los medios!",
+      "link": "https://www.popular.com.py/2026/09/18/yolanda-park-conto-cuanto-gano-por-su-primer-laburo-en-los-medios/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 17 Sep 2026 12:04:30 +0000",
+      "pubDate": "Fri, 18 Sep 2026 10:34:45 +0000",
       "category": "pais"
     },
     {
-      "title": "(VIDEO) Oniichan: “Desde que estoy más rellenadita, soy más takuchila”",
-      "link": "https://www.popular.com.py/2026/09/17/video-oniichan-desde-que-estoy-mas-rellenadita-soy-mas-takuchila/",
+      "title": "Capturan a otra “abuela del crack”",
+      "link": "https://www.popular.com.py/2026/09/18/capturan-a-otra-abuela-del-crack/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 17 Sep 2026 11:11:12 +0000",
+      "pubDate": "Fri, 18 Sep 2026 10:11:06 +0000",
       "category": "pais"
     },
     {
-      "title": "¡Purete! ¡Berta Rojas ligó tres nominaciones a los Grammys!",
-      "link": "https://www.popular.com.py/2026/09/17/purete-berta-rojas-ligo-tres-nominaciones-a-los-grammys/",
+      "title": "¿Se viene la cigüeña para Julio Enciso y su doña colombiana?",
+      "link": "https://www.popular.com.py/2026/09/18/se-viene-la-ciguena-para-julio-enciso-y-su-dona-colombiana/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 17 Sep 2026 10:40:26 +0000",
+      "pubDate": "Fri, 18 Sep 2026 10:04:57 +0000",
       "category": "pais"
     },
     {
-      "title": "¡Nadia Ferreira sorprendió a su ména con un festejó privé y de sorpresa!",
-      "link": "https://www.popular.com.py/2026/09/17/nadia-ferreira-sorprendio-a-su-mena-con-un-festejo-prive-y-de-sorpresa/",
+      "title": "Ojejapo campaña para cuidar el reloj’i",
+      "link": "https://www.popular.com.py/2026/09/18/ojejapo-campana-para-cuidar-el-reloji/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 17 Sep 2026 10:00:08 +0000",
+      "pubDate": "Fri, 18 Sep 2026 08:17:44 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Arrasaron con atenciones en hospitales de central",
+      "link": "https://www.popular.com.py/2026/09/18/arrasaron-con-atenciones-en-hospitales-de-central/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Fri, 18 Sep 2026 08:11:58 +0000",
       "category": "pais"
     },
     {

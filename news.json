@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T14:01:24.099Z",
+  "generatedAt": "2026-10-04T14:29:00.528Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -25,22 +25,6 @@
       "category": "barrio"
     },
     {
-      "title": "Pronóstico meteorológico de Nanawa, Presidente Hayes, Paraguay",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83bTZYQXZpb0NxbUx5ZVd4eXJBSDU1bWtUVndGTm1YblY0VmJwRjQxVFJMVmxJUEszVHQ0VHRURWJWYnhXWmtiTkZ2U2FhaFFQd1k5bXpEZU13ZTZJbzFPTTBVeEhHZ3lzOUxyRHh2S2N0bFBGLVZCcWxFVnRSUQ?oc=5",
-      "source": "MSN",
-      "sourceDomain": null,
-      "pubDate": "Thu, 05 Mar 2026 01:06:33 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "Proyecto de ley busca potenciar desarrollo territorial en municipios de Presidente Hayes y Central",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xbHNFb190RjloZGxBRTJmVjRPUUV2RU13TFY2U2FYamg4YWRjWFNWcnlxOV9uNHZ5dWtVRkpEZ2Y1UW1MMVBoWlBqSHV5Zk9HLWxVa2NQbU1GQzFNZUpPSQ?oc=5",
-      "source": "Cámara de Diputados del Paraguay",
-      "sourceDomain": null,
-      "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
       "title": "Buscan flexibilizar horario de portón sobre pasarela entre Clorinda y Nanawa",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTU9hSkZNY0Q1SHVNaVduWm5Jckx6aUlvX0RrYkNYSlY5RFhCdUpiR1FFZHYzRDlqRlRnclhiYUE5eHUzelptQUkwYUJRUDlZZFYxVlYtVUh2NFdFU3ZJX1VTQTA5VHVvWnVuY3B3OW9CUk5aSUhmSVJSRnRqTHpLX1ROaHc1VTRYMHc1UHIwTHdmNDd5RUZkRGwwRmN4U01BSTkwRE130gGzAUFVX3lxTE1GS1ZmWHVtdnNXa2pxRG1KUE1fT09nUFB0QjRoWmlJOVdib2E3MTF3ejB2U3hwOE0zUzRJUEo1cDJtSlNQVnpqSTFEZUMwV1VraFhqZXdnbGFjZHlKTXR4eERUTTM1R3pSby1xUFpwY2E3Q3kyWFJQM2FRUVVzb0Q5Mm4wdVRNQWFPNElRZnFEdEJDNGZKOHpZZGRydlE3SUZPdENoeTVlRmlnT3VYeW9qbC0w?oc=5",
       "source": "ultimahora.com",
@@ -57,11 +41,27 @@
       "category": "barrio"
     },
     {
+      "title": "Proyecto de ley busca potenciar desarrollo territorial en municipios de Presidente Hayes y Central",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xbHNFb190RjloZGxBRTJmVjRPUUV2RU13TFY2U2FYamg4YWRjWFNWcnlxOV9uNHZ5dWtVRkpEZ2Y1UW1MMVBoWlBqSHV5Zk9HLWxVa2NQbU1GQzFNZUpPSQ?oc=5",
+      "source": "Cámara de Diputados del Paraguay",
+      "sourceDomain": null,
+      "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
       "title": "Nanawa: intendente oculta datos y retiene salarios porque tiene respaldo de Bachi, denuncian concejales",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEpHbnYzbzVtMFVtTG1fSTVrYUlEZEYxLTBocHItSmxJME1BNVBOU2cyV3pMbElxazNWTE9TVVdmeThVclhZRVFzck50SE9ILVczVmsyZzgzN2Nob0dvaDBRYnhmTE1oZnc2aTJRWnZLVkxwWGx0bUNELUYwdU80NHRUaFotMnpiQjFuQVMwX0hYMkRJNGgycWppaWNHTkdnY1Z0aGxYMXRxYWljRmlfTjBNSmdKLWJma2VTNUlPOGJxQ1NWa1ZwejNSTUg3bk9IdVVFMzg0b3FUMU11OUHSAfIBQVVfeXFMTTNPbGZaRmJoZmdkX0NEU204dUd3Q1dUaklIcGh0eVlsNUZLQWphNUJrMTRydy1TQnpFaEdlcUdkWFliRDFIUmU1STBicWNmZkNaVXpUa3JMNVRqeG1IbWtXWlBvSHJOX1I2amVyamV5Y25jVkhPNUo1YXlZdlhSQ09yNUZ6NWl4MjRjbFp4N3FzUVlYbWUwM1Q0eVhkV3Z4cnhad0tVYmhGX3lEbEZ1V3JLUklBYVVtVmNFUVdxVDUxQXhYR1E3Vmx3OVZwOE9BRjRXdEVHWkVuUFlQVVRuOEdfaHRrb2xTR21TOTJ5emRLY0E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEpHbnYzbzVtMFVtTG1fSTVrYUlEZEYxLTBocHItSmxJME1BNVBOU2cyV3pMbElxazNWTE9TVVdmeThVclhZRVFzck50SE9ILVczVmsyZzgzN2Nob0dvaDBRYnhmTE1oZnc2aTJRWnZLVkxwWGx0bUNELUYwdU80NHRUaFotMnpiQjFuQVMwX0hYMkRJNGgycWppaWNHTkdnY1Z0aGxYMXRxYWljRmlfTjBNSmdKLWJma2VTNUlPOGJxQ1NWa1ZwejNSTUg3bk9IdVVFMzg0b3FUMU11OUE?oc=5",
       "source": "abc.com.py",
       "sourceDomain": null,
       "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Joven corrige datos sobre Beterete Cue",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTYtSlpCZWZLNjZJVGFfM3ZCQzdLREZKZHVDanUweWtJaHJBYThJQjJmd015UWpiMDZrc1dYVEh1SHRRVHN3ZFpNWE1XU1FXRERzWjJLT3FVbHQxZzNkZ1IzUzhJVTVtRVpqWWJGZjBCeTNIVXM1RmNIR0g2LUg0NzMzdnd4Ni1IUXhDcEkzTl9YUjNITUpWMnIwTGdoNnBD?oc=5",
+      "source": "lanacion.com.py",
+      "sourceDomain": null,
+      "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -73,14 +73,6 @@
       "category": "barrio"
     },
     {
-      "title": "Joven corrige datos sobre Beterete Cue",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTYtSlpCZWZLNjZJVGFfM3ZCQzdLREZKZHVDanUweWtJaHJBYThJQjJmd015UWpiMDZrc1dYVEh1SHRRVHN3ZFpNWE1XU1FXRERzWjJLT3FVbHQxZzNkZ1IzUzhJVTVtRVpqWWJGZjBCeTNIVXM1RmNIR0g2LUg0NzMzdnd4Ni1IUXhDcEkzTl9YUjNITUpWMnIwTGdoNnBD?oc=5",
-      "source": "La Nación",
-      "sourceDomain": null,
-      "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
       "title": "Hallan en Nanawa la camioneta usada por los asesinos de Rebeca Martínez",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWpUQjBpVmhMTTRTSjJhVDNPVjNKM1ZaMlFfSmstYzhxeHUwUW14aG9GMTVTeFZhMlJ6dng2MjNzRHZVUnJLN3hOWlRiZ3V4VW5UcldaajR0d1p0ekR0Szl6RTBzU1h5ekNadkYwSXh4T2NCZHliY2hqSy16ZjlsSmpmZ1dnTmwwYlhKTjREVklHUVgzQ0FWUEtuVnpQR2xUV0FOSWJhS1F6RWI0MHFGMkdYOXlhUTE2ZmJqRktGZ3FRLWxIYm9RbEFMYw?oc=5",
       "source": "latribuna.com.py",
@@ -89,11 +81,19 @@
       "category": "barrio"
     },
     {
-      "title": "Fiscalía imputó a los presuntos asesinos de una joven argentina en Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGNRcC1jWHZZQmFHOFlmeUQxcXIwRkdELTMzUEdnRVlxLWkzNkxiRmpRNnJOM284eXRxdWtRYVJycDdGcXUzelgxY21LbVE0Rm5lbHp5bm85Uk9faGx4aWRjSlhnblRHUU5ZUmRuY2F1bDY5RGJKNS1ZUFI5dXFlY0xDTTQ5UExOXzhEa2JqNnJwLXIxVFJVUHpkQTcxSmpwUTEyVTFaZkxXUnJ5SVZSSmh3UzlORHBicVdv?oc=5",
+      "title": "Pronóstico meteorológico de Nanawa, Presidente Hayes, Paraguay",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83bTZYQXZpb0NxbUx5ZVd4eXJBSDU1bWtUVndGTm1YblY0VmJwRjQxVFJMVmxJUEszVHQ0VHRURWJWYnhXWmtiTkZ2U2FhaFFQd1k5bXpEZU13ZTZJbzFPTTBVeEhHZ3lzOUxyRHh2S2N0bFBGLVZCcWxFVnRSUQ?oc=5",
+      "source": "MSN",
+      "sourceDomain": null,
+      "pubDate": "Thu, 05 Mar 2026 01:06:33 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Feudo de Bachi: A las puertas de las elecciones, apuran manejo político en Nueva Asunción y Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY3pHWXZYRzFHRjhmeWh1MlhkTUdBRTFTcGN4WHdicS1JTV9vSldyaFhTY25PUHBCSXBlanJVdTNWOGVPMERzMVZQS3FPM1hlYlRtYnFhTmtJU1NJRFZjUDV3UEVtOWp5Z1NkVHFVeUwwUVJ0TWRXRURobGNXckloaGhueGdCeFhuUlV4UHVScmdaaDRjLTV3Z0F0aHhQRG15XzZDOGY1T3ZJWlRyODRzV052ZVZQV1NqUnVzU2ozLXBBMC1Mb0drWnU2UXFuZTdJdTJ1ZldBaw?oc=5",
       "source": "abc.com.py",
       "sourceDomain": null,
-      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "pubDate": "Sat, 05 Sep 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -105,131 +105,131 @@
       "category": "barrio"
     },
     {
-      "title": "Asunción, desbordada por el microtráfico pese a masivas incautaciones y detenciones",
-      "link": "https://www.abc.com.py/policiales/2026/10/03/asuncion-desbordada-por-el-microtrafico-pese-a-masivas-incautaciones-y-detenciones/",
+      "title": "Riera: el próximo intendente de Asunción deberá reducir funcionarios",
+      "link": "https://www.abc.com.py/politica/2026/10/04/riera-el-proximo-intendente-de-asuncion-debera-reducir-funcionarios/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 03 Oct 2026 13:09:35 +0000",
+      "pubDate": "Sun, 04 Oct 2026 14:18:49 +0000",
       "category": "pais"
     },
     {
-      "title": "“Apelamos al voto a conciencia”: TSJE pide a la ciudadanía acudir a las urnas",
-      "link": "https://www.abc.com.py/nacionales/2026/10/03/apelamos-al-voto-a-conciencia-tsje-pide-a-la-ciudadania-acudir-a-las-urnas/",
+      "title": "Elecciones municipales: denuncian supuestas irregularidades en Belén ",
+      "link": "https://www.abc.com.py/interior/2026/10/04/elecciones-municipales-denuncian-supuestas-irregularidades-en-belen/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 03 Oct 2026 12:42:20 +0000",
+      "pubDate": "Sun, 04 Oct 2026 14:13:31 +0000",
       "category": "pais"
     },
     {
-      "title": "Premian a estudiantes destacados en las Olimpiadas de Matemática en Misiones",
-      "link": "https://www.abc.com.py/nacionales/2026/10/03/premian-a-estudiantes-destacados-en-las-olimpiadas-de-matematica-en-misiones/",
+      "title": "Prieto: “Resultado en CDE será un mensaje sobre qué modelo queremos” ",
+      "link": "https://www.abc.com.py/este/2026/10/04/prieto-resultado-en-cde-sera-un-mensaje-sobre-que-modelo-queremos/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 03 Oct 2026 12:35:05 +0000",
+      "pubDate": "Sun, 04 Oct 2026 14:12:08 +0000",
       "category": "pais"
     },
     {
-      "title": "Más de 80 productores de Ñeembucú ofrecieron productos de la finca en una feria en Pilar",
-      "link": "https://www.abc.com.py/nacionales/2026/10/03/mas-de-80-productores-de-neembucu-ofrecieron-productos-de-la-finca-en-una-feria-en-pilar/",
+      "title": "PLRA apunta a ganar más de 100 intendencias, dice Estigarribia",
+      "link": "https://www.abc.com.py/politica/2026/10/04/plra-apunta-a-ganar-mas-de-100-intendencias-dice-estigarribia/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 03 Oct 2026 12:29:18 +0000",
+      "pubDate": "Sun, 04 Oct 2026 14:10:35 +0000",
       "category": "pais"
     },
     {
-      "title": "Pilar espera a 20.000 personas para su festival de aniversario: esta es la cartelera completa",
-      "link": "https://www.abc.com.py/nacionales/2026/10/03/pilar-espera-a-20000-personas-para-su-festival-de-aniversario-esta-es-la-cartelera-completa/",
+      "title": "Lluvia y algunos locales sin energía eléctrica marcan la jornada electoral en San Pedro",
+      "link": "https://www.abc.com.py/politica/2026/10/04/lluvia-y-algunos-locales-sin-energia-electrica-marcan-la-jornada-electoral-en-san-pedro/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 03 Oct 2026 12:22:59 +0000",
+      "pubDate": "Sun, 04 Oct 2026 14:04:52 +0000",
       "category": "pais"
     },
     {
-      "title": "Elecciones municipales: recuerdan que la venta, coerción e inducción al voto son delitos penales",
-      "link": "https://www.abc.com.py/politica/2026/10/03/elecciones-municipales-recuerdan-que-la-venta-coercion-e-induccion-al-voto-son-delitos-penales/",
+      "title": "Estos son los seis departamentos bajo alerta de tormenta, según Meteorología",
+      "link": "https://www.abc.com.py/clima/2026/10/04/estos-son-los-seis-departamentos-bajo-alerta-de-tormenta-segun-meteorologia/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 03 Oct 2026 12:05:03 +0000",
+      "pubDate": "Sun, 04 Oct 2026 13:56:04 +0000",
       "category": "pais"
     },
     {
-      "title": "Fin de semana con lluvias y tormentas para el Este del país",
-      "link": "https://www.abc.com.py/este/2026/10/03/fin-de-semana-con-lluvias-y-tormentas-para-el-este-del-pais/",
+      "title": "Tras sufragar, Chamorro destaca entusiasmo de los colorados en Ciudad del Este",
+      "link": "https://www.abc.com.py/este/2026/10/04/tras-sufragar-chamorro-destaca-entusiasmo-de-los-colorados-en-ciudad-del-este/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 03 Oct 2026 11:10:05 +0000",
+      "pubDate": "Sun, 04 Oct 2026 13:53:47 +0000",
       "category": "pais"
     },
     {
-      "title": "Tras críticas por consultorías, publican licitaciones para obras en hospitales",
-      "link": "https://www.abc.com.py/politica/2026/10/03/tras-criticas-por-consultorias-publican-licitaciones-para-obras-en-hospitales/",
+      "title": "Elecciones municipales: Fiscalía reporta cuatro detenidos",
+      "link": "https://www.abc.com.py/politica/2026/10/04/elecciones-municipales-fiscalia-reporta-cuatro-detenidos/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 03 Oct 2026 11:06:59 +0000",
+      "pubDate": "Sun, 04 Oct 2026 13:41:44 +0000",
       "category": "pais"
     },
     {
-      "title": "Le llegó la poli: Chaco ruguápe vendía el purete",
-      "link": "https://www.popular.com.py/2026/10/03/le-llego-la-poli-chaco-ruguape-vendia-el-purete/",
+      "title": "Sarambi ojapo el temporal vai con granizada en Asunción y Central",
+      "link": "https://www.popular.com.py/2026/10/04/sarambi-ojapo-el-temporal-vai-con-granizada-en-asuncion-y-central/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 03 Oct 2026 10:40:22 +0000",
+      "pubDate": "Sun, 04 Oct 2026 11:55:01 +0000",
       "category": "pais"
     },
     {
-      "title": "Joshua correrá para la escudería Hitech GP en la próxima temporada",
-      "link": "https://www.popular.com.py/2026/10/02/joshua-correra-para-la-escuderia-hitech-gp-en-la-proxima-temporada/",
+      "title": "Policía ipopa’ã por avivado que oñembo presi de mesa",
+      "link": "https://www.popular.com.py/2026/10/04/policia-ipopaa-por-avivado-que-onembo-presi-de-mesa/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 02 Oct 2026 23:54:48 +0000",
+      "pubDate": "Sun, 04 Oct 2026 11:49:11 +0000",
       "category": "pais"
     },
     {
-      "title": "Denunció a su compañero de pádel por acoso y brujería",
-      "link": "https://www.popular.com.py/2026/10/02/denuncio-a-su-companero-de-padel-por-acoso-y-brujeria/",
+      "title": "A pesar del tiempo vai, oîma heta votantes opárupi",
+      "link": "https://www.popular.com.py/2026/10/04/a-pesar-del-tiempo-vai-oima-heta-votantes-oparupi/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 02 Oct 2026 23:47:58 +0000",
+      "pubDate": "Sun, 04 Oct 2026 11:47:09 +0000",
       "category": "pais"
     },
     {
-      "title": "“Teníamos la ilusión de ganar la Copa Paraguay”",
-      "link": "https://www.popular.com.py/2026/10/02/teniamos-la-ilusion-de-ganar-la-copa-paraguay/",
+      "title": "Según TSJE ndaipori suspensión en locales de votación por tormentaza",
+      "link": "https://www.popular.com.py/2026/10/04/no-hay-suspension-de-votacion-por-destrozos-y-falta-de-lu-en-ningun-lado-heima-popes-del-tsje/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 02 Oct 2026 23:43:23 +0000",
+      "pubDate": "Sun, 04 Oct 2026 11:45:34 +0000",
       "category": "pais"
     },
     {
-      "title": "“Las cosas buenas ya van a llegar” avisa el presi del Ciclón",
-      "link": "https://www.popular.com.py/2026/10/02/las-cosas-buenas-ya-van-a-llegar-avisa-el-presi-del-ciclon/",
+      "title": "Monitoreo de seguridad a full en locales de votación",
+      "link": "https://www.popular.com.py/2026/10/04/monitoreo-de-seguridad-a-full-en-locales-de-votacion/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 02 Oct 2026 23:41:41 +0000",
+      "pubDate": "Sun, 04 Oct 2026 11:33:40 +0000",
       "category": "pais"
     },
     {
-      "title": "“Torito” Bogado contó cómo perdió toda la millonada de plata que había ganado",
-      "link": "https://www.popular.com.py/2026/10/02/torito-bogado-conto-como-perdio-toda-la-millonada-de-plata-que-habia-ganado/",
+      "title": "¡Bella caaguaceña, rumbo al Miss Teen Universe!",
+      "link": "https://www.popular.com.py/2026/10/04/bella-caaguacena-rumbo-al-miss-teen-universe/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 02 Oct 2026 23:40:27 +0000",
+      "pubDate": "Sun, 04 Oct 2026 11:10:10 +0000",
       "category": "pais"
     },
     {
-      "title": "“Cuando le dije al asistente que gané el sorteo, me dijo: ekirirĩ”",
-      "link": "https://www.popular.com.py/2026/10/02/cuando-le-dije-al-asistente-que-gane-el-sorteo-me-dijo-ekiriri/",
+      "title": "Soledad ojerure “salir a votar” ha ojapo campaña de paso",
+      "link": "https://www.popular.com.py/2026/10/04/soledad-ojerure-salir-a-votar-ha-ojapo-campana-de-paso/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 02 Oct 2026 23:40:08 +0000",
+      "pubDate": "Sun, 04 Oct 2026 10:27:20 +0000",
       "category": "pais"
     },
     {
-      "title": "Encontraron esta tarde la Fortuner que se usó en el crimen en Eusebio Ayala",
-      "link": "https://www.popular.com.py/2026/10/02/encontraron-esta-tarde-la-fortuner-que-se-uso-en-el-crimen-en-eusebio-ayala/",
+      "title": "Camilo Pérez: “Siento el calor de la dirigencia y la ciudadanía”",
+      "link": "https://www.popular.com.py/2026/10/04/camilo-perez-siento-el-calor-de-la-dirigencia-y-la-ciudadania/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 02 Oct 2026 23:19:09 +0000",
+      "pubDate": "Sun, 04 Oct 2026 10:16:28 +0000",
       "category": "pais"
     },
     {

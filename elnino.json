@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T18:37:26.421Z",
+  "generatedAt": "2026-10-09T18:07:15.227Z",
   "feedUrl": "https://news.google.com/rss/search?q=El%20Ni%C3%B1o%202026%20Sudam%C3%A9rica%20clima&hl=es-419&gl=US&ceid=US:es-419",
   "items": [
     {
@@ -17,13 +17,6 @@
       "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "Lo que debemos saber sobre El Niño: desde su origen hasta qué impactos podemos esperar en Latinoamérica | ENTREVISTA",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNzM1ckZxc3J2c2puR3ROa2RiVi12OThFR01yWlpPZHJYN3dEMTlZbmpYYnRQVlc0VGN0UjVnYWNCa1RQQmtPb0JFVlEzaTlnSzgydzdfLTluekZIR1IwbU9ocDdob3R6Vk9LV01FN3lXeWxLaUJ0bExnbnNRUm43WUpBTWs4MEJq?oc=5",
-      "source": "Mongabay Latam",
-      "sourceDomain": null,
-      "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "\"El Niño Godzilla\": ¿nos amenaza un super El Niño 2026?",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEMxczRRMUNzY0lQdVdYSFQ3eG95THB2NDFacnFXT01lRWttUC1YOWdjODRzblhMbjBaWXlmR1hSeDJLLVVsVHYzWmhvdWtYbDZMR1hPRHQ1aGtHbTVwVW0zOXJ4elAzS1YtZU8zUHE5bGVGU0x5RmxxVHY0SFdKX0xJaUg4THlZaWs2VXFtaUd1T2dnSHROZ0hFZlQ3NWpCYU1XT21XdDZCMk9aV1lfMG9mcVR3UdIBtgFBVV95cUxPblFhUUtEdUxydXpiMGVndEplN3FRVDZmMTZwekswZFFWR3dsNEtQOXlyTXRFRHA5NEMtWVQyMmc3ZG5GWEFGb3NRZGZuejBwTUpxOFpXVGJtS1VtcFJRdjAwOWJFS3BrTGx1R2d0MGYwbXVkLWJLd3JJQzQwNms5QXB5a3lmMGFVWG1VTEZESDlld2dtdTg1dHRKQ1dfMk0wOTVLdE5NZTFZVU9pcmdNUFd3aG9vZw?oc=5",
       "source": "DW.com",
@@ -31,39 +24,32 @@
       "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "El Niño 2026–2027 eleva su intensidad: anomalía sin precedentes y riesgos climáticos a escala global",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYXBFaC1EN1lldElVYVRXT1ZzUTBUN3V2ZkFJNWs4VW1FNVhxcE9tZGVmWlBOWlNkMmt0OVNyb3lDWlJScG1XS2FubW1pQjdmLUdqTkNtek04ZTkxaG1fSVhRM2xzR1hPUmlIZ1Z3QzRmRHJmWVlwem1IQ3h2U3dwNkhFYmoyU1VTSkJDTWR4MU1aYkRXc0dpcE9OMjA0blhvTWRoWEVvWmJTMFltd1pFRXZWWGhMbzZoZkRjeHBuTUlyUXh5WWswVXdJeXpPS2hwNTZ1alAyRUhpak96NDUtVC01YTFfSGdnamZnZ19R0gGIAkFVX3lxTE1Kd0lJT3RnbzJReXo2ZWlkMEUxNVMtUXd4eUtBVGIxX1U5cnJ3R0NhcVRRODFFV3lrZW9hT05uaUQ4UHBfU0l6bmxGcjZQa0lxVzZ1Z1N5NjRoY1JoN2lMSjVOYWFPbTdBTEhGRUs4T3lNS1BXVE00bm41aE0tWE9WSFJYTW5sV3BzTVlFMlQ3UWRXakdmX1V2ZThCcmp4SU80NmVkUkdIcWJUNmVyVnlUSE9IaFVHaDcycEhUZmJRdUdZb1M4d2VJVGpFYk9HQ2xLWC1BRlhOcmZ4TG42VnQtczY2bGlqeHd1YXdoZWd5OXluR3h4WEZNdThKOWx4dEU0Wl9mNkVYQw?oc=5",
-      "source": "Infobae",
-      "sourceDomain": "infobae.com",
-      "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "El calor extremo se intensifica en Sudamérica: Chile enfrenta otra cara de El Niño",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbmluSGduYzVBeGtyb0oyb1lNUFltbXh1MU5xYzhTY3FGajRXRnpGazZlSHZwYUVOeUtvWlZELVdDZzNOdlRtTHFweWxiYlNwRVhiU0I4UlNNNWRETzFVcEVwSzJtSVFHOGdlYzI2dmNMQnRIOGY1OXpNSkI2V3BmZ09kSFduSVNFemtNLXdJd1d6N0NpQVNwTG5sdURUWjZwdHJRY2JLVll1Y3k4U1ctQ3ZXMl9QTlFYVzFUd05saXYzSUstLURNLTB6cFN3bW8?oc=5",
-      "source": "El Mostrador",
-      "sourceDomain": null,
-      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "El Niño impacta con fuerza en Sudamérica",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbUJDSldlUkZudlk5d0RTUnBKLXZaNktFc2VTb1k0MTV5cnlibFNGRjNPaW1iQzhKUmhoTlVySkJ3dHFDT3Q0VTVwVHlwLURuc0VBSHduT1gzZVVLUjlGczB1aFd0ODZtaGcxbXBRSnltRWw0MTBSQm9kcmRfUkRTSF90WEt1blZGNFJxWWdwZm5jSzc3VE90c1Uwa2liZkhYRWJSWDEybWJrTzR0dzd5VVMtRjhENC1QNmpqa2tEbw?oc=5",
-      "source": "Servindi",
-      "sourceDomain": null,
-      "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "El Niño podría causar sequías e inundaciones en Sudamérica",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxTG56X2xyQWwwUEVUTFlmb1BTMGRqV1RYRjBQNlkzUlJQRlF6T2NaNmU0VTFZRm10SDl4enBiY3EwODJ6bjF5N3Bwd19Na2JpSjQxMnZWWU9PcC1lMHZWUmlMYnd4bWcwbUIwUXYweU8?oc=5",
-      "source": "La Patria Bolivia",
-      "sourceDomain": null,
-      "pubDate": "Thu, 17 Sep 2026 07:00:00 GMT"
-    },
-    {
       "title": "\"El Niño\" 2026: ¿Cómo nos preparamos para sus efectos en América Latina y el Caribe?",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjQzTGJTT1NqOTR2WUpoazhuQ1Y4V1dmbUtKYkFKMW93clJKMGJ1clZtanM1cjVCZGhRaUw3Rkx6ek5VWmtsRXpTcUM0SmFLYlNvUFUxMVlla082ZnhUWFh0WXh6ak1naFVWVEVxbUtVWDIwQVppYXRVdGIyZk8zYkZVbXlIUmNzTmNCRmdvQ2JrOHJ0Vm1EWjFoMi1uMlotSC1fbXd3OWdscXpVakRfa1h3?oc=5",
       "source": "IFRC",
       "sourceDomain": null,
       "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Lo que debemos saber sobre El Niño: desde su origen hasta qué impactos podemos esperar en Latinoamérica | ENTREVISTA",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNzM1ckZxc3J2c2puR3ROa2RiVi12OThFR01yWlpPZHJYN3dEMTlZbmpYYnRQVlc0VGN0UjVnYWNCa1RQQmtPb0JFVlEzaTlnSzgydzdfLTluekZIR1IwbU9ocDdob3R6Vk9LV01FN3lXeWxLaUJ0bExnbnNRUm43WUpBTWs4MEJq?oc=5",
+      "source": "Mongabay Latam",
+      "sourceDomain": null,
+      "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "El Niño podría volver este verano y traería sequías e inundaciones",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWNKZFliNVh2VmFBWXVOeDdFdzVydEFvZ18tY2Q3dUMwTF9fTzFhNzZqNzdxT1Z6ZldNNFlQWHgzMTdfOUQ1OVU1TnFpWEVGQnYtVWVSM29XQ1ktdy1aX0RaZy0xcUlXU0lMWVZCdkVMTTY3aFdpQlB5dkVVQVpWYnlKazlGU25tTjNyS2t3?oc=5",
+      "source": "The New York Times",
+      "sourceDomain": null,
+      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "El Niño 2026–2027 eleva su intensidad: anomalía sin precedentes y riesgos climáticos a escala global",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYXBFaC1EN1lldElVYVRXT1ZzUTBUN3V2ZkFJNWs4VW1FNVhxcE9tZGVmWlBOWlNkMmt0OVNyb3lDWlJScG1XS2FubW1pQjdmLUdqTkNtek04ZTkxaG1fSVhRM2xzR1hPUmlIZ1Z3QzRmRHJmWVlwem1IQ3h2U3dwNkhFYmoyU1VTSkJDTWR4MU1aYkRXc0dpcE9OMjA0blhvTWRoWEVvWmJTMFltd1pFRXZWWGhMbzZoZkRjeHBuTUlyUXh5WWswVXdJeXpPS2hwNTZ1alAyRUhpak96NDUtVC01YTFfSGdnamZnZ19R0gGIAkFVX3lxTE1Kd0lJT3RnbzJReXo2ZWlkMEUxNVMtUXd4eUtBVGIxX1U5cnJ3R0NhcVRRODFFV3lrZW9hT05uaUQ4UHBfU0l6bmxGcjZQa0lxVzZ1Z1N5NjRoY1JoN2lMSjVOYWFPbTdBTEhGRUs4T3lNS1BXVE00bm41aE0tWE9WSFJYTW5sV3BzTVlFMlQ3UWRXakdmX1V2ZThCcmp4SU80NmVkUkdIcWJUNmVyVnlUSE9IaFVHaDcycEhUZmJRdUdZb1M4d2VJVGpFYk9HQ2xLWC1BRlhOcmZ4TG42VnQtczY2bGlqeHd1YXdoZWd5OXluR3h4WEZNdThKOWx4dEU0Wl9mNkVYQw?oc=5",
+      "source": "Infobae",
+      "sourceDomain": "infobae.com",
+      "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "Cómo impacta en Salta \"El Niño\" más fuerte en 140 años: Sudamérica podría enfrentar lluvias extremas y sequías al mismo tiempo",
@@ -78,6 +64,13 @@
       "source": "BBC",
       "sourceDomain": null,
       "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "El Niño impacta con fuerza en Sudamérica",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbUJDSldlUkZudlk5d0RTUnBKLXZaNktFc2VTb1k0MTV5cnlibFNGRjNPaW1iQzhKUmhoTlVySkJ3dHFDT3Q0VTVwVHlwLURuc0VBSHduT1gzZVVLUjlGczB1aFd0ODZtaGcxbXBRSnltRWw0MTBSQm9kcmRfUkRTSF90WEt1blZGNFJxWWdwZm5jSzc3VE90c1Uwa2liZkhYRWJSWDEybWJrTzR0dzd5VVMtRjhENC1QNmpqa2tEbw?oc=5",
+      "source": "Servindi",
+      "sourceDomain": null,
+      "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "Fenómeno de El Niño 2026: mapa de los países más afectados y las medidas anunciadas",
@@ -106,6 +99,13 @@
       "source": "Infobae",
       "sourceDomain": "infobae.com",
       "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Entre la incertidumbre y el riesgo: Latinoamérica debe prepararse para la posible llegada de El Niño en 2026",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORTFMUm5UbXJrOC1zMXRtbzBYRGpyQUEyYUdCeUloUFV2N0dTZjd1dlZHdkQ4ME4xNG9PU1NtVzlzYUh3OWdWeWZpZ21CdG9MbzVVdHF3NDRfRG84aGc3WTBVdjk4eWF2cjRKQXk4bzdMdVpmbXVGMC1JUmtpMGsxR2ducUtVcGJfVklXNg?oc=5",
+      "source": "Mongabay Latam",
+      "sourceDomain": null,
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
     }
   ]
 }

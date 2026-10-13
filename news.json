@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:18:16.221Z",
+  "generatedAt": "2026-10-13T16:32:44.111Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -9,27 +9,19 @@
   ],
   "items": [
     {
-      "title": "Nanawa: Hallan camioneta similar a usada en crimen de Eusebio Ayala",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2JZbnU0a1dUbGstRmJsM1JHUlQ3cUFPY1lXbEExakJkVnozSTlNSUJ1bmw2U3p4WEgxU2k4OTU0LTJqNGpsVDR2eG1zTlVIMmpiLUw3M000bzYwNFZ4ekVVZ0JESlJ5bGxJV2hsVEZHUk5ELUNyWFhtUV9Yc1pwNTRic0xVTUF3QnpYRWZOcndLNk1mTHJwZVljb1VrSkRQN2l5RzVBNllSMWgxd0E?oc=5",
-      "source": "NPY",
-      "sourceDomain": null,
-      "pubDate": "Fri, 02 Oct 2026 13:51:30 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "Senado rechaza veto de Peña y se ratifica en expropiación de un inmueble para la Essap en Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdzAyTEwtZE92bEFadnN6NVdxblFTRmxEX2FFRnEwb1NRMVJvQ29lV2I5V2hLQkw1bTFFd0VjTGMtMXhtNk5FUUNXZWVpY0RyX2pxVnl2eUFwcVlJTDBuRHVvb1pJeTcyekFiZE00aEdVQW50RXFPaXhlTlhvR3RkTTJnQzdPblZ2YXVCNVVobmR5Tmp1Y3p6UldPdEtLMUgwd2RzOHpPUnNtT0hJaHJxSkZfLUFNb3ItWTFwM0xVWERkdGppcW1mWmdPNDlldWx6Zm5PSGhHUQ?oc=5",
+      "title": "Nanawa: intendente oculta datos y retiene salarios porque tiene respaldo de Bachi, denuncian concejales",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEpHbnYzbzVtMFVtTG1fSTVrYUlEZEYxLTBocHItSmxJME1BNVBOU2cyV3pMbElxazNWTE9TVVdmeThVclhZRVFzck50SE9ILVczVmsyZzgzN2Nob0dvaDBRYnhmTE1oZnc2aTJRWnZLVkxwWGx0bUNELUYwdU80NHRUaFotMnpiQjFuQVMwX0hYMkRJNGgycWppaWNHTkdnY1Z0aGxYMXRxYWljRmlfTjBNSmdKLWJma2VTNUlPOGJxQ1NWa1ZwejNSTUg3bk9IdVVFMzg0b3FUMU11OUE?oc=5",
       "source": "ABC Color",
       "sourceDomain": null,
-      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
-      "title": "Buscan flexibilizar horario de portón sobre pasarela entre Clorinda y Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTU9hSkZNY0Q1SHVNaVduWm5Jckx6aUlvX0RrYkNYSlY5RFhCdUpiR1FFZHYzRDlqRlRnclhiYUE5eHUzelptQUkwYUJRUDlZZFYxVlYtVUh2NFdFU3ZJX1VTQTA5VHVvWnVuY3B3OW9CUk5aSUhmSVJSRnRqTHpLX1ROaHc1VTRYMHc1UHIwTHdmNDd5RUZkRGwwRmN4U01BSTkwRE130gGzAUFVX3lxTE1GS1ZmWHVtdnNXa2pxRG1KUE1fT09nUFB0QjRoWmlJOVdib2E3MTF3ejB2U3hwOE0zUzRJUEo1cDJtSlNQVnpqSTFEZUMwV1VraFhqZXdnbGFjZHlKTXR4eERUTTM1R3pSby1xUFpwY2E3Q3kyWFJQM2FRUVVzb0Q5Mm4wdVRNQWFPNElRZnFEdEJDNGZKOHpZZGRydlE3SUZPdENoeTVlRmlnT3VYeW9qbC0w?oc=5",
+      "title": "No hay respuestas a denuncias contra el intendente de Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0FaT1VvdWlpbnktbXNaS3ZEYmpaaVNoQlZrRTlqN2hJZW1lempib1JRUGUyNVJyQ2hKVlZKeDEwWjVBNTlEd0ItRTJZcmJNT3c2eG5FdHhBc2k0WDNhUnphSF9mUEZxRE51X1Y1aVhsdnJGUzRoVHBmcDM5M2o1a0ZIM2JBajM0QUhsVC1DYmfSAZ4BQVVfeXFMT3ZyWF9sT3BGc2o5Q1VRQ1IyQm9Hb2FHbWh0SXVZRW13UU9ETkpFOXNkWEJza1dJRERQNGNnRUhHdHliOVdVaU5ZdUp3UEJIQ1hPbkhmWFBKOGxrZWFNVVlZSHFFeHpCUjJfQUlPVndMUks3MkxGaEZOZnpGcjdvSE9wcGVVS2h4eTJ1T0paeng5aXd0TVpOa2tqM3BjRWc?oc=5",
       "source": "Última Hora",
       "sourceDomain": null,
-      "pubDate": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -49,19 +41,11 @@
       "category": "barrio"
     },
     {
-      "title": "Nanawa: intendente oculta datos y retiene salarios porque tiene respaldo de Bachi, denuncian concejales",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEpHbnYzbzVtMFVtTG1fSTVrYUlEZEYxLTBocHItSmxJME1BNVBOU2cyV3pMbElxazNWTE9TVVdmeThVclhZRVFzck50SE9ILVczVmsyZzgzN2Nob0dvaDBRYnhmTE1oZnc2aTJRWnZLVkxwWGx0bUNELUYwdU80NHRUaFotMnpiQjFuQVMwX0hYMkRJNGgycWppaWNHTkdnY1Z0aGxYMXRxYWljRmlfTjBNSmdKLWJma2VTNUlPOGJxQ1NWa1ZwejNSTUg3bk9IdVVFMzg0b3FUMU11OUE?oc=5",
-      "source": "ABC Color",
-      "sourceDomain": null,
-      "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "No hay respuestas a denuncias contra el intendente de Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0FaT1VvdWlpbnktbXNaS3ZEYmpaaVNoQlZrRTlqN2hJZW1lempib1JRUGUyNVJyQ2hKVlZKeDEwWjVBNTlEd0ItRTJZcmJNT3c2eG5FdHhBc2k0WDNhUnphSF9mUEZxRE51X1Y1aVhsdnJGUzRoVHBmcDM5M2o1a0ZIM2JBajM0QUhsVC1DYmfSAZ4BQVVfeXFMT3ZyWF9sT3BGc2o5Q1VRQ1IyQm9Hb2FHbWh0SXVZRW13UU9ETkpFOXNkWEJza1dJRERQNGNnRUhHdHliOVdVaU5ZdUp3UEJIQ1hPbkhmWFBKOGxrZWFNVVlZSHFFeHpCUjJfQUlPVndMUks3MkxGaEZOZnpGcjdvSE9wcGVVS2h4eTJ1T0paeng5aXd0TVpOa2tqM3BjRWc?oc=5",
+      "title": "Buscan flexibilizar horario de portón sobre pasarela entre Clorinda y Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTU9hSkZNY0Q1SHVNaVduWm5Jckx6aUlvX0RrYkNYSlY5RFhCdUpiR1FFZHYzRDlqRlRnclhiYUE5eHUzelptQUkwYUJRUDlZZFYxVlYtVUh2NFdFU3ZJX1VTQTA5VHVvWnVuY3B3OW9CUk5aSUhmSVJSRnRqTHpLX1ROaHc1VTRYMHc1UHIwTHdmNDd5RUZkRGwwRmN4U01BSTkwRE130gGzAUFVX3lxTE1GS1ZmWHVtdnNXa2pxRG1KUE1fT09nUFB0QjRoWmlJOVdib2E3MTF3ejB2U3hwOE0zUzRJUEo1cDJtSlNQVnpqSTFEZUMwV1VraFhqZXdnbGFjZHlKTXR4eERUTTM1R3pSby1xUFpwY2E3Q3kyWFJQM2FRUVVzb0Q5Mm4wdVRNQWFPNElRZnFEdEJDNGZKOHpZZGRydlE3SUZPdENoeTVlRmlnT3VYeW9qbC0w?oc=5",
       "source": "Última Hora",
       "sourceDomain": null,
-      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "pubDate": "Fri, 28 Aug 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -70,14 +54,6 @@
       "source": "MSN",
       "sourceDomain": null,
       "pubDate": "Thu, 05 Mar 2026 01:06:33 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "Joven corrige datos sobre Beterete Cue",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTYtSlpCZWZLNjZJVGFfM3ZCQzdLREZKZHVDanUweWtJaHJBYThJQjJmd015UWpiMDZrc1dYVEh1SHRRVHN3ZFpNWE1XU1FXRERzWjJLT3FVbHQxZzNkZ1IzUzhJVTVtRVpqWWJGZjBCeTNIVXM1RmNIR0g2LUg0NzMzdnd4Ni1IUXhDcEkzTl9YUjNITUpWMnIwTGdoNnBD?oc=5",
-      "source": "La Nación",
-      "sourceDomain": null,
-      "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -97,139 +73,163 @@
       "category": "barrio"
     },
     {
-      "title": "Imputan a mujer que habría quemado viva a una joven",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWtuVlA3aEJzSUZ6LWcxekxUS2NpdWdqSDdxeW1HMXc4YVk4a2FER2d5THVLYU5qWk8zclIxYWlKdy1qM0RIVkJsSVV4SlFMUmlDc3JJMlZZUWhiaUF2eDZ3WGRFMVRyRzVnODFtMzZvcGc0LUJ1VnFpODdlWlQ3QjE4Q3daTFlfSkQ3Q2QyWkhUZUdRYXppdmJvR0tXdE4ydzhzTDVxQUxhQTVXUENPTGV3?oc=5",
-      "source": "La Nación",
+      "title": "Senado rechaza veto de Peña y se ratifica en expropiación de un inmueble para la Essap en Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdzAyTEwtZE92bEFadnN6NVdxblFTRmxEX2FFRnEwb1NRMVJvQ29lV2I5V2hLQkw1bTFFd0VjTGMtMXhtNk5FUUNXZWVpY0RyX2pxVnl2eUFwcVlJTDBuRHVvb1pJeTcyekFiZE00aEdVQW50RXFPaXhlTlhvR3RkTTJnQzdPblZ2YXVCNVVobmR5Tmp1Y3p6UldPdEtLMUgwd2RzOHpPUnNtT0hJaHJxSkZfLUFNb3ItWTFwM0xVWERkdGppcW1mWmdPNDlldWx6Zm5PSGhHUQ?oc=5",
+      "source": "ABC Color",
       "sourceDomain": null,
-      "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
-      "title": "Carapeguá: piden activar plan de protección del Cerro Bogarín",
-      "link": "https://www.abc.com.py/politica/2026/10/12/carapegua-piden-activar-plan-de-proteccion-del-cerro-bogarin/",
+      "title": "Peña veta expropiación de finca a favor de la Essap en Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkhSM2tXUUZkMHJGU2xnbmNzTVlKUDJRZUdkanB0TURCOXkyUmdIV2RqOGw0SWtRQWVQQWx5LTBLNVlBRklKSzFzRTVCT21faWJFR09CN1NieFBtT19qSG95dHRnVnN6VjB0SDBBQTFRemJDWjJxVTJaaTJLTnhYT2k1N240cmU3ZjZseGNXdHR2M19uSnFQLWs3ZGlIdGdfYnMtVW9pWTE?oc=5",
+      "source": "ABC Color",
+      "sourceDomain": null,
+      "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Argentina cierra con portón la pasarela entre Clorinda y Nanawa y las reacciones no se hacen esperar",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX1lhN1VSZFF1ZGJNWVNFd1NaWlJ2U0txQ1dfa0dGNmpkX2hCZTdaSFZ5Yl9fcGVESWhvNS1PdG8taUtFQVZoZ3V4UFNhRlV0TG45UkNjTVFRcTFmT3I2YkEzVldFY21qNTZSNlRqRUM0c2tZUjhIN0JfaWZiNVpVcnNBT3JjNGtvcE5kLUd1NlZKLVJyd290N3lYVExHSjNaVVVVcEZxVUtqR1N4YnVtU3B2OTFIZnRQdi16VGZnY0x0YXNDLWfSAdMBQVVfeXFMT1hPRjFvVjNJRG5Fcjl3ZHI0YmppaXE0Skt0NnFTOUo4OERTV2ZzcnRkamNiMFM2T3VFMHd5N00xMHNvb2JQcW44RFZzMUVqZHpaQTAzaG5WTzNmN0tRT2RLZ0tSZWNRb1ZZY3FzQU9LcU5SSzBLY3lSSkNFdk9keGZsZ0JzdzBNbnQ4RXVPdi1QUlppYmsxb3ZjTWZZV0M0Nk5fMV80SWk4SlBaTXA3eklBTXY2V2dLWTFfbkhkZ3pNQ2FhS0stVF85OGhsTkRxQXFRNA?oc=5",
+      "source": "Última Hora",
+      "sourceDomain": null,
+      "pubDate": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Junta de Nanawa pide a Diputados intervenir gestión del intendente Samaniego",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUHl4VUxqbDk2VE5rMVgtMTFWa1hWNTFPbzZIWmlmQlk5MkpTRGFDMm1OUDkxME5sVXNzczY0d3JIQlhybGVmV2VEczEwT0FnVklIRnJrTUc0ZUlTajBOS3VxMVIzODQxT29hZmVoRUNLOUJleG1YbzkyZ29kQnJaNXNXOXFOaTJvcEw2dHRubUNZdEFMTFRweTY5aFhVeHFSZ0hmX2lrOFdwSFFDRTJmYW04X2xtQ1ZZOGxWMQ?oc=5",
+      "source": "ABC Color",
+      "sourceDomain": null,
+      "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Negocio de Peña: ¿Será que si alguno de nosotros va a Ueno a pedir US$ 1 millón nos darán?, pregunta Franco",
+      "link": "https://www.abc.com.py/politica/2026/10/13/negocio-de-pena-sera-que-si-alguno-de-nosotros-va-a-ueno-a-pedir-us-1-millon-nos-daran-pregunta-franco/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 12 Oct 2026 18:05:03 +0000",
+      "pubDate": "Tue, 13 Oct 2026 16:21:51 +0000",
       "category": "pais"
     },
     {
-      "title": "Presidente interino de BCP vuelve a huir ante consultas sobre Ueno ",
-      "link": "https://www.abc.com.py/politica/2026/10/12/presidente-interino-de-bcp-vuelve-a-huir-ante-consultas-sobre-ueno/",
+      "title": "Conductor irresponsable arrolló a una doña tras bajar del colectivo y la dejó tirada",
+      "link": "https://www.popular.com.py/2026/10/13/conductor-irresponsable-arrollo-a-una-dona-tras-bajar-del-colectivo-y-la-dejo-tirada/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Tue, 13 Oct 2026 16:17:12 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "PGN 2027: Legisladores cuestionan bajo acceso de productores a Hambre Cero y MAG admite dificultades en compras",
+      "link": "https://www.abc.com.py/economia/2026/10/13/pgn-2027-legisladores-cuestionan-bajo-acceso-de-productores-a-hambre-cero-y-mag-admite-dificultades-en-compras/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 12 Oct 2026 17:53:43 +0000",
+      "pubDate": "Tue, 13 Oct 2026 16:08:47 +0000",
       "category": "pais"
     },
     {
-      "title": "Cinco puertos en Itapúa restringen el cruce internacional tras la crecida del río Paraná",
-      "link": "https://www.abc.com.py/clima/2026/10/12/cinco-puertos-en-itapua-restringen-el-cruce-internacional-tras-la-crecida-del-rio-parana/",
+      "title": "Condenas de hasta 25 años por crimen en Roberto L. Pettit ",
+      "link": "https://www.abc.com.py/nacionales/2026/10/13/condenas-de-hasta-25-anos-por-crimen-en-roberto-l-pettit/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 12 Oct 2026 17:50:38 +0000",
+      "pubDate": "Tue, 13 Oct 2026 16:07:18 +0000",
       "category": "pais"
     },
     {
-      "title": "Los 11 departamentos en zona de tormentas y ocasional caída de granizos",
-      "link": "https://www.abc.com.py/clima/2026/10/12/los-11-departamentos-en-zona-de-tormentas-y-ocasional-caida-de-granizos/",
+      "title": "Caudal de Yacyreta está al 33% de su capacidad, según jefe del departamento técnico",
+      "link": "https://www.abc.com.py/economia/2026/10/13/caudal-de-yacyreta-esta-al-33-de-su-capacidad-segun-jefe-del-departamento-tecnico/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 12 Oct 2026 17:48:02 +0000",
+      "pubDate": "Tue, 13 Oct 2026 16:05:34 +0000",
       "category": "pais"
     },
     {
-      "title": "PGN 2027: MAG tendrá US$ 71 millones para ejecutar programas pero habla de cómo afectará El Niño ",
-      "link": "https://www.abc.com.py/economia/2026/10/12/pgn-2027-mag-tendra-us-71-millones-para-ejecutar-programas-pero-habla-de-como-afectara-el-nino/",
+      "title": "Asumen directores pyahu dependientes de Investigación Criminal",
+      "link": "https://www.popular.com.py/2026/10/13/asumen-directores-pyahu-dependientes-de-investigacion-criminal/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Tue, 13 Oct 2026 16:02:02 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Manejaba ka’úre, reventó a un motociclista e intentó atrincherarse en su barrio para no ir preso",
+      "link": "https://www.popular.com.py/2026/10/13/manejaba-kaure-revento-a-un-motociclista-e-intento-atrincherarse-en-su-barrio-para-no-ir-preso/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Tue, 13 Oct 2026 15:57:45 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Nakayama tacha de “estupidez” dichos de Prieto: “Paraguay no es Ciudad del Este”",
+      "link": "https://www.abc.com.py/politica/2026/10/13/nakayama-tacha-de-estupidez-dichos-de-prieto-paraguay-no-es-ciudad-del-este/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 12 Oct 2026 17:43:54 +0000",
+      "pubDate": "Tue, 13 Oct 2026 15:55:23 +0000",
       "category": "pais"
     },
     {
-      "title": "Títulos falsos: Senado tratará pedido para que Contraloría denuncie ante Fiscalía irregularidades en el Cones",
-      "link": "https://www.abc.com.py/politica/2026/10/12/titulos-falsos-senado-tratara-pedido-para-que-contraloria-denuncie-ante-fiscalia-irregularidades-en-el-cones/",
+      "title": "Puerto Antequera: pesca, música y Feria de la Agricultura Familiar",
+      "link": "https://www.abc.com.py/viajes/2026/10/13/puerto-antequera-pesca-musica-y-feria-de-la-agricultura-familiar/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 12 Oct 2026 17:42:44 +0000",
+      "pubDate": "Tue, 13 Oct 2026 15:44:43 +0000",
       "category": "pais"
     },
     {
-      "title": "Artritis reumatoidea y la importancia de su detección precoz ",
-      "link": "https://www.abc.com.py/nacionales/2026/10/12/artritis-reumatoidea-y-la-importancia-de-su-deteccion-precoz/",
+      "title": "Sistema de tormentas persiste con ráfagas fuertes y severa inestabilidad",
+      "link": "https://www.abc.com.py/clima/2026/10/13/sistema-de-tormentas-persiste-con-rafagas-fuertes-y-severa-inestabilidad/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 12 Oct 2026 17:38:08 +0000",
+      "pubDate": "Tue, 13 Oct 2026 15:36:44 +0000",
       "category": "pais"
     },
     {
-      "title": "Meteorología, sin radar ante El Niño: el equipo está averiado y el plan de cobertura, recortado",
-      "link": "https://www.abc.com.py/nacionales/2026/10/12/meteorologia-sin-radar-ante-el-nino-el-equipo-esta-averiado-y-el-plan-de-cobertura-recortado/",
+      "title": "San Pedro: crisis vial se agrava y crecida de los ríos mantiene en vilo a los ribereños",
+      "link": "https://www.abc.com.py/clima/2026/10/13/san-pedro-crisis-vial-se-agrava-y-crecida-de-los-rios-mantiene-en-vilo-a-los-riberenos/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 12 Oct 2026 17:32:30 +0000",
+      "pubDate": "Tue, 13 Oct 2026 15:33:50 +0000",
       "category": "pais"
     },
     {
-      "title": "Un homicida privilegiado por la justicia:Ombokapu ivecina róga ári ha opyta preso",
-      "link": "https://www.popular.com.py/2026/10/12/un-homicida-privilegiado-por-la-justiciaombokapu-ivecina-roga-ari-ha-opyta-preso/",
+      "title": "Malandros armados omoperö al playero",
+      "link": "https://www.popular.com.py/2026/10/13/malandros-armados-omopero-al-playero/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 12 Oct 2026 14:37:32 +0000",
+      "pubDate": "Tue, 13 Oct 2026 15:25:06 +0000",
       "category": "pais"
     },
     {
-      "title": "Balacera y persecución: Detienen a malandro y recuperan dinero robado de una gasolinera",
-      "link": "https://www.popular.com.py/2026/10/12/balacera-y-persecucion-detienen-a-malandro-y-recuperan-dinero-robado-de-una-gasolinera/",
+      "title": "Albañil acusado de robar y casi acuchillar a su patrón fue al calabozo",
+      "link": "https://www.popular.com.py/2026/10/13/albanil-acusado-de-robar-y-casi-acuchillar-a-su-patron-fue-al-calabozo/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 12 Oct 2026 14:31:43 +0000",
+      "pubDate": "Tue, 13 Oct 2026 15:23:29 +0000",
       "category": "pais"
     },
     {
-      "title": "Incautan droga escondida en fertilizantes bolivianos",
-      "link": "https://www.popular.com.py/2026/10/12/incautan-droga-escondida-en-fertilizantes-bolivianos/",
+      "title": "Grave situ familiar: Encadenó a su nieto con trastorno mentales",
+      "link": "https://www.popular.com.py/2026/10/13/grave-situ-familiar-encadeno-a-su-nieto-con-trastorno-mentales/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 12 Oct 2026 14:12:04 +0000",
+      "pubDate": "Tue, 13 Oct 2026 15:21:36 +0000",
       "category": "pais"
     },
     {
-      "title": "Nuevo Centro de Seguridad y Emergencias 911 para el Ñeembucú",
-      "link": "https://www.popular.com.py/2026/10/12/nuevo-centro-de-seguridad-y-emergencias-911-para-el-neembucu/",
+      "title": "Desmantelaron “La Cueva de Ivancito” donde se surtían los chespis",
+      "link": "https://www.popular.com.py/2026/10/13/desmantelaron-la-cueva-de-ivancito-donde-se-surtian-los-chespis/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 12 Oct 2026 14:10:42 +0000",
+      "pubDate": "Tue, 13 Oct 2026 15:20:32 +0000",
       "category": "pais"
     },
     {
-      "title": "Cambios en la policía: ¡Oîma primera directora general de Investigaciones!",
-      "link": "https://www.popular.com.py/2026/10/12/cambios-en-la-policia-oima-primera-directora-general-de-investigaciones/",
+      "title": "Hugo Javier ohóta a su casa por orden del juez Carlos Mendoza",
+      "link": "https://www.popular.com.py/2026/10/13/hugo-javier-ohota-a-su-casa-por-orden-del-juez-carlos-mendoza/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 12 Oct 2026 13:07:24 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Acribillado: Ojetopa te’ongue ríope",
-      "link": "https://www.popular.com.py/2026/10/12/acribillado-ojetopa-teongue-riope/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 12 Oct 2026 12:25:12 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "¿Accidental?: Péndex ojuka a una joven de un tiro iñakâme",
-      "link": "https://www.popular.com.py/2026/10/12/accidental-pendex-ojuka-a-una-joven-de-un-tiro-inakame/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 12 Oct 2026 12:21:15 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Péndex a los tiros en la Chacarita tras desafíos en Tik Tok",
-      "link": "https://www.popular.com.py/2026/10/12/pendex-a-los-tiros-en-la-chacarita-tras-desafios-en-tik-tok/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 12 Oct 2026 12:18:46 +0000",
+      "pubDate": "Tue, 13 Oct 2026 15:19:43 +0000",
       "category": "pais"
     },
     {

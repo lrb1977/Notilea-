@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T14:12:13.089Z",
+  "generatedAt": "2026-10-22T14:09:56.482Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -8,6 +8,14 @@
     "Diario HOY"
   ],
   "items": [
+    {
+      "title": "Clima en Estancia Nanawa, Presidente Hayes por horas",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zLXBVZE13cVFhODNSY000dVljdWFWci05V0RFUUxOcTctQ0NDM21jUnpDeG9fdHdwV1dld3NNMlRsaGtmdkNDTE9rRk42V1QxUGxobXRIUkxaQjc1Xy12LUxmLTNxdUE?oc=5",
+      "source": "SpaceRef",
+      "sourceDomain": null,
+      "pubDate": "Wed, 21 Oct 2026 23:40:25 GMT",
+      "category": "barrio"
+    },
     {
       "title": "Nanawa: Hallan camioneta similar a usada en crimen de Eusebio Ayala",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2JZbnU0a1dUbGstRmJsM1JHUlQ3cUFPY1lXbEExakJkVnozSTlNSUJ1bmw2U3p4WEgxU2k4OTU0LTJqNGpsVDR2eG1zTlVIMmpiLUw3M000bzYwNFZ4ekVVZ0JESlJ5bGxJV2hsVEZHUk5ELUNyWFhtUV9Yc1pwNTRic0xVTUF3QnpYRWZOcndLNk1mTHJwZVljb1VrSkRQN2l5RzVBNllSMWgxd0E?oc=5",
@@ -33,19 +41,27 @@
       "category": "barrio"
     },
     {
-      "title": "No hay respuestas a denuncias contra el intendente de Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0FaT1VvdWlpbnktbXNaS3ZEYmpaaVNoQlZrRTlqN2hJZW1lempib1JRUGUyNVJyQ2hKVlZKeDEwWjVBNTlEd0ItRTJZcmJNT3c2eG5FdHhBc2k0WDNhUnphSF9mUEZxRE51X1Y1aVhsdnJGUzRoVHBmcDM5M2o1a0ZIM2JBajM0QUhsVC1DYmfSAZ4BQVVfeXFMT3ZyWF9sT3BGc2o5Q1VRQ1IyQm9Hb2FHbWh0SXVZRW13UU9ETkpFOXNkWEJza1dJRERQNGNnRUhHdHliOVdVaU5ZdUp3UEJIQ1hPbkhmWFBKOGxrZWFNVVlZSHFFeHpCUjJfQUlPVndMUks3MkxGaEZOZnpGcjdvSE9wcGVVS2h4eTJ1T0paeng5aXd0TVpOa2tqM3BjRWc?oc=5",
-      "source": "Última Hora",
-      "sourceDomain": null,
-      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
       "title": "El desgaste de Bachi le abre a Zárate una chance de quedarse con Villa Hayes",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZWRFOGxpRGNHcXhjbjd0eGV4NThSSHoxb2k0OTR6QzFXRHVFZDhGU19KM2w0N3kyWW5wdE9GMWhfdmIwNWV1VGU1amNVdk5zSGs3M09ZQ3p5ejc1U2Y3aW9PQy1sN21DaXBGbi0xZUNBVlg4LTFEOHUwV25MTnVhaGxMNV9wakVCbkJUeW93cFdaVTZSVlptTEs0YXpRZl92RVFnRVBxeG90Y2d1YjJmUmxyQUh3eGt5QS1VYmI5MGdhWkZfSldTcFpLa2pjeFRVY0JiSw?oc=5",
       "source": "La Política Online",
       "sourceDomain": null,
       "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Proyecto de ley busca potenciar desarrollo territorial en municipios de Presidente Hayes y Central",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fR0htTVN6SzFKdVh0bThCMlRvTEZ3bV9peVk4XzdTOF9xcjBTR2hBMU8tUWwyUG1RazdBSnBONnZyYVNHM3AwMnR6bmlVSjVjSXFxVTZqNkE3RTg?oc=5",
+      "source": "Cámara de Diputados",
+      "sourceDomain": null,
+      "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "No hay respuestas a denuncias contra el intendente de Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0FaT1VvdWlpbnktbXNaS3ZEYmpaaVNoQlZrRTlqN2hJZW1lempib1JRUGUyNVJyQ2hKVlZKeDEwWjVBNTlEd0ItRTJZcmJNT3c2eG5FdHhBc2k0WDNhUnphSF9mUEZxRE51X1Y1aVhsdnJGUzRoVHBmcDM5M2o1a0ZIM2JBajM0QUhsVC1DYmfSAZ4BQVVfeXFMT3ZyWF9sT3BGc2o5Q1VRQ1IyQm9Hb2FHbWh0SXVZRW13UU9ETkpFOXNkWEJza1dJRERQNGNnRUhHdHliOVdVaU5ZdUp3UEJIQ1hPbkhmWFBKOGxrZWFNVVlZSHFFeHpCUjJfQUlPVndMUks3MkxGaEZOZnpGcjdvSE9wcGVVS2h4eTJ1T0paeng5aXd0TVpOa2tqM3BjRWc?oc=5",
+      "source": "Última Hora",
+      "sourceDomain": null,
+      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -57,19 +73,19 @@
       "category": "barrio"
     },
     {
+      "title": "Pronóstico meteorológico de Nanawa, Presidente Hayes, Paraguay",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83bTZYQXZpb0NxbUx5ZVd4eXJBSDU1bWtUVndGTm1YblY0VmJwRjQxVFJMVmxJUEszVHQ0VHRURWJWYnhXWmtiTkZ2U2FhaFFQd1k5bXpEZU13ZTZJbzFPTTBVeEhHZ3lzOUxyRHh2S2N0bFBGLVZCcWxFVnRSUQ?oc=5",
+      "source": "MSN",
+      "sourceDomain": null,
+      "pubDate": "Thu, 05 Mar 2026 01:06:33 GMT",
+      "category": "barrio"
+    },
+    {
       "title": "Senado rechaza veto de Peña y se ratifica en expropiación de un inmueble para la Essap en Nanawa",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdzAyTEwtZE92bEFadnN6NVdxblFTRmxEX2FFRnEwb1NRMVJvQ29lV2I5V2hLQkw1bTFFd0VjTGMtMXhtNk5FUUNXZWVpY0RyX2pxVnl2eUFwcVlJTDBuRHVvb1pJeTcyekFiZE00aEdVQW50RXFPaXhlTlhvR3RkTTJnQzdPblZ2YXVCNVVobmR5Tmp1Y3p6UldPdEtLMUgwd2RzOHpPUnNtT0hJaHJxSkZfLUFNb3ItWTFwM0xVWERkdGppcW1mWmdPNDlldWx6Zm5PSGhHUQ?oc=5",
       "source": "ABC Color",
       "sourceDomain": null,
       "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "Otorgan a Nanawa más de G. 1.500 millones pese a denuncias y el intendente acusado se defiende",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0ZrVlhMOXA0V3g2UUNhbFBCZ1pqcDJIOGNSUVFra2lFQ2c4czhBdVRPYWptSmZQelBpQ3N3RlFwazJSV2l3Z29EZUJnOFU4OExqa3NxdUU2X1k4NTFSbG83WGpjOXB5cF9wbWpnTEE1cm1XeGpFUHlpYzkzWG02X21pMFFTZVlfazVfYlNRbXJQdFNDWmMtY1JOOTZxWWtpMVRieUVtaE5SRlEzaW9DMWd2dlY1djZiMk1MQtIBygFBVV95cUxPbnJoTlNSUW1Gd2FUdmJsbkdlUExEYnpQSldxRmtoTjBGQlRtM0FoTUlBX2JPbGd2ZGhraWM1VkRyaEM4dlFBVjY3bDlFX2hnZUlVa3F2TF9sUzZjT2NHY3ZrTEI4TkVlWVFWRUtxMmZFaDVLSzA2em1fZ3kwQTVUOGJsSEVlNklTQ2lnNGhpWUx3aTl5ZHp1MEROTGZ0Rm02MmpDNkpXVF9Xekk1N2tqaFBkOGp3cFVGVjhWVE9NVlFJTVRRZmhLSnV3?oc=5",
-      "source": "Última Hora",
-      "sourceDomain": null,
-      "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -81,14 +97,6 @@
       "category": "barrio"
     },
     {
-      "title": "Argentina cierra con portón la pasarela entre Clorinda y Nanawa y las reacciones no se hacen esperar",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX1lhN1VSZFF1ZGJNWVNFd1NaWlJ2U0txQ1dfa0dGNmpkX2hCZTdaSFZ5Yl9fcGVESWhvNS1PdG8taUtFQVZoZ3V4UFNhRlV0TG45UkNjTVFRcTFmT3I2YkEzVldFY21qNTZSNlRqRUM0c2tZUjhIN0JfaWZiNVpVcnNBT3JjNGtvcE5kLUd1NlZKLVJyd290N3lYVExHSjNaVVVVcEZxVUtqR1N4YnVtU3B2OTFIZnRQdi16VGZnY0x0YXNDLWc?oc=5",
-      "source": "www.ultimahora.com",
-      "sourceDomain": null,
-      "pubDate": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
       "title": "Fiscalía imputó a los presuntos asesinos de una joven argentina en Nanawa",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGNRcC1jWHZZQmFHOFlmeUQxcXIwRkdELTMzUEdnRVlxLWkzNkxiRmpRNnJOM284eXRxdWtRYVJycDdGcXUzelgxY21LbVE0Rm5lbHp5bm85Uk9faGx4aWRjSlhnblRHUU5ZUmRuY2F1bDY5RGJKNS1ZUFI5dXFlY0xDTTQ5UExOXzhEa2JqNnJwLXIxVFJVUHpkQTcxSmpwUTEyVTFaZkxXUnJ5SVZSSmh3UzlORHBicVdv?oc=5",
       "source": "ABC Color",
@@ -97,139 +105,131 @@
       "category": "barrio"
     },
     {
-      "title": "Joven muere calcinada en supuesto ataque de una mujer a su ex pareja",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUTVGNHpsYjl5d0JUdWs5MGxYam55YkxKS1ZTVlZBc1BvSlpPQy1GdE1qVWRoMjNEV2VFREo0anNDcFFfYVgyVzNFRjlYUmRYUVQ1MjlvMDd6VEZHbFVJOEJwX3liUWloS24zWDVOVDBBUGtRNU9EdGFqZnNBeDFXbFN5cklRWjlSeEx3blZ1UnB6ejJlQnJKT3RXVdIBqAFBVV95cUxNd2JYeEZ3bXhkbEFVVnZlcmtfNEJDeW5mYkN6SGowU21BMnNwWXRoWXJvVnVsN2pSRjlsdFJpc2V2d0Z0REhTSUlxYzloa1FDYzNSUkdEYjJhM05uMFd3Yi1sMmdnUlkteEdtTFA1bjltOUZacG9GV3JnQkhzLURVcUpuenF4YkJkU29CVmFIYzVveXhvRS1ZYjBkVjQ3X21EX1FUQl95OUM?oc=5",
-      "source": "Última Hora",
-      "sourceDomain": null,
-      "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "Ndaipóri festejos por halloween en Caapucú ",
-      "link": "https://www.popular.com.py/2026/10/21/ndaipori-festejos-por-halloween-en-caapucu/",
+      "title": "¡Dionoguarde! Actor paraguayo contó que fue víctima de 4bu$0 en su niñez",
+      "link": "https://www.popular.com.py/2026/10/22/dionoguarde-actor-paraguayo-conto-que-fue-victima-de-4bu0-en-su-ninez/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 21 Oct 2026 14:07:20 +0000",
+      "pubDate": "Thu, 22 Oct 2026 14:07:32 +0000",
       "category": "pais"
     },
     {
-      "title": "Alerta en campamentos de Ayolas: recomiendan traslados ante nuevas tormentas",
-      "link": "https://www.abc.com.py/nacionales/2026/10/21/alerta-en-campamentos-de-ayolas-recomiendan-traslados-ante-nuevas-tormentas/",
+      "title": "Alerta meteorológica, EN VIVO: advierten sobre lluvias y tormentas eléctricas para todo el país",
+      "link": "https://www.abc.com.py/nacionales/2026/10/22/alerta-meteorologica-en-vivo-advierten-sobre-lluvias-y-tormentas-electricas-para-todo-el-pais/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 21 Oct 2026 14:05:29 +0000",
+      "pubDate": "Thu, 22 Oct 2026 13:59:45 +0000",
       "category": "pais"
     },
     {
-      "title": "¡Vane Trinidad denunció a estafador en redes!",
-      "link": "https://www.popular.com.py/2026/10/21/vane-trinidad-denuncio-a-estafador-en-redes/",
+      "title": "Contraloría: hay más de 1.000 funcionarios con títulos sin respaldo documental",
+      "link": "https://www.abc.com.py/politica/2026/10/22/contraloria-hay-mas-de-1000-funcionarios-con-titulos-sin-respaldo-documental/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Thu, 22 Oct 2026 13:46:25 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Sinadi emplaza al Gobierno ante recorte presupuestario en educación",
+      "link": "https://www.abc.com.py/nacionales/2026/10/22/sinadi-emplaza-al-gobierno-ante-recorte-presupuestario-en-educacion/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Thu, 22 Oct 2026 13:35:27 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Pagos de octubre: MEF dio a conocer nuevas fechas de cobro de salarios y beneficios sociales",
+      "link": "https://www.abc.com.py/economia/2026/10/22/pagos-de-octubre-mef-dio-a-conocer-nuevas-fechas-de-cobro-de-salarios-y-beneficios-sociales/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Thu, 22 Oct 2026 13:33:44 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "“Bachi” Núñez responde a Soto y cuestiona a quienes condicionan la dupla presidencial de Alliana",
+      "link": "https://www.abc.com.py/politica/2026/10/22/bachi-nunez-responde-a-soto-y-cuestiona-a-quienes-condicionan-la-dupla-presidencial-de-alliana/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Thu, 22 Oct 2026 13:27:32 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "¡Oñepyrûma carrera colo’o! Otutúma primer adelantado para el 2027",
+      "link": "https://www.popular.com.py/2026/10/22/onepyruma-carrera-coloo-otutuma-primer-adelantado-para-el-2027/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 21 Oct 2026 14:04:49 +0000",
+      "pubDate": "Thu, 22 Oct 2026 13:14:53 +0000",
       "category": "pais"
     },
     {
-      "title": "Peña viaja a Washington y anuncia reunión con la CIA ",
-      "link": "https://www.abc.com.py/politica/2026/10/21/pena-viaja-a-washington-y-anuncia-reunion-con-la-cia/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 21 Oct 2026 13:34:54 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Identifican a presunto organizador del crimen de un narco y su pareja en Pedro Juan Caballero",
-      "link": "https://www.abc.com.py/policiales/2026/10/21/identifican-a-presunto-organizador-del-crimen-de-un-narco-y-su-pareja-en-pedro-juan-caballero/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 21 Oct 2026 13:26:37 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "(VIDEO) Por tesapo’ê: Ojuka a su primo e hirió a su expareja, suegra y cuñadakue",
-      "link": "https://www.popular.com.py/2026/10/21/video-por-tesapoe-ojuka-a-su-primo-e-hirio-a-su-expareja-suegra-y-cunadakue/",
+      "title": "Hospi Regional de Paraguarí oîma “a punto de caramelo”",
+      "link": "https://www.popular.com.py/2026/10/22/hospi-regional-de-paraguari-oima-a-punto-de-caramelo/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 21 Oct 2026 13:23:23 +0000",
+      "pubDate": "Thu, 22 Oct 2026 13:11:45 +0000",
       "category": "pais"
     },
     {
-      "title": "Estigarribia plantea primarias vía concertación para definir la chapa presidencial",
-      "link": "https://www.abc.com.py/politica/2026/10/21/estigarribia-plantea-primarias-via-concertacion-para-definir-la-chapa-presidencial/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 21 Oct 2026 13:13:42 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "¡Bolonqui porque Nadia Ferreira besa en la boca a su retoño!",
-      "link": "https://www.popular.com.py/2026/10/21/bolonqui-porque-nadia-ferreira-besa-en-la-boca-a-su-retono/",
+      "title": "¿La maína del Guma chocó ka’ure?",
+      "link": "https://www.popular.com.py/2026/10/22/la-maina-del-guma-choco-kaure/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 21 Oct 2026 13:07:33 +0000",
+      "pubDate": "Thu, 22 Oct 2026 13:03:16 +0000",
       "category": "pais"
     },
     {
-      "title": "“El cartismo no va a desaparecer”, dice Leite",
-      "link": "https://www.abc.com.py/politica/2026/10/21/el-cartismo-no-va-a-desaparecer-dice-leite/",
+      "title": "Antonio Barrios “rebobina” agenda con Taiwán tras fractura de Honor Colorado",
+      "link": "https://www.abc.com.py/politica/2026/10/22/antonio-barrios-rebobina-agenda-con-taiwan-tras-fractura-de-honor-colorado/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 21 Oct 2026 12:58:09 +0000",
+      "pubDate": "Thu, 22 Oct 2026 13:02:29 +0000",
       "category": "pais"
     },
     {
-      "title": "Meteorología anuncia tormentas más intensas para el viernes y el fin de semana",
-      "link": "https://www.abc.com.py/clima/2026/10/21/meteorologia-anuncia-tormentas-mas-intensas-para-el-viernes-y-el-fin-de-semana/",
+      "title": "Vídeo: Cae el supuesto motochorro buscado por el tiroteo en el barrio San Roque de Asunción",
+      "link": "https://www.abc.com.py/policiales/2026/10/22/cae-el-supuesto-motochorro-buscado-por-el-tiroteo-en-el-barrio-san-roque-de-asuncion/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 21 Oct 2026 12:54:28 +0000",
+      "pubDate": "Thu, 22 Oct 2026 12:58:00 +0000",
       "category": "pais"
     },
     {
-      "title": "Peña y Landau visitan base contraterrorista en Ciudad del Este ",
-      "link": "https://www.abc.com.py/este/2026/10/21/pena-y-landau-visitan-base-contraterrorista-en-ciudad-del-este/",
+      "title": "PLRA puede ganar como en el 2008, pero debe evitar mismas torpezas y renovar su política, sostiene Llano",
+      "link": "https://www.abc.com.py/politica/2026/10/22/plra-puede-ganar-como-en-el-2008-pero-debe-evitar-mismas-torpezas-y-renovar-su-politica-sostiene-llano/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 21 Oct 2026 12:37:59 +0000",
+      "pubDate": "Thu, 22 Oct 2026 12:45:15 +0000",
       "category": "pais"
     },
     {
-      "title": "Tragedia por aparentes celos en Yataity del Norte: un fallecido y tres mujeres heridas ",
-      "link": "https://www.abc.com.py/nacionales/2026/10/21/tragedia-por-aparentes-celos-en-yataity-del-norte-un-fallecido-y-tres-mujeres-heridas/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 21 Oct 2026 12:35:04 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Kuña jodida casi degolló a su amochi tras feroz pelea",
-      "link": "https://www.popular.com.py/2026/10/21/kuna-jodida-casi-degollo-a-su-amochi-tras-feroz-pelea/",
+      "title": "(VIDEO) ¿Rocío Adorno sale con el ex de Mirna Pereira? ¡Ella respondió!",
+      "link": "https://www.popular.com.py/2026/10/22/video-rocio-adorno-sale-con-el-ex-de-mirna-pereira-ella-respondio/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 21 Oct 2026 12:20:10 +0000",
+      "pubDate": "Thu, 22 Oct 2026 12:09:48 +0000",
       "category": "pais"
     },
     {
-      "title": "(VIDEO) ¡Malala Olitte contó por qué ya no deja que peluqueras le toquen su cabello!",
-      "link": "https://www.popular.com.py/2026/10/21/video-malala-olitte-conto-por-que-ya-no-deja-que-peluqueras-le-toquen-su-cabello/",
+      "title": "Ombeti contra una vaca ha omanoite",
+      "link": "https://www.popular.com.py/2026/10/22/ombeti-contra-una-vaca-ha-omanoite/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 21 Oct 2026 12:07:41 +0000",
+      "pubDate": "Thu, 22 Oct 2026 11:03:36 +0000",
       "category": "pais"
     },
     {
-      "title": "(VIDEO) Periodista blanqueó su jegustá con Juan Iturbe y ya le llueven pecheos de remeras y saludos",
-      "link": "https://www.popular.com.py/2026/10/21/video-periodista-blanqueo-su-jegusta-con-juan-iturbe-y-ya-le-llueven-pecheos-de-remeras-y-saludos/",
+      "title": "(VIDEO) Ingrid Noguera: “Es peladísima ser madrina de un club”",
+      "link": "https://www.popular.com.py/2026/10/22/video-ingrid-noguera-es-peladisima-ser-madrina-de-un-club/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 21 Oct 2026 11:06:05 +0000",
+      "pubDate": "Thu, 22 Oct 2026 11:00:44 +0000",
       "category": "pais"
     },
     {
-      "title": "(VIDEO) ¡Aijue! Futuras doctoras se moquetearon en el este",
-      "link": "https://www.popular.com.py/2026/10/21/video-aijue-futuras-doctoras-se-moquetearon-en-el-este/",
+      "title": "¡Liquidó con escopetazo al perro terapéutico de un nene autista!",
+      "link": "https://www.popular.com.py/2026/10/22/liquido-con-escopetazo-al-perro-terapeutico-de-un-nene-autista/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 21 Oct 2026 10:35:42 +0000",
+      "pubDate": "Thu, 22 Oct 2026 10:33:46 +0000",
       "category": "pais"
     },
     {

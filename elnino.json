@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-23T16:41:30.710Z",
+  "generatedAt": "2026-10-25T15:45:18.540Z",
   "feedUrl": "https://news.google.com/rss/search?q=El%20Ni%C3%B1o%202026%20Sudam%C3%A9rica%20clima&hl=es-419&gl=US&ceid=US:es-419",
   "items": [
-    {
-      "title": "El fenómeno de “El Niño” empieza a afectar el clima en el Perú y Latinoamérica",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGltWnVNY1YtcE9mT2hjVTFVN0I0blM5VDlWTVB6a2RyM1l1RjM2WGhaZmlaWnlGYlhUMGh0VHhfMklhWXlHcGtGQ0JWdUxZVjVKRVlkcTlkMEFHQU5YSElIXzlNUWJsQnZnMDU1b2VZMnBYcmRkNnVlRjRBTHZCSl9YbjZjTkMxZzBrbF8xdnZlSXhyS19ocjNRbjAxQ1ViVWZGTU1tMFNIbHN1ci0yNDlfUElsMFk?oc=5",
-      "source": "Vatican News",
-      "sourceDomain": null,
-      "pubDate": "Fri, 23 Oct 2026 12:48:46 GMT"
-    },
     {
       "title": "5 maneras en las que el \"Súper Niño\" ya está afectando el clima en América Latina y otras partes del mundo",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yZExsTHhaSlpGQkwyemFNYy0yOE1GYjVoaTN0N1dRU3RmN0FSVHY0T3hqekhxY1UyUWxhYkxnaTIxb3NnOVJTRlE5a1UyZktBTXg5cXdiSW1tbjhD?oc=5",
       "source": "BBC",
       "sourceDomain": null,
       "pubDate": "Thu, 22 Oct 2026 11:08:33 GMT"
+    },
+    {
+      "title": "El fenómeno de “El Niño” empieza a afectar el clima en el Perú y Latinoamérica",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGltWnVNY1YtcE9mT2hjVTFVN0I0blM5VDlWTVB6a2RyM1l1RjM2WGhaZmlaWnlGYlhUMGh0VHhfMklhWXlHcGtGQ0JWdUxZVjVKRVlkcTlkMEFHQU5YSElIXzlNUWJsQnZnMDU1b2VZMnBYcmRkNnVlRjRBTHZCSl9YbjZjTkMxZzBrbF8xdnZlSXhyS19ocjNRbjAxQ1ViVWZGTU1tMFNIbHN1ci0yNDlfUElsMFk?oc=5",
+      "source": "Vatican News",
+      "sourceDomain": null,
+      "pubDate": "Fri, 23 Oct 2026 12:48:46 GMT"
     },
     {
       "title": "El Niño extremo ya se siente en Latinoamérica: inundaciones y sequías pronostican un diciembre con mayores impactos",
@@ -24,9 +24,23 @@
       "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT"
     },
     {
+      "title": "Los efectos de El Niño: hasta cuándo podría durar su impacto en la Argentina y la región",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORDBKakZvaW5uNmg4c1ZZOHRZQ3ZNanM2cFBBLW9zVXZzNEYtNVZRV2llcmNhTGtPWXBDN3VpMFhmbmF4WVA2bEgtSUM1QjR2QXR0dXpnMGVvMElPaVRKZ3NTaG5NdGhKS1JzRUZySlpmMC1DOEdDeWZqZmZpaTQ0NG1EeHF5QmVUWU9EQ0RwOWZycFJyTXJWNW5XYjVfeEkzQi1rWGNTZzdfNms1TkNwNzFBcU5lMXlIVEYwM0FXTEE5RFd0QmRSQ1V3QUhvQU9vSUpKcmVZVlF5TjUwUU530gH6AUFVX3lxTFBWYWJQQS1RSzE5aFRqWmxkcnBidDJhWEhGb3V3UmR1S2RmbUpiOHVxQ0RXLWVxNmd5VHdNd2V6V0JLeG1BWkJxWDdEaEpnd0p5TVB6WmpZTnpvVXpvempENmxVWTVEemdveTdwRlM4dEh0VEJHSkxjaUFHWWdrRFpodUhuUU9hYktSSl9PWnZpZ0ZKdzc0QzhLeVd0QmZwUFNaTG53OHFvc04zQ3ZJa1h0R3hzelAyRTFjVTBRMUktblRfeEl6cXA1eGtnR20weS1pYkZFNTJlODdFQ1NtSkRmWlhzN3ZNRER2UlFXUzdHV0Jaa1JPczhfM2c?oc=5",
+      "source": "Infobae",
+      "sourceDomain": "infobae.com",
+      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "El Super Niño rompe récords en el Pacífico: qué puede significar para el agro de América Latina",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFQ2S3FxMXpVSkFOUzdYNmd0QlBlTW1XT3d2RHNwTVAtc2FpelhqWlZmMmVyMEltVlcyaXQ1bGZYSnN3R2JqTHh6Z1JzTDI3d01fNXlaZjJmQmpRaEFPZm85ZGtlR2FFWThkanhIcHJFWUtFbk56dGtBTWpMaXZMZ2xXMm8wNzF0ME5EU3dqWF8wemg1dnc?oc=5",
+      "source": "AgroLatam",
+      "sourceDomain": null,
+      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
       "title": "BID | El Niño 2026-2027: cómo prepararse mejor en América Latina y el Caribe",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcnd4NmJnS1VUUXliWldEWDFfeDhEQ21aRlpCamU5VS0tcDI2WDBocWt4RHJnLUZtRkNYdy0wUjhUUjFuUnQ2Z2lWZWlHTEE4VmhaSW1nOV9SbUtVOHpGcmdTRllvTFh0SU5iWlBmVkJrM25HRWdJN0N2Z2lzVnhObXBXdW5XTkxncEQ0NmQtRElMTTBzNVJDZWxxek05Qnk0ZE96TjlmY1ZZQ1gxQWdhQjJadm1UYWhaQ2RUUTUyUVZSMkRqdG1wNkl3VmVSbjdmVk53?oc=5",
-      "source": "Inter-American Development Bank",
+      "source": "IDB | Inter American Development Bank",
       "sourceDomain": null,
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
     },
@@ -38,11 +52,11 @@
       "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "Los efectos de El Niño: hasta cuándo podría durar su impacto en la Argentina y la región",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORDBKakZvaW5uNmg4c1ZZOHRZQ3ZNanM2cFBBLW9zVXZzNEYtNVZRV2llcmNhTGtPWXBDN3VpMFhmbmF4WVA2bEgtSUM1QjR2QXR0dXpnMGVvMElPaVRKZ3NTaG5NdGhKS1JzRUZySlpmMC1DOEdDeWZqZmZpaTQ0NG1EeHF5QmVUWU9EQ0RwOWZycFJyTXJWNW5XYjVfeEkzQi1rWGNTZzdfNms1TkNwNzFBcU5lMXlIVEYwM0FXTEE5RFd0QmRSQ1V3QUhvQU9vSUpKcmVZVlF5TjUwUU530gH6AUFVX3lxTFBWYWJQQS1RSzE5aFRqWmxkcnBidDJhWEhGb3V3UmR1S2RmbUpiOHVxQ0RXLWVxNmd5VHdNd2V6V0JLeG1BWkJxWDdEaEpnd0p5TVB6WmpZTnpvVXpvempENmxVWTVEemdveTdwRlM4dEh0VEJHSkxjaUFHWWdrRFpodUhuUU9hYktSSl9PWnZpZ0ZKdzc0QzhLeVd0QmZwUFNaTG53OHFvc04zQ3ZJa1h0R3hzelAyRTFjVTBRMUktblRfeEl6cXA1eGtnR20weS1pYkZFNTJlODdFQ1NtSkRmWlhzN3ZNRER2UlFXUzdHV0Jaa1JPczhfM2c?oc=5",
-      "source": "Infobae",
-      "sourceDomain": "infobae.com",
-      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+      "title": "El Niño en Argentina y Sudamérica: todo sobre sus efectos, duración y clima",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSEEzbUhJdzlvZkdNT21aMVViMmpETFY2dlZPUW4yODliQnI3OFRUOEdPek9PM0sxYW1CaS1oM2FLdFRLSVE4eV9yOVRkSWkwS3ZGY2FpdTgyRFZCLTV1WGM1d1pfV0dtb2RuUVpFdGpwWkRfX1NDYTg2TElzZGE3dGt4S0pWd0FxRFpsR3RuZm5kOFJVWGJmTEdLZ0pmR1M0amVWaXEzalhPcVE?oc=5",
+      "source": "Radionacional.com.ar",
+      "sourceDomain": null,
+      "pubDate": "Mon, 19 Oct 2026 19:48:37 GMT"
     },
     {
       "title": "\"El Niño Godzilla\": ¿nos amenaza un super El Niño 2026?",
@@ -52,25 +66,11 @@
       "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "El Super Niño rompe récords en el Pacífico: qué puede significar para el agro de América Latina",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFQ2S3FxMXpVSkFOUzdYNmd0QlBlTW1XT3d2RHNwTVAtc2FpelhqWlZmMmVyMEltVlcyaXQ1bGZYSnN3R2JqTHh6Z1JzTDI3d01fNXlaZjJmQmpRaEFPZm85ZGtlR2FFWThkanhIcHJFWUtFbk56dGtBTWpMaXZMZ2xXMm8wNzF0ME5EU3dqWF8wemg1dnc?oc=5",
-      "source": "AgroLatam",
-      "sourceDomain": null,
-      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "\"El Niño\" 2026: ¿Cómo nos preparamos para sus efectos en América Latina y el Caribe?",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjQzTGJTT1NqOTR2WUpoazhuQ1Y4V1dmbUtKYkFKMW93clJKMGJ1clZtanM1cjVCZGhRaUw3Rkx6ek5VWmtsRXpTcUM0SmFLYlNvUFUxMVlla082ZnhUWFh0WXh6ak1naFVWVEVxbUtVWDIwQVppYXRVdGIyZk8zYkZVbXlIUmNzTmNCRmdvQ2JrOHJ0Vm1EWjFoMi1uMlotSC1fbXd3OWdscXpVakRfa1h3?oc=5",
-      "source": "IFRC",
-      "sourceDomain": null,
-      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Cómo impacta en Salta \"El Niño\" más fuerte en 140 años: Sudamérica podría enfrentar lluvias extremas y sequías al mismo tiempo",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMUxPWWNWM3k0a2Nod0hVSDVfMnpTQWozcndYeVJTUXVhYllZRzljc3hqTjZXb1QxUHd0UF9zTGFKZkNaSmlRenpKNmhRMUVwVnlwSXhsanVmVUY5ODZPOFRwenlZTy1Cb05SdS1fWVRjSERvMDB0OVVMRlp4WXhJNFdXNGVZX1M1a2xTMjF5OE8zT2w4TTVCVXJXVTBfQmFBS2d2UUVDam1TX056UXlSYzVSaGw3NjRXYXViQmsybVAwLWhJVG01WFNYdWdKR3dsWDRtbGdtdGd4azlqSDd5N1NHUXk5T0c0U3c2bNIB8gFBVV95cUxOdVE1SUNWTmtvU3YzY19MUkpzN0J3TmdfUzV2UHRpNEpLblBhczN2UEFwUEV0TTRJYlhndzJmYkNaNXlWVHFhMVEwTWxGMk5YUzZ2N0N1Wk1jSTZ0NTlmQWRJbjVVaUUwUy1pRndmRkdfMDA0ZWVYcWxtSV9WVTl6eUZnUzFZZkRlV0gyMmNSUk5TcFJrdFJ1eFN0b3U1eGJXdUJMV3VyNTdTLTh1QlpMZ3ZOU05ueTljdHFZY2lrVl9iSERlV2xnWmx3T1ZuZ3RaRElRR2tyU2M3eTVkbjlVNUl3cGxzcE9xM3FPaUpwY3pUUQ?oc=5",
-      "source": "Gente de Salta",
-      "sourceDomain": null,
-      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT"
+      "title": "La probabilidad de un Súper Niño de intensidad histórica trepó al 75%, según los últimos datos científicos",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR2pTekkzaE5mNVRzTWtGVXBUWWZMZERXR0tMU2FFaGdxcElveGNSeFZjbFFXMVdxX2FIY29MR0JwNkVoVGtnbHhjTHhJS1RDbDNXeFhIaW5JeGZmWWdBd0c0M1diOXp0NzhaVU9yTkdlRFlMTEJha1N0N1FVYmpBQXAxQlRCNVpzWlJ6Vm84alJqeWFnWTdTWWZ2VF9VQ2ZaVVUyZGY0RWJTdy1CZDdpTjJrTExLaUtzbzNWSERINkN3OVQtU2Z5UjZxRGFjd3llYjlqMlpHMzMtQ2VKMmU3emJqNNIB_gFBVV95cUxQN2VwSW1EVXAxUlFiT1gtSlFWTE1jYm1HVVpTWUgwR3A0SjN6Y0w0a0lJS09KWmtOYTFkWkZxY0hwTnVZODl5SXZCdUFOODNTMjVZbDRrZW5iTWE2RzhGMVdjU0czc2VBVkY5R2VsYXhyX3lteTlnaUhZb0VlTWZXX0RGc1ItRjRkOGxzUUtWa3VEeU1BbEpocGp1c0t5NkJXSkkwRzZvNDNWRjhrcGhLZktaMGFYZnJBNldrVng0dDdBZExpOUlKaEhSOWpvdy1QR1hIWjMycVVWUUhaalpXOGpJYTdlVWFNNDdwR2RqY2dvc2pmQTh3LUlScXhidw?oc=5",
+      "source": "Infobae",
+      "sourceDomain": "infobae.com",
+      "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "El Niño impacta con fuerza en Sudamérica",
@@ -80,11 +80,18 @@
       "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "¿Qué es y cómo te afecta el Fenómeno de El Niño? | Mongabay Explica",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdzhPeUgxOUtYUnc4Vk1TXzFSdFM5Q2h4QlVidDRFajdva0RhLWRPWGdmOGJlTkdGRTMtWmd5NFVEcHczblVaQmh1UWY2Tzg1OXdwUC1ZSDA1eTB4RWZPYk0xR3JPUGEybFd2djhrSmdJY1lmYUF4dGlEYzJRWW51Sk1kbHljQkJRY3E4T2pkRmNSS0N6akJHcWZxYmllZ1ZSQ1NXLQ?oc=5",
-      "source": "Mongabay Latam",
+      "title": "El calor extremo se intensifica en Sudamérica: Chile enfrenta otra cara de El Niño",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbmluSGduYzVBeGtyb0oyb1lNUFltbXh1MU5xYzhTY3FGajRXRnpGazZlSHZwYUVOeUtvWlZELVdDZzNOdlRtTHFweWxiYlNwRVhiU0I4UlNNNWRETzFVcEVwSzJtSVFHOGdlYzI2dmNMQnRIOGY1OXpNSkI2V3BmZ09kSFduSVNFemtNLXdJd1d6N0NpQVNwTG5sdURUWjZwdHJRY2JLVll1Y3k4U1ctQ3ZXMl9QTlFYVzFUd05saXYzSUstLURNLTB6cFN3bW8?oc=5",
+      "source": "El Mostrador",
       "sourceDomain": null,
       "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "¿Qué es y cómo te afecta el Fenómeno de El Niño? | Mongabay Explica",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXZRWnZXeEQzVVZ4M1BpNjdZRE9rWkdySlJVMzRSUUlfMWVpYzlXcERqbHE5THFHT1FkN3hLR3gxVFA4emtRend5OFZ0dXlVMUpzTGZNdFp5NzlTYS1zYlZuSjluc0F4VEdxV1U3M3FINWhnbzhISmlNcnRuMjZvbTZFb3pfci0xSF9wbktiZnI2Ym1CaDNXVVhn?oc=5",
+      "source": "Mongabay Latam",
+      "sourceDomain": null,
+      "pubDate": "Mon, 21 Sep 2026 17:24:37 GMT"
     },
     {
       "title": "Los graves efectos que los científicos pronostican en América Latina por el fenómeno del \"Súper El Niño\"",
@@ -92,13 +99,6 @@
       "source": "BBC",
       "sourceDomain": null,
       "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "La probabilidad de un Súper Niño de intensidad histórica trepó al 75%, según los últimos datos científicos",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR2pTekkzaE5mNVRzTWtGVXBUWWZMZERXR0tMU2FFaGdxcElveGNSeFZjbFFXMVdxX2FIY29MR0JwNkVoVGtnbHhjTHhJS1RDbDNXeFhIaW5JeGZmWWdBd0c0M1diOXp0NzhaVU9yTkdlRFlMTEJha1N0N1FVYmpBQXAxQlRCNVpzWlJ6Vm84alJqeWFnWTdTWWZ2VF9VQ2ZaVVUyZGY0RWJTdy1CZDdpTjJrTExLaUtzbzNWSERINkN3OVQtU2Z5UjZxRGFjd3llYjlqMlpHMzMtQ2VKMmU3emJqNNIB_gFBVV95cUxQN2VwSW1EVXAxUlFiT1gtSlFWTE1jYm1HVVpTWUgwR3A0SjN6Y0w0a0lJS09KWmtOYTFkWkZxY0hwTnVZODl5SXZCdUFOODNTMjVZbDRrZW5iTWE2RzhGMVdjU0czc2VBVkY5R2VsYXhyX3lteTlnaUhZb0VlTWZXX0RGc1ItRjRkOGxzUUtWa3VEeU1BbEpocGp1c0t5NkJXSkkwRzZvNDNWRjhrcGhLZktaMGFYZnJBNldrVng0dDdBZExpOUlKaEhSOWpvdy1QR1hIWjMycVVWUUhaalpXOGpJYTdlVWFNNDdwR2RqY2dvc2pmQTh3LUlScXhidw?oc=5",
-      "source": "Infobae",
-      "sourceDomain": "infobae.com",
-      "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "El Niño amenaza el empleo en Latinoamérica, según OIT",

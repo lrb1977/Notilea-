@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T15:33:43.677Z",
+  "generatedAt": "2026-10-27T14:59:10.008Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -33,11 +33,11 @@
       "category": "barrio"
     },
     {
-      "title": "Feudo de Bachi: A las puertas de las elecciones, apuran manejo político en Nueva Asunción y Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY3pHWXZYRzFHRjhmeWh1MlhkTUdBRTFTcGN4WHdicS1JTV9vSldyaFhTY25PUHBCSXBlanJVdTNWOGVPMERzMVZQS3FPM1hlYlRtYnFhTmtJU1NJRFZjUDV3UEVtOWp5Z1NkVHFVeUwwUVJ0TWRXRURobGNXckloaGhueGdCeFhuUlV4UHVScmdaaDRjLTV3Z0F0aHhQRG15XzZDOGY1T3ZJWlRyODRzV052ZVZQV1NqUnVzU2ozLXBBMC1Mb0drWnU2UXFuZTdJdTJ1ZldBaw?oc=5",
+      "title": "Nanawa: intendente oculta datos y retiene salarios porque tiene respaldo de Bachi, denuncian concejales",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEpHbnYzbzVtMFVtTG1fSTVrYUlEZEYxLTBocHItSmxJME1BNVBOU2cyV3pMbElxazNWTE9TVVdmeThVclhZRVFzck50SE9ILVczVmsyZzgzN2Nob0dvaDBRYnhmTE1oZnc2aTJRWnZLVkxwWGx0bUNELUYwdU80NHRUaFotMnpiQjFuQVMwX0hYMkRJNGgycWppaWNHTkdnY1Z0aGxYMXRxYWljRmlfTjBNSmdKLWJma2VTNUlPOGJxQ1NWa1ZwejNSTUg3bk9IdVVFMzg0b3FUMU11OUE?oc=5",
       "source": "ABC Color",
       "sourceDomain": null,
-      "pubDate": "Sat, 05 Sep 2026 07:00:00 GMT",
+      "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -46,6 +46,14 @@
       "source": "La Política Online",
       "sourceDomain": null,
       "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Feudo de Bachi: A las puertas de las elecciones, apuran manejo político en Nueva Asunción y Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY3pHWXZYRzFHRjhmeWh1MlhkTUdBRTFTcGN4WHdicS1JTV9vSldyaFhTY25PUHBCSXBlanJVdTNWOGVPMERzMVZQS3FPM1hlYlRtYnFhTmtJU1NJRFZjUDV3UEVtOWp5Z1NkVHFVeUwwUVJ0TWRXRURobGNXckloaGhueGdCeFhuUlV4UHVScmdaaDRjLTV3Z0F0aHhQRG15XzZDOGY1T3ZJWlRyODRzV052ZVZQV1NqUnVzU2ozLXBBMC1Mb0drWnU2UXFuZTdJdTJ1ZldBaw?oc=5",
+      "source": "ABC Color",
+      "sourceDomain": null,
+      "pubDate": "Sat, 05 Sep 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -73,14 +81,6 @@
       "category": "barrio"
     },
     {
-      "title": "Nanawa: intendente oculta datos y retiene salarios porque tiene respaldo de Bachi, denuncian concejales",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEpHbnYzbzVtMFVtTG1fSTVrYUlEZEYxLTBocHItSmxJME1BNVBOU2cyV3pMbElxazNWTE9TVVdmeThVclhZRVFzck50SE9ILVczVmsyZzgzN2Nob0dvaDBRYnhmTE1oZnc2aTJRWnZLVkxwWGx0bUNELUYwdU80NHRUaFotMnpiQjFuQVMwX0hYMkRJNGgycWppaWNHTkdnY1Z0aGxYMXRxYWljRmlfTjBNSmdKLWJma2VTNUlPOGJxQ1NWa1ZwejNSTUg3bk9IdVVFMzg0b3FUMU11OUE?oc=5",
-      "source": "ABC Color",
-      "sourceDomain": null,
-      "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
       "title": "Fiscalía imputó a los presuntos asesinos de una joven argentina en Nanawa",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGNRcC1jWHZZQmFHOFlmeUQxcXIwRkdELTMzUEdnRVlxLWkzNkxiRmpRNnJOM284eXRxdWtRYVJycDdGcXUzelgxY21LbVE0Rm5lbHp5bm85Uk9faGx4aWRjSlhnblRHUU5ZUmRuY2F1bDY5RGJKNS1ZUFI5dXFlY0xDTTQ5UExOXzhEa2JqNnJwLXIxVFJVUHpkQTcxSmpwUTEyVTFaZkxXUnJ5SVZSSmh3UzlORHBicVdv?oc=5",
       "source": "ABC Color",
@@ -89,131 +89,131 @@
       "category": "barrio"
     },
     {
-      "title": "El “cartista” más crítico Nicanor Duarte se reúne con el presidenciable abdista Arnoldo Wiens",
-      "link": "https://www.abc.com.py/politica/2026/10/26/el-cartista-mas-critico-nicanor-duarte-se-reune-con-el-presidenciable-abdista-arnoldo-wiens/",
+      "title": "Gremios y asegurados: “No vamos a descansar” hasta que IPS que retire sus fondos de Ueno",
+      "link": "https://www.abc.com.py/nacionales/2026/10/27/asegurados-no-vamos-a-descansar-hasta-que-ips-que-retire-sus-fondos-de-ueno/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 26 Oct 2026 15:26:59 +0000",
+      "pubDate": "Tue, 27 Oct 2026 14:48:56 +0000",
       "category": "pais"
     },
     {
-      "title": "Mitakuña’i omanó tras escaparse de su casa",
-      "link": "https://www.popular.com.py/2026/10/26/mitakunai-omano-tras-escaparse-de-su-casa/",
+      "title": "Atendieron parto de urgencia en puesto de Alto Vera",
+      "link": "https://www.popular.com.py/2026/10/27/atendieron-parto-de-urgencia-en-puesto-de-alto-vera/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 26 Oct 2026 15:20:44 +0000",
+      "pubDate": "Tue, 27 Oct 2026 14:42:26 +0000",
       "category": "pais"
     },
     {
-      "title": "Hambre Cero: Contraloría auditará a municipios y gobernaciones por deficiencias de infraestructura",
-      "link": "https://www.abc.com.py/politica/2026/10/26/hambre-cero-contraloria-auditara-a-municipios-y-gobernaciones-por-deficiencias-de-infraestructura/",
+      "title": "Ho’a jéyma escurridizo y temible Lechu’i",
+      "link": "https://www.popular.com.py/2026/10/27/hoa-jeyma-escurridizo-y-temible-lechui/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Tue, 27 Oct 2026 14:41:46 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Narco’i Fabián’i sorprendido hupape",
+      "link": "https://www.popular.com.py/2026/10/27/narcoi-fabiani-sorprendido-hupape/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Tue, 27 Oct 2026 14:41:18 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Macateros de vicio vai cayeron presos",
+      "link": "https://www.popular.com.py/2026/10/27/macateros-de-vicio-vai-cayeron-presos/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Tue, 27 Oct 2026 14:40:29 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Grupo comando asaltó una estancia",
+      "link": "https://www.popular.com.py/2026/10/27/grupo-comando-asalto-una-estancia/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Tue, 27 Oct 2026 14:39:54 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Lizarella Valiente considera que Zenaida Delgado debe perder su investidura",
+      "link": "https://www.abc.com.py/politica/2026/10/27/lizarella-valiente-considera-que-zenaida-delgado-debe-perder-su-investidura/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 26 Oct 2026 15:05:02 +0000",
+      "pubDate": "Tue, 27 Oct 2026 14:32:47 +0000",
       "category": "pais"
     },
     {
-      "title": "Miguel Prieto: Recibe desestimación y anuncia contradenuncia ",
-      "link": "https://www.abc.com.py/politica/2026/10/26/miguel-prieto-recibe-desestimacion-y-anuncia-contradenuncia/",
+      "title": "Diputados adelanta sesión de la próxima semana para ir a juramento de intendentes amigos",
+      "link": "https://www.abc.com.py/politica/2026/10/27/diputados-adelanta-sesion-de-la-proxima-semana-para-ir-a-juramento-de-intendentes-amigos/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 26 Oct 2026 15:04:55 +0000",
+      "pubDate": "Tue, 27 Oct 2026 14:31:12 +0000",
       "category": "pais"
     },
     {
-      "title": "(VIDEO) ¡Cuerona influencer sorprendió con el asiento de su auto!",
-      "link": "https://www.popular.com.py/2026/10/26/video-cuerona-influencer-sorprendio-con-el-asiento-de-su-auto/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 26 Oct 2026 15:02:48 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "“No queremos un movimiento con personalismo”, dice Alliana",
-      "link": "https://www.abc.com.py/politica/2026/10/26/no-queremos-un-movimiento-con-personalismo-dice-alliana/",
+      "title": "Retiran tobillera, pero igual dejan preso a multimillonario chino requerido en extradición ",
+      "link": "https://www.abc.com.py/policiales/2026/10/27/retiran-tobillera-pero-igual-dejan-preso-a-multimillonario-chino-requerido-en-extradicion/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 26 Oct 2026 14:57:08 +0000",
+      "pubDate": "Tue, 27 Oct 2026 14:27:41 +0000",
       "category": "pais"
     },
     {
-      "title": "México habilita la carne paraguaya y completa el acceso a Norteamérica",
-      "link": "https://www.abc.com.py/negocios/abc-campo/2026/10/26/mexico-habilita-la-carne-paraguaya-y-completa-el-acceso-a-norteamerica/",
+      "title": "Peleas en colegios y alumnos detenidos: ¿qué pasó en el CNC y qué hará el MEC?",
+      "link": "https://www.abc.com.py/nacionales/2026/10/27/que-paso-en-el-cnc-y-que-hara-el-mec/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 26 Oct 2026 14:49:49 +0000",
+      "pubDate": "Tue, 27 Oct 2026 14:18:36 +0000",
       "category": "pais"
     },
     {
-      "title": "Retienen a niño de 5 años e incautan cuatriciclo en el que recorría Yaguarón",
-      "link": "https://www.abc.com.py/policiales/2026/10/26/retienen-a-nino-de-5-anos-e-incautan-cuatriciclo-en-el-que-recorria-yaguaron/",
+      "title": "Una enardecida hermana de Zenaida denuncia amenazas y se despacha contra Celeste y Lilian",
+      "link": "https://www.abc.com.py/politica/2026/10/27/una-enardecida-hermana-de-zenaida-denuncia-amenazas-y-se-despacha-contra-celeste-y-lilian/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 26 Oct 2026 14:49:25 +0000",
+      "pubDate": "Tue, 27 Oct 2026 14:16:43 +0000",
       "category": "pais"
     },
     {
-      "title": "“Peajes”: Mesa Directiva del Senado impulsa la pérdida de investidura de Zenaida Delgado",
-      "link": "https://www.abc.com.py/politica/2026/10/26/peajes-mesa-directiva-del-senado-impulsa-la-perdida-de-investidura-de-zenaida-delgado/",
+      "title": "¡Sylvester Stallone reconoció que su retoña es una “nepo babie”!",
+      "link": "https://www.popular.com.py/2026/10/27/sylvester-stallone-reconocio-que-su-retona-es-una-nepo-babie/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Tue, 27 Oct 2026 14:05:54 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Con el concierto “El amor es nuestro canto”, la Basílica de Caacupé se llenará de música y emoción",
+      "link": "https://www.abc.com.py/nacionales/2026/10/27/con-el-concierto-el-amor-es-nuestro-canto-la-basilica-de-caacupe-se-llenara-de-musica-y-emocion/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 26 Oct 2026 14:47:36 +0000",
+      "pubDate": "Tue, 27 Oct 2026 14:03:39 +0000",
       "category": "pais"
     },
     {
-      "title": "Pagos de octubre: vea qué grupos cobran en la fecha",
-      "link": "https://www.abc.com.py/economia/2026/10/26/pagos-de-octubre-vea-que-grupos-cobran-en-la-fecha/",
+      "title": "“Si me dan la razón, ya no pueden retroceder el tiempo”: Corte cajonea inconstitucionalidad de Kronawetter  ",
+      "link": "https://www.abc.com.py/nacionales/2026/10/27/si-me-dan-la-razon-ya-no-pueden-retroceder-el-tiempo-corte-cajonea-inconstitucionalidad-de-kronawetter/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Mon, 26 Oct 2026 14:46:31 +0000",
+      "pubDate": "Tue, 27 Oct 2026 14:02:01 +0000",
       "category": "pais"
     },
     {
-      "title": "Pelotero ohovajoka a su técnico porque no le puso de titular",
-      "link": "https://www.popular.com.py/2026/10/26/pelotero-ohovajoka-a-su-tecnico-porque-no-le-puso-de-titular/",
+      "title": "(VIDEO) ¡El retoño de famosa cocinera se volvió viral por ser el mini fan de BTS!",
+      "link": "https://www.popular.com.py/2026/10/27/video-el-retono-de-famosa-cocinera-se-volvio-viral-por-ser-el-mini-fan-de-bts/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 26 Oct 2026 14:24:43 +0000",
+      "pubDate": "Tue, 27 Oct 2026 13:01:33 +0000",
       "category": "pais"
     },
     {
-      "title": "Refuerzan seguridad en cementerios ante Halloween y otras festividades",
-      "link": "https://www.popular.com.py/2026/10/26/refuerzan-seguridad-en-cementerios-ante-halloween-y-otras-festividades/",
+      "title": "¡Ho’a dire y jefe de Seguridad de Emboscada por fuga!",
+      "link": "https://www.popular.com.py/2026/10/27/hoa-dire-y-jefe-de-seguridad-de-emboscada-por-fuga/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 26 Oct 2026 14:19:30 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Mita’i de 5 años “detenido” por manejar un cuasi",
-      "link": "https://www.popular.com.py/2026/10/26/mitai-de-5-anos-detenido-por-manejar-un-cuasi/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 26 Oct 2026 14:18:48 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "¡Ñandereja la voz de Bugs Bunny y el Pato Lucas!",
-      "link": "https://www.popular.com.py/2026/10/26/nandereja-la-voz-de-bugs-bunny-y-el-pato-lucas/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 26 Oct 2026 14:05:55 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Refuerzan seguridad para prevenir jejopy a bancos y financieras",
-      "link": "https://www.popular.com.py/2026/10/26/refuerzan-seguridad-para-prevenir-jejopy-a-bancos-y-financieras/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 26 Oct 2026 14:03:12 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Senado ojerureta investigación sobre “peaje”",
-      "link": "https://www.popular.com.py/2026/10/26/senado-ojerureta-investigacion-sobre-peaje/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Mon, 26 Oct 2026 13:45:08 +0000",
+      "pubDate": "Tue, 27 Oct 2026 12:15:34 +0000",
       "category": "pais"
     },
     {

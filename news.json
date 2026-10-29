@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:33:48.086Z",
+  "generatedAt": "2026-10-29T15:41:30.707Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -17,6 +17,14 @@
       "category": "barrio"
     },
     {
+      "title": "Diputados frenan por ahora proyecto con “tufo a fato” que daría a intendentes el manejo de tierras públicas",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZWtUSl9XNjJVNV91OF9tSE5keXJ5TEVRNERJa3F4ekZaRGZnU2pGMlcxRFJtc2t6anJRT2dqVk9fdEpZOUQ1T1lwYm93RUk5SEpEa05TR2t3RFcwbC1oSmVDaFJoNlc0cUREQmtmRFlvZzJYSUotRzFOb2RZT2NPcVIweDlaY2d2VVFaMVZLMk5KbWxQS29ONXJKMm5iSWdFcGJpYlhhSXRHbUswOWpCeVpiMzhzTm9PaDhvSlIyV01jaHpjT0s5MFVtNm1KaHlLSzE3WEwxRUZ1NVl1YjRvQ0cxTHc1LU9sWUlGSktPcU4ya1FXa24w?oc=5",
+      "source": "www.abc.com.py",
+      "sourceDomain": null,
+      "pubDate": "Wed, 28 Oct 2026 15:41:00 GMT",
+      "category": "barrio"
+    },
+    {
       "title": "Nanawa: Hallan camioneta similar a usada en crimen de Eusebio Ayala",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2JZbnU0a1dUbGstRmJsM1JHUlQ3cUFPY1lXbEExakJkVnozSTlNSUJ1bmw2U3p4WEgxU2k4OTU0LTJqNGpsVDR2eG1zTlVIMmpiLUw3M000bzYwNFZ4ekVVZ0JESlJ5bGxJV2hsVEZHUk5ELUNyWFhtUV9Yc1pwNTRic0xVTUF3QnpYRWZOcndLNk1mTHJwZVljb1VrSkRQN2l5RzVBNllSMWgxd0E?oc=5",
       "source": "NPY",
@@ -30,14 +38,6 @@
       "source": "Más Encarnación",
       "sourceDomain": null,
       "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "Feudo de Bachi: A las puertas de las elecciones, apuran manejo político en Nueva Asunción y Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY3pHWXZYRzFHRjhmeWh1MlhkTUdBRTFTcGN4WHdicS1JTV9vSldyaFhTY25PUHBCSXBlanJVdTNWOGVPMERzMVZQS3FPM1hlYlRtYnFhTmtJU1NJRFZjUDV3UEVtOWp5Z1NkVHFVeUwwUVJ0TWRXRURobGNXckloaGhueGdCeFhuUlV4UHVScmdaaDRjLTV3Z0F0aHhQRG15XzZDOGY1T3ZJWlRyODRzV052ZVZQV1NqUnVzU2ozLXBBMC1Mb0drWnU2UXFuZTdJdTJ1ZldBaw?oc=5",
-      "source": "ABC Color",
-      "sourceDomain": null,
-      "pubDate": "Sat, 05 Sep 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -65,6 +65,14 @@
       "category": "barrio"
     },
     {
+      "title": "Feudo de Bachi: A las puertas de las elecciones, apuran manejo político en Nueva Asunción y Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY3pHWXZYRzFHRjhmeWh1MlhkTUdBRTFTcGN4WHdicS1JTV9vSldyaFhTY25PUHBCSXBlanJVdTNWOGVPMERzMVZQS3FPM1hlYlRtYnFhTmtJU1NJRFZjUDV3UEVtOWp5Z1NkVHFVeUwwUVJ0TWRXRURobGNXckloaGhueGdCeFhuUlV4UHVScmdaaDRjLTV3Z0F0aHhQRG15XzZDOGY1T3ZJWlRyODRzV052ZVZQV1NqUnVzU2ozLXBBMC1Mb0drWnU2UXFuZTdJdTJ1ZldBaw?oc=5",
+      "source": "ABC Color",
+      "sourceDomain": null,
+      "pubDate": "Sat, 05 Sep 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
       "title": "Proyecto de ley busca potenciar desarrollo territorial en municipios de Presidente Hayes y Central",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fR0htTVN6SzFKdVh0bThCMlRvTEZ3bV9peVk4XzdTOF9xcjBTR2hBMU8tUWwyUG1RazdBSnBONnZyYVNHM3AwMnR6bmlVSjVjSXFxVTZqNkE3RTg?oc=5",
       "source": "Cámara de Diputados",
@@ -81,131 +89,131 @@
       "category": "barrio"
     },
     {
-      "title": "¿IPS retirará sus fondos de Ueno? La respuesta al pedido de gremios y asegurados",
-      "link": "https://www.abc.com.py/economia/2026/10/28/ips-retirara-sus-fondos-de-ueno-la-respuesta-al-pedido-de-gremios-y-asegurados/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 28 Oct 2026 15:19:16 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Nakayama insta a funcionarios públicos a denunciar el “peaje salarial” y ofrece asistencia política y legal",
-      "link": "https://www.abc.com.py/politica/2026/10/28/nakayama-insta-a-funcionarios-publicos-a-denunciar-el-peaje-salarial-y-ofrece-asistencia-politica-y-legal/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 28 Oct 2026 15:10:52 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Media sanción para crear registro nacional para camioneros",
-      "link": "https://www.abc.com.py/politica/2026/10/28/media-sancion-para-crear-registro-nacional-para-camioneros/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 28 Oct 2026 14:57:07 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Narcotráfico: descartan pedido de revisión de condena a Cristian Turrini",
-      "link": "https://www.abc.com.py/nacionales/2026/10/28/narcotrafico-descartan-pedido-de-revision-de-condena-a-cristian-turrini/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 28 Oct 2026 14:56:58 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "¡Cháke con el robo masivo de cuentas de WhatsApp!",
-      "link": "https://www.popular.com.py/2026/10/28/chake-con-el-robo-masivo-de-cuentas-de-whatsapp/",
+      "title": "Desmantelan una boca de fumo que funcionaba a metros de una escuela",
+      "link": "https://www.popular.com.py/2026/10/29/desmantelan-una-boca-de-fumo-que-funcionaba-a-metros-de-una-escuela/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 28 Oct 2026 14:55:35 +0000",
+      "pubDate": "Thu, 29 Oct 2026 15:36:43 +0000",
       "category": "pais"
     },
     {
-      "title": "Buscan a full al exjefe de inteligencia penitenciario, tras allanar su casa",
-      "link": "https://www.popular.com.py/2026/10/28/buscan-a-full-al-exjefe-de-inteligencia-penitenciario-tras-allanar-su-casa/",
+      "title": "Alumno ligó un balazo iñakâitépe durante “safari” de colegio cheto de Asunción",
+      "link": "https://www.popular.com.py/2026/10/29/alumno-ligo-un-balazo-inakaitepe-durante-safari-de-colegio-cheto-de-asuncion/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 28 Oct 2026 14:54:03 +0000",
+      "pubDate": "Thu, 29 Oct 2026 15:36:11 +0000",
       "category": "pais"
     },
     {
-      "title": "¡Onda el viejo oeste! Capturan al pistolero",
-      "link": "https://www.popular.com.py/2026/10/28/onda-el-viejo-oeste-capturan-al-pistolero/",
+      "title": "Detenida por abuso sexual en niños",
+      "link": "https://www.popular.com.py/2026/10/29/detenida-por-abuso-sexual-en-ninos/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 28 Oct 2026 14:53:12 +0000",
+      "pubDate": "Thu, 29 Oct 2026 15:34:07 +0000",
       "category": "pais"
     },
     {
-      "title": "Hacía pedidos truchos para asaltar a delivery",
-      "link": "https://www.popular.com.py/2026/10/28/hacia-pedidos-truchos-para-asaltar-a-delivery/",
+      "title": "Buscan a full a una yiyita que desaparació de la nada",
+      "link": "https://www.popular.com.py/2026/10/29/buscan-a-full-a-una-yiyita-que-desaparacio-de-la-nada/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 28 Oct 2026 14:52:34 +0000",
+      "pubDate": "Thu, 29 Oct 2026 15:33:24 +0000",
       "category": "pais"
     },
     {
-      "title": "Operativo “Betroka”: Ho’a miembro prófugo de la organización narco",
-      "link": "https://www.popular.com.py/2026/10/28/operativo-betroka-hoa-miembro-profugo-de-la-organizacion-narco/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 28 Oct 2026 14:51:06 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Yolanda Paredes advierte que el caso Delgado podría destapar más irregularidades ",
-      "link": "https://www.abc.com.py/politica/2026/10/28/yolanda-paredes-advierte-que-el-caso-delgado-podria-destapar-mas-irregularidades/",
+      "title": "ANR: Fuerza Republicana inscribe movimiento y mantiene a Hugo Velázquez como líder ",
+      "link": "https://www.abc.com.py/politica/2026/10/29/anr-fuerza-republicana-inscribe-movimiento-y-mantiene-a-hugo-velazquez-como-lider/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 28 Oct 2026 14:50:01 +0000",
+      "pubDate": "Thu, 29 Oct 2026 15:29:43 +0000",
       "category": "pais"
     },
     {
-      "title": "Elecciones de abogados para el CM: Corte rechaza unificar mesas electorales en Asunción y Central",
-      "link": "https://www.abc.com.py/nacionales/2026/10/28/elecciones-de-abogados-para-el-cm-corte-rechaza-unificar-mesas-electorales-en-asuncion-y-central/",
+      "title": "Vapor Cué: buscan rescatar y poner en valor su riqueza histórica",
+      "link": "https://www.abc.com.py/espectaculos/cultura/2026/10/29/vapor-cue-buscan-rescatar-y-poner-en-valor-su-riqueza-historica/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 28 Oct 2026 14:42:19 +0000",
+      "pubDate": "Thu, 29 Oct 2026 15:24:29 +0000",
       "category": "pais"
     },
     {
-      "title": "Contrato civil entre personas del mismo sexo: qué plantea el diputado Jatar Fernández",
-      "link": "https://www.abc.com.py/politica/2026/10/28/contrato-civil-entre-personas-del-mismo-sexo-que-plantea-el-diputado-jatar-fernandez/",
+      "title": "Hackean cuenta de atención ciudadana de la Municipalidad de Asunción",
+      "link": "https://www.abc.com.py/nacionales/2026/10/29/hackean-cuenta-de-atencion-ciudadana-de-la-municipalidad-de-asuncion/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 28 Oct 2026 14:37:11 +0000",
+      "pubDate": "Thu, 29 Oct 2026 15:20:47 +0000",
       "category": "pais"
     },
     {
-      "title": "Bioquímicos de Alto Paraná marchan por la ruta PY07 en Ciudad del Este",
-      "link": "https://www.abc.com.py/este/2026/10/28/bioquimicos-de-alto-parana-marchan-por-la-ruta-py07-en-ciudad-del-este/",
+      "title": "Médicos y enfermeras del IPS protestan ante el MEF exigiendo equiparación salarial",
+      "link": "https://www.abc.com.py/nacionales/2026/10/29/medicos-y-enfermeras-del-ips-protestan-ante-el-mef-exigiendo-equiparacion-salarial/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 28 Oct 2026 14:37:03 +0000",
+      "pubDate": "Thu, 29 Oct 2026 15:18:01 +0000",
       "category": "pais"
     },
     {
-      "title": "Senadora he’i que tirará la toalla tras escándalo",
-      "link": "https://www.popular.com.py/2026/10/28/senadora-hei-que-tirara-la-toalla-tras-escandalo/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 28 Oct 2026 13:10:36 +0000",
+      "title": "El nivel río Paraguay está bajando en la bahía de Asunción",
+      "link": "https://www.abc.com.py/clima/2026/10/29/el-nivel-rio-paraguay-esta-bajando-en-la-bahia-de-asuncion/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Thu, 29 Oct 2026 15:12:05 +0000",
       "category": "pais"
     },
     {
-      "title": "¡Yiyi valé salvó su moto de dos bandidos!",
-      "link": "https://www.popular.com.py/2026/10/28/yiyi-vale-salvo-su-moto-de-dos-bandidos/",
+      "title": "(VIDEO) ¡Asados, tortillas y panchos ya apostaron los famosos por el clásico!",
+      "link": "https://www.popular.com.py/2026/10/29/video-asados-tortillas-y-panchos-ya-apostaron-los-famosos-por-el-clasico/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 28 Oct 2026 13:09:47 +0000",
+      "pubDate": "Thu, 29 Oct 2026 15:01:46 +0000",
       "category": "pais"
     },
     {
-      "title": "Tragedia jo’a: Volvía de ñembo’e por su papá ha omano tapére ",
-      "link": "https://www.popular.com.py/2026/10/28/tragedia-joa-vivia-de-nemboe-por-su-papa-ha-omano-tapere/",
+      "title": "Video: navieros se manifiestan en reclamo de una mejora en la jubilación",
+      "link": "https://www.abc.com.py/nacionales/2026/10/29/video-navieros-se-manifiestan-en-reclamo-de-una-mejora-en-la-jubilacion/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Thu, 29 Oct 2026 14:38:47 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Cuestionan falta de garantías para el funcionamiento del albergue para mujeres",
+      "link": "https://www.abc.com.py/este/2026/10/29/cuestionan-falta-de-garantias-para-el-funcionamiento-del-albergue-para-mujeres/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Thu, 29 Oct 2026 14:37:52 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Detergente de oro: queda firme condena del exdirector financiero de Nenecho",
+      "link": "https://www.abc.com.py/nacionales/2026/10/29/detergente-de-oro-queda-firme-condena-de-exdirector-financiero-de-nenecho/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Thu, 29 Oct 2026 14:25:25 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "¡Estrenarán documental sobre cocinadas en el Miss Universo!",
+      "link": "https://www.popular.com.py/2026/10/29/estrenaran-documental-sobre-cocinadas-en-el-miss-universo/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 28 Oct 2026 13:08:31 +0000",
+      "pubDate": "Thu, 29 Oct 2026 14:06:32 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "¡Tyler Navarro se convierte en el primer luchador paraguayo en competir en Costa Rica!",
+      "link": "https://www.popular.com.py/2026/10/29/tyler-navarro-se-convierte-en-el-primer-luchador-paraguayo-en-competir-en-costa-rica/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Thu, 29 Oct 2026 13:54:53 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "¡”Chaqueñito” he’i que ya no está interesado en política y quiere ser farandulero!",
+      "link": "https://www.popular.com.py/2026/10/29/chaquenito-hei-que-ya-no-esta-interesado-en-politica-y-quiere-ser-farandulero/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Thu, 29 Oct 2026 13:06:35 +0000",
       "category": "pais"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T16:24:46.060Z",
+  "generatedAt": "2026-11-07T15:15:27.325Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -22,6 +22,14 @@
       "source": "Más Encarnación",
       "sourceDomain": null,
       "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Concejales declaran persona non grata a intendente de Nanawa tras denuncias de corrupción",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGtFdlpmSlBuem5FNV9iSlR2aFRmVm1WQS0zRkxyRWRlWnhVUklYZUNfT204YWx3VHEteExEQlVQTERUcFZ3N2dKa1k0bEpWb2xnWEg1VjlMak9pcDZrVTloVzFvcTd1OENKTGxXSlVxVl8zQjh4OXhxc19EcTNMRHc0dEZ2cktWUWctS3RsUEhkTWVKYjZyNkswV28xOEx0MEtDR2t2SVFzZlFUY0dheWloNm4wdWPSAcQBQVVfeXFMT2ZrTENBeEZYdDFKUGIzZlNHQy00VlNDWjV5YnRWSHlJWGg0LV9BMkhMbDU0RnRoZm5UZWJIc1NISkg0aEVnQ0hGWjA4b01sZlJWd1dsMVdicXYtd3BtSVlEQ0V2ZUVRN2xyWlpLXzNDYTQzSlU4dVNtYnlBTmNSSXhRZkVlcDJ0a1VwN1JYejhBcmg4c2E0RkdtVGhfVm9pNng3ZG4zY3R2c0YxdEF6U19DNmxIdlY3cVRoRjAtRkRkOFZvZQ?oc=5",
+      "source": "Última Hora",
+      "sourceDomain": null,
+      "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -73,139 +81,131 @@
       "category": "barrio"
     },
     {
-      "title": "Fiscalía imputó a los presuntos asesinos de una joven argentina en Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGNRcC1jWHZZQmFHOFlmeUQxcXIwRkdELTMzUEdnRVlxLWkzNkxiRmpRNnJOM284eXRxdWtRYVJycDdGcXUzelgxY21LbVE0Rm5lbHp5bm85Uk9faGx4aWRjSlhnblRHUU5ZUmRuY2F1bDY5RGJKNS1ZUFI5dXFlY0xDTTQ5UExOXzhEa2JqNnJwLXIxVFJVUHpkQTcxSmpwUTEyVTFaZkxXUnJ5SVZSSmh3UzlORHBicVdv?oc=5",
-      "source": "ABC Color",
-      "sourceDomain": null,
-      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
-      "title": "¡Famosos, periodistas e influencer van por la estatuilla de los Premios Paraná!",
-      "link": "https://www.popular.com.py/2026/11/06/famosos-periodistas-e-influencer-van-por-la-estatuilla-de-los-premios-parana/",
+      "title": "¡El pelotero Blas Riveros le dejó un mensaje chulinísima a su doña por su cumple!",
+      "link": "https://www.popular.com.py/2026/11/07/el-pelotero-blas-riveros-le-dejo-un-mensaje-chulinisima-a-su-dona-por-su-cumple/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 06 Nov 2026 16:21:37 +0000",
+      "pubDate": "Sat, 07 Nov 2026 15:03:45 +0000",
       "category": "pais"
     },
     {
-      "title": "(VIDEO) ¡”Pipino” Cuevas ya tiene su “dúo definitivo” en competencia de canto de ashá!",
-      "link": "https://www.popular.com.py/2026/11/06/video-pipino-cuevas-ya-tiene-su-duo-definitivo-en-competencia-de-canto-de-asha/",
+      "title": "Ueno Bank: productores y exportadores reclaman instituciones fuertes y certeza para el sector",
+      "link": "https://www.abc.com.py/economia/2026/11/07/ueno-bank-productores-y-exportadores-reclaman-instituciones-fuertes-y-certeza-para-el-sector/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Sat, 07 Nov 2026 15:03:16 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Video: Santiago Peña ya se encuentra en la Fiscalía para prestar declaración indagatoria",
+      "link": "https://www.abc.com.py/policiales/2026/11/07/video-santiago-pena-ya-se-encuentra-en-la-fiscalia-para-prestar-declaracion-indagatoria/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Sat, 07 Nov 2026 14:56:50 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Matan a balazos a un exconvicto en el predio de una olería abandonada de Guarambaré",
+      "link": "https://www.abc.com.py/policiales/2026/11/07/matan-a-balazos-a-un-exconvicto-en-el-predio-de-una-oleria-abandonada-de-guarambare/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Sat, 07 Nov 2026 14:43:55 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Río Paraguay: el nivel sigue bajando y llega a los 2,33 metros en Asunción",
+      "link": "https://www.abc.com.py/clima/2026/11/07/rio-paraguay-el-nivel-sigue-bajando-y-llega-a-los-233-metros-en-asuncion/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Sat, 07 Nov 2026 14:40:27 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Que Alliana y su equipo no se candidaten y trabajen por el país, urge Rocío Vallejo",
+      "link": "https://www.abc.com.py/politica/2026/11/07/que-alliana-y-su-equipo-no-se-candidaten-y-trabajen-por-el-pais-urge-rocio-vallejo/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Sat, 07 Nov 2026 14:39:36 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "(VIDEO) ¡Cantante ligó un telefonazo por su cara en pleno concierto!",
+      "link": "https://www.popular.com.py/2026/11/07/video-cantante-ligo-un-telefonazo-por-su-cara-en-pleno-concierto/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 06 Nov 2026 16:03:35 +0000",
+      "pubDate": "Sat, 07 Nov 2026 14:00:53 +0000",
       "category": "pais"
     },
     {
-      "title": "Senado determina que Peña no se presentó para ejercer defensa, con sus abogados “en camino”",
-      "link": "https://www.abc.com.py/politica/2026/11/06/senado-determina-que-pena-no-se-presento-para-ejercer-defensa-con-sus-abogado-en-camino/",
+      "title": "A más del 50% de los clientes de Ueno ya se le acreditó el anticipo, según BCP",
+      "link": "https://www.abc.com.py/economia/2026/11/07/cerca-del-50-de-los-ahorristas-ya-cobraron-sus-ahorros-segun-bcp/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Fri, 06 Nov 2026 16:01:27 +0000",
+      "pubDate": "Sat, 07 Nov 2026 13:57:52 +0000",
       "category": "pais"
     },
     {
-      "title": "Crisis bancaria ya golpea los bolsillo: ¡Ventas caen hasta el 70%!",
-      "link": "https://www.popular.com.py/2026/11/06/crisis-bancaria-ya-golpea-los-bolsillo-ventas-caen-hasta-el-70/",
+      "title": "Dos municipios de San Pedro siguen sin elegir presidentes de sus Juntas Municipales por falta de acuerdo",
+      "link": "https://www.abc.com.py/politica/2026/11/07/dos-municipios-de-san-pedro-siguen-sin-elegir-presidentes-de-sus-juntas-municipales-por-falta-de-acuerdo/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Sat, 07 Nov 2026 13:54:29 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "¿Qué pasará con los contratos del Estado con empresas del Grupo Vázquez? Esto explica la DNCP, tras caída de Ueno",
+      "link": "https://www.abc.com.py/economia/2026/11/07/contratos-del-estado-con-empresas-del-grupo-vazquez-podrian-ser-rescindidos-tras-la-caida-de-ueno-bank/",
+      "source": "abc.com.py",
+      "sourceDomain": "abc.com.py",
+      "pubDate": "Sat, 07 Nov 2026 13:42:19 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "¡La exmodelo Graciela Núñez ya tiene libertad ambulatoria!",
+      "link": "https://www.popular.com.py/2026/11/07/la-exmodelo-graciela-nunez-ya-tiene-libertad-ambulatoria/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 06 Nov 2026 15:56:49 +0000",
+      "pubDate": "Sat, 07 Nov 2026 13:06:44 +0000",
       "category": "pais"
     },
     {
-      "title": "MDP asistirá gratuitamente a trabajadores afectados por la crisis laboral y bancaria",
-      "link": "https://www.abc.com.py/nacionales/2026/11/06/mdp-asistira-gratuitamente-a-trabajadores-afectados-por-la-crisis-laboral-y-bancaria/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Fri, 06 Nov 2026 15:56:23 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "“Bachi” Núñez habla de voto “unánime” por la condena de Santiago Peña",
-      "link": "https://www.abc.com.py/politica/2026/11/06/bachi-nunez-habla-de-voto-unanime-por-la-condena-de-santiago-pena/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Fri, 06 Nov 2026 15:55:16 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Santiago Peña no irá al Congreso: sus abogados lo representarán en el juicio político",
-      "link": "https://www.abc.com.py/politica/2026/11/06/santiago-pena-no-ira-al-congreso-sus-abogados-lo-representaran-en-el-juicio-politico/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Fri, 06 Nov 2026 15:54:49 +0000",
-      "category": "pais"
-    },
-    {
-      "title": " Fiscalía destapó la bóveda del Grupo Vázquez en caso Ueno",
-      "link": "https://www.popular.com.py/2026/11/06/fiscalia-destapo-la-boveda-del-grupo-vazquez-en-caso-ueno/",
+      "title": "¡Larissa Riquelme se pasa llorando y sin poder dormir luego de la crisis bancaria!",
+      "link": "https://www.popular.com.py/2026/11/07/larissa-riquelme-se-pasa-llorando-y-sin-poder-dormir-luego-de-la-crisis-bancaria/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 06 Nov 2026 15:53:51 +0000",
+      "pubDate": "Sat, 07 Nov 2026 12:03:28 +0000",
       "category": "pais"
     },
     {
-      "title": "¿Quienes son los abogados defensores de Santiago Peña",
-      "link": "https://www.abc.com.py/politica/2026/11/06/quienes-son-los-abogados-defensores-de-santiago-pena/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Fri, 06 Nov 2026 15:49:39 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Agentes fiscales  cayeron sorpresivamente al BCP",
-      "link": "https://www.popular.com.py/2026/11/06/agentes-fiscales-cayeron-sorpresivamente-al-bcp/",
+      "title": "(VIDEO) ¡Mirá lo que repartieron Rosy Alderete y Laurys Dyva a los manifestantes!",
+      "link": "https://www.popular.com.py/2026/11/07/video-mira-lo-que-repartieron-rosy-alderete-y-laurys-dyva-a-los-manifestantes/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 06 Nov 2026 15:41:17 +0000",
+      "pubDate": "Sat, 07 Nov 2026 11:06:52 +0000",
       "category": "pais"
     },
     {
-      "title": "Productores de tomate de Caaguazú venden al costo y temen trabajar a pérdida",
-      "link": "https://www.abc.com.py/economia/2026/11/06/productores-de-tomate-de-caaguazu-venden-al-costo-y-temen-trabajar-a-perdida/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Fri, 06 Nov 2026 15:39:14 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Caso Ueno: causa fiscal contra Santiago Peña es por lesión de confianza ",
-      "link": "https://www.abc.com.py/nacionales/2026/11/06/caso-ueno-causa-fiscal-contra-santiago-pena-es-por-lesion-de-confianza/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Fri, 06 Nov 2026 15:37:33 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "¡Santi no armó su propio poder y Cartes le bajó el pulgar!",
-      "link": "https://www.popular.com.py/2026/11/06/santi-no-armo-su-propio-poder-y-cartes-le-bajo-el-pulgar/",
+      "title": "Cocinera e influencer recordó a la ex Primera Dama como una “soberbia”",
+      "link": "https://www.popular.com.py/2026/11/07/cocinera-e-influencer-recordo-a-la-ex-primera-dama-como-una-soberbia/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 06 Nov 2026 15:35:30 +0000",
+      "pubDate": "Sat, 07 Nov 2026 10:39:05 +0000",
       "category": "pais"
     },
     {
-      "title": "Ybycuí: exigen abrir vehículo retenido por supuesta sustracción de documentos municipales",
-      "link": "https://www.abc.com.py/politica/2026/11/06/ybycui-exigen-abrir-vehiculo-retenido-por-supuesta-sustraccion-de-documentos-municipales/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Fri, 06 Nov 2026 15:27:16 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "¡Cartes pateó el tablero y Peña quedó sin soldados!",
-      "link": "https://www.popular.com.py/2026/11/06/cartes-pateo-el-tablero-y-pena-quedo-sin-soldados/",
+      "title": "¡El concierto de “Airbag” tendrá hoy su lado solidario!",
+      "link": "https://www.popular.com.py/2026/11/07/el-concierto-de-airbag-tendra-hoy-su-lado-solidario/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 06 Nov 2026 15:22:27 +0000",
+      "pubDate": "Sat, 07 Nov 2026 10:03:34 +0000",
       "category": "pais"
     },
     {
-      "title": "Yankilandia ya ojapoma pronunciamiento por crisis oikóva",
-      "link": "https://www.popular.com.py/2026/11/06/yankilandia-ya-ojapoma-pronunciamiento-por-crisis-oikova/",
+      "title": "El mundo habla de Paraguay por cómo actuó democráticamente ante un lío que involucró al presi",
+      "link": "https://www.popular.com.py/2026/11/06/el-mundo-admira-a-paraguay-por-como-resolvio-democraticamente-un-lio-que-involucro-al-presi/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 06 Nov 2026 15:09:35 +0000",
+      "pubDate": "Sat, 07 Nov 2026 02:10:37 +0000",
       "category": "pais"
     },
     {

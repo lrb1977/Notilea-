@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:24:00.104Z",
+  "generatedAt": "2026-11-15T15:56:46.970Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -30,6 +30,14 @@
       "source": "NPY",
       "sourceDomain": null,
       "pubDate": "Fri, 02 Oct 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Concejales declaran persona non grata a intendente de Nanawa tras denuncias de corrupción",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGtFdlpmSlBuem5FNV9iSlR2aFRmVm1WQS0zRkxyRWRlWnhVUklYZUNfT204YWx3VHEteExEQlVQTERUcFZ3N2dKa1k0bEpWb2xnWEg1VjlMak9pcDZrVTloVzFvcTd1OENKTGxXSlVxVl8zQjh4OXhxc19EcTNMRHc0dEZ2cktWUWctS3RsUEhkTWVKYjZyNkswV28xOEx0MEtDR2t2SVFzZlFUY0dheWloNm4wdWPSAcQBQVVfeXFMT2ZrTENBeEZYdDFKUGIzZlNHQy00VlNDWjV5YnRWSHlJWGg0LV9BMkhMbDU0RnRoZm5UZWJIc1NISkg0aEVnQ0hGWjA4b01sZlJWd1dsMVdicXYtd3BtSVlEQ0V2ZUVRN2xyWlpLXzNDYTQzSlU4dVNtYnlBTmNSSXhRZkVlcDJ0a1VwN1JYejhBcmg4c2E0RkdtVGhfVm9pNng3ZG4zY3R2c0YxdEF6U19DNmxIdlY3cVRoRjAtRkRkOFZvZQ?oc=5",
+      "source": "Última Hora",
+      "sourceDomain": null,
+      "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -65,14 +73,6 @@
       "category": "barrio"
     },
     {
-      "title": "Pronóstico meteorológico de Nanawa, Presidente Hayes, Paraguay",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83bTZYQXZpb0NxbUx5ZVd4eXJBSDU1bWtUVndGTm1YblY0VmJwRjQxVFJMVmxJUEszVHQ0VHRURWJWYnhXWmtiTkZ2U2FhaFFQd1k5bXpEZU13ZTZJbzFPTTBVeEhHZ3lzOUxyRHh2S2N0bFBGLVZCcWxFVnRSUQ?oc=5",
-      "source": "MSN",
-      "sourceDomain": null,
-      "pubDate": "Thu, 05 Mar 2026 01:06:33 GMT",
-      "category": "barrio"
-    },
-    {
       "title": "Senado rechaza veto de Peña y se ratifica en expropiación de un inmueble para la Essap en Nanawa",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdzAyTEwtZE92bEFadnN6NVdxblFTRmxEX2FFRnEwb1NRMVJvQ29lV2I5V2hLQkw1bTFFd0VjTGMtMXhtNk5FUUNXZWVpY0RyX2pxVnl2eUFwcVlJTDBuRHVvb1pJeTcyekFiZE00aEdVQW50RXFPaXhlTlhvR3RkTTJnQzdPblZ2YXVCNVVobmR5Tmp1Y3p6UldPdEtLMUgwd2RzOHpPUnNtT0hJaHJxSkZfLUFNb3ItWTFwM0xVWERkdGppcW1mWmdPNDlldWx6Zm5PSGhHUQ?oc=5",
       "source": "ABC Color",
@@ -81,131 +81,131 @@
       "category": "barrio"
     },
     {
-      "title": "¿Qué pasó con los semáforos de Asunción? Un corte de energía los dejó fuera de servicio  ",
-      "link": "https://www.abc.com.py/nacionales/2026/11/14/que-paso-con-los-semaforos-de-asuncion-un-corte-de-energia-los-dejo-fuera-de-servicio/",
+      "title": "Obispo cuestiona a la Fiscalía General por no actuar a tiempo en el caso de Ueno Bank",
+      "link": "https://www.abc.com.py/politica/2026/11/15/obispo-cuestiona-a-la-fiscalia-general-por-no-actuar-a-tiempo-en-el-caso-de-ueno-bank/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 14 Nov 2026 15:02:01 +0000",
+      "pubDate": "Sun, 15 Nov 2026 15:39:41 +0000",
       "category": "pais"
     },
     {
-      "title": "Alliana tiene la tarea de hacer bien las cosas para reivindicar a la ANR, dice Eduardo González",
-      "link": "https://www.abc.com.py/politica/2026/11/14/alliana-tiene-la-tarea-de-hacer-bien-las-cosas-para-reivindicar-a-la-anr-dice-eduardo-gonzalez/",
+      "title": "Lotería mortal en el IPS: ocho meses sin fármacos para trasplantados",
+      "link": "https://www.abc.com.py/nacionales/2026/11/15/loteria-mortal-en-el-ips-ocho-meses-sin-farmacos-para-trasplantados/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 14 Nov 2026 14:57:23 +0000",
+      "pubDate": "Sun, 15 Nov 2026 15:24:30 +0000",
       "category": "pais"
     },
     {
-      "title": "Presencia guaraní en final única de la Sudamericana",
-      "link": "https://www.popular.com.py/2026/11/14/presencia-guarani-en-final-unica-de-la-sudamericana/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 14 Nov 2026 14:46:01 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "San Lorenzo: detienen a tres hermanos en una operación contra el microtráfico ",
-      "link": "https://www.abc.com.py/policiales/2026/11/14/san-lorenzo-detienen-a-tres-hermanos-en-una-operacion-contra-el-microtrafico/",
+      "title": "Precaria balsa fue arrastrada por el río Monday tras soltarse el cabo ",
+      "link": "https://www.abc.com.py/este/2026/11/15/precaria-balsa-fue-arrastrada-por-el-rio-monday-tras-soltarse-el-cabo/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 14 Nov 2026 14:26:27 +0000",
+      "pubDate": "Sun, 15 Nov 2026 15:14:25 +0000",
       "category": "pais"
     },
     {
-      "title": "Alliana afirma que “Paraguay está de pie y superó la crisis”",
-      "link": "https://www.abc.com.py/politica/2026/11/14/alliana-afirma-que-paraguay-esta-de-pie-y-supero-la-crisis/",
+      "title": "Detienen a hombre investigado por presunto abuso sexual de una niña de 13 años",
+      "link": "https://www.abc.com.py/policiales/2026/11/15/detienen-a-hombre-investigado-por-presunto-abuso-sexual-de-una-nina-de-13-anos/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 14 Nov 2026 14:25:32 +0000",
+      "pubDate": "Sun, 15 Nov 2026 15:04:27 +0000",
       "category": "pais"
     },
     {
-      "title": "Nenecho muestra mensajes a Peña donde advierte de efectos de la “borrachera”, la “resaca” y la “traición”",
-      "link": "https://www.abc.com.py/politica/2026/11/14/nenecho-muestra-mensajes-a-pena-donde-advierte-de-efectos-de-la-borrachera-la-resaca-y-la-traicion/",
+      "title": "Santiago Peña recibirá su cumpleaños número 48 preso por caso Ueno Bank",
+      "link": "https://www.abc.com.py/politica/2026/11/15/santiago-pena-recibira-su-cumpleanos-numero-48-preso-por-caso-ueno-bank/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 14 Nov 2026 14:25:30 +0000",
+      "pubDate": "Sun, 15 Nov 2026 14:52:27 +0000",
       "category": "pais"
     },
     {
-      "title": "Soledad Núñez anuncia diagnóstico técnico con la Fiuna para reflotar la Planta Asfáltica",
-      "link": "https://www.abc.com.py/nacionales/2026/11/14/soledad-nunez-anuncia-diagnostico-tecnico-con-la-fiuna-para-reflotar-la-planta-asfaltica/",
+      "title": "Caso Ueno Bank: Ricardo Estigarribia pide detención de Fernández Valdovinos e investigación a Lea Giménez ",
+      "link": "https://www.abc.com.py/politica/2026/11/15/caso-ueno-bank-ricardo-estigarribia-pide-detencion-de-fernandez-valdovinos-e-investigacion-a-lea-gimenez/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 14 Nov 2026 14:19:25 +0000",
+      "pubDate": "Sun, 15 Nov 2026 14:51:55 +0000",
       "category": "pais"
     },
     {
-      "title": "Ciudad del Este: Policía mata a uno y hiere a otro tras pelea en el tránsito",
-      "link": "https://www.abc.com.py/policiales/2026/11/14/ciudad-del-este-policia-mata-a-uno-y-hiere-a-otro-tras-pelea-en-el-transito/",
+      "title": "Domingo caluroso y con cortes programados de la ANDE en estas zonas ",
+      "link": "https://www.abc.com.py/nacionales/2026/11/15/domingo-caluroso-y-con-cortes-programados-de-la-ande-en-estas-zonas/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 14 Nov 2026 13:51:14 +0000",
+      "pubDate": "Sun, 15 Nov 2026 14:24:21 +0000",
       "category": "pais"
     },
     {
-      "title": "Denuncian presunto despojo de 310.000 hectáreas en el Chaco y apuntan al hijo de Santiago Peña",
-      "link": "https://www.abc.com.py/politica/2026/11/14/denuncian-presunto-despojo-de-310000-hectareas-en-el-chaco-y-apuntan-al-hijo-de-santiago-pena/",
+      "title": "¡Paraguay dio el sí más grande!",
+      "link": "https://www.popular.com.py/2026/11/15/paraguay-dio-el-si-mas-grande/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Sun, 15 Nov 2026 14:12:30 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Alfaro tiene casi todo listo para el chute amistoso ante Japón",
+      "link": "https://www.popular.com.py/2026/11/15/alfaro-tiene-casi-todo-listo-para-el-chute-amistoso-ante-japon/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Sun, 15 Nov 2026 14:09:14 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "Video: obispo denuncia asociación ilícita para delinquir y pide justicia",
+      "link": "https://www.abc.com.py/politica/2026/11/15/obispo-denuncia-asociacion-ilicita-para-delinquir-y-pide-justicia/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Sat, 14 Nov 2026 13:46:56 +0000",
+      "pubDate": "Sun, 15 Nov 2026 14:05:29 +0000",
       "category": "pais"
     },
     {
-      "title": "Desarticulan “negocio” familiar del “purete”",
-      "link": "https://www.popular.com.py/2026/11/14/desarticulan-negocio-familiar-del-purete/",
+      "title": "Ho’a doña “lavandera” y un rapai estafador",
+      "link": "https://www.popular.com.py/2026/11/15/hoa-dona-lavandera-y-un-rapai-estafador/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 14 Nov 2026 12:50:39 +0000",
+      "pubDate": "Sun, 15 Nov 2026 13:23:09 +0000",
       "category": "pais"
     },
     {
-      "title": "Caos aéreo frustra a miles de viajeros en EE. UU.",
-      "link": "https://www.popular.com.py/2026/11/13/caos-aereo-frustra-a-miles-de-viajeros-en-ee-uu/",
+      "title": "Discusión música pu’átâre deja un muerto y un herido grave",
+      "link": "https://www.popular.com.py/2026/11/15/discusion-musica-puatare-deja-un-muerto-y-un-herido-grave/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 14 Nov 2026 01:37:24 +0000",
+      "pubDate": "Sun, 15 Nov 2026 13:20:04 +0000",
       "category": "pais"
     },
     {
-      "title": "Cambio fuerte en la binacional: nombran a nuevo Director Financiero",
-      "link": "https://www.popular.com.py/2026/11/13/cambio-fuerte-en-la-binacional-nombran-a-nuevo-director-financiero/",
+      "title": "E’a, sarambí familiar por millonario perjuicio, ndaje",
+      "link": "https://www.popular.com.py/2026/11/15/ea-sarambi-familiar-por-millonario-perjuicio-ndaje/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 14 Nov 2026 01:01:36 +0000",
+      "pubDate": "Sun, 15 Nov 2026 05:00:12 +0000",
       "category": "pais"
     },
     {
-      "title": "Decreto congela y ajusta tributo al gasoil por crisis petrolera",
-      "link": "https://www.popular.com.py/2026/11/13/decreto-congela-y-ajusta-tributo-al-gasoil-por-crisis-petrolera/",
+      "title": "Con escolta de la Armada traen desde Itapúa el yate vinculado al caso Ueno",
+      "link": "https://www.popular.com.py/2026/11/14/con-escolta-de-la-armada-traen-desde-itapua-el-yate-vinculado-al-caso-ueno/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 14 Nov 2026 00:40:52 +0000",
+      "pubDate": "Sun, 15 Nov 2026 02:52:43 +0000",
       "category": "pais"
     },
     {
-      "title": "Llega “Carrousel” del cantautor Hugo Ferreira en el Teatro Municipal",
-      "link": "https://www.popular.com.py/2026/11/13/llega-carrousel-del-cantautor-hugo-ferreira-en-el-teatro-municipal/",
+      "title": "Reco tumbó al Guma y se anota en la final de la Copa Paraguay",
+      "link": "https://www.popular.com.py/2026/11/14/reco-tumbo-al-guma-y-se-anota-en-la-final-de-la-copa-paraguay/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Sat, 14 Nov 2026 00:00:31 +0000",
+      "pubDate": "Sat, 14 Nov 2026 23:26:37 +0000",
       "category": "pais"
     },
     {
-      "title": "Prohibieron despegues de aviones de todos los aeropuertos de EE.UU. por “razones de seguridad”",
-      "link": "https://www.popular.com.py/2026/11/13/prohibieron-despegues-de-aviones-de-todos-los-aeropuertos-de-ee-uu-por-razones-de-seguridad/",
+      "title": "Inventario: vacas, tractores y mucha papelería albirroja pillaron en lo de los Vázquez",
+      "link": "https://www.popular.com.py/2026/11/14/inventario-vacas-tractores-y-mucha-papeleria-albirroja-pillaron-en-lo-de-los-vazquez/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 13 Nov 2026 23:05:24 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Alfaro de Olimpia avisó que va a hacer los trámites para ser parauayo",
-      "link": "https://www.popular.com.py/2026/11/13/alfaro-de-olimpia-aviso-que-va-a-hacer-los-tramites-para-ser-parauayo/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Fri, 13 Nov 2026 22:43:42 +0000",
+      "pubDate": "Sat, 14 Nov 2026 22:50:21 +0000",
       "category": "pais"
     },
     {

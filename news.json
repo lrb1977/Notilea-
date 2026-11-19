@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T17:39:42.606Z",
+  "generatedAt": "2026-11-19T17:47:47.503Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -14,6 +14,14 @@
       "source": "SpaceRef",
       "sourceDomain": null,
       "pubDate": "Wed, 07 Oct 2026 23:44:01 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Concejales declaran persona non grata a intendente de Nanawa tras denuncias de corrupción",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGtFdlpmSlBuem5FNV9iSlR2aFRmVm1WQS0zRkxyRWRlWnhVUklYZUNfT204YWx3VHEteExEQlVQTERUcFZ3N2dKa1k0bEpWb2xnWEg1VjlMak9pcDZrVTloVzFvcTd1OENKTGxXSlVxVl8zQjh4OXhxc19EcTNMRHc0dEZ2cktWUWctS3RsUEhkTWVKYjZyNkswV28xOEx0MEtDR2t2SVFzZlFUY0dheWloNm4wdWPSAcQBQVVfeXFMT2ZrTENBeEZYdDFKUGIzZlNHQy00VlNDWjV5YnRWSHlJWGg0LV9BMkhMbDU0RnRoZm5UZWJIc1NISkg0aEVnQ0hGWjA4b01sZlJWd1dsMVdicXYtd3BtSVlEQ0V2ZUVRN2xyWlpLXzNDYTQzSlU4dVNtYnlBTmNSSXhRZkVlcDJ0a1VwN1JYejhBcmg4c2E0RkdtVGhfVm9pNng3ZG4zY3R2c0YxdEF6U19DNmxIdlY3cVRoRjAtRkRkOFZvZQ?oc=5",
+      "source": "Última Hora",
+      "sourceDomain": null,
+      "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
       "category": "barrio"
     },
     {
@@ -57,14 +65,6 @@
       "category": "barrio"
     },
     {
-      "title": "No hay respuestas a denuncias contra el intendente de Nanawa",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0FaT1VvdWlpbnktbXNaS3ZEYmpaaVNoQlZrRTlqN2hJZW1lempib1JRUGUyNVJyQ2hKVlZKeDEwWjVBNTlEd0ItRTJZcmJNT3c2eG5FdHhBc2k0WDNhUnphSF9mUEZxRE51X1Y1aVhsdnJGUzRoVHBmcDM5M2o1a0ZIM2JBajM0QUhsVC1DYmc?oc=5",
-      "source": "www.ultimahora.com",
-      "sourceDomain": null,
-      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "category": "barrio"
-    },
-    {
       "title": "Proyecto de ley busca potenciar desarrollo territorial en municipios de Presidente Hayes y Central",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fR0htTVN6SzFKdVh0bThCMlRvTEZ3bV9peVk4XzdTOF9xcjBTR2hBMU8tUWwyUG1RazdBSnBONnZyYVNHM3AwMnR6bmlVSjVjSXFxVTZqNkE3RTg?oc=5",
       "source": "Cámara de Diputados",
@@ -81,131 +81,75 @@
       "category": "barrio"
     },
     {
-      "title": "Exintendente Luis Yd irá a juicio oral en la causa por presuntos delitos ambientales",
-      "link": "https://www.abc.com.py/policiales/2026/11/18/exintendente-luis-yd-ira-a-juicio-oral-en-la-causa-por-presuntos-delitos-ambientales/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 18 Nov 2026 17:23:00 +0000",
-      "category": "pais"
+      "title": "No hay respuestas a denuncias contra el intendente de Nanawa",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0FaT1VvdWlpbnktbXNaS3ZEYmpaaVNoQlZrRTlqN2hJZW1lempib1JRUGUyNVJyQ2hKVlZKeDEwWjVBNTlEd0ItRTJZcmJNT3c2eG5FdHhBc2k0WDNhUnphSF9mUEZxRE51X1Y1aVhsdnJGUzRoVHBmcDM5M2o1a0ZIM2JBajM0QUhsVC1DYmc?oc=5",
+      "source": "www.ultimahora.com",
+      "sourceDomain": null,
+      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "category": "barrio"
     },
     {
-      "title": "Denuncian ante la Fiscalía presuntas irregularidades en la gestión de Yd y allanan una de sus propiedades rurales",
-      "link": "https://www.abc.com.py/policiales/2026/11/18/denuncian-ante-la-fiscalia-presuntas-irregularidades-en-la-gestion-de-yd-y-allanan-una-de-sus-propiedades-rurales/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 18 Nov 2026 17:11:34 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "¡Buscan que músicos paraguayos cobren por su música que se escucha en redes!",
-      "link": "https://www.popular.com.py/2026/11/18/buscan-que-musicos-paraguayos-cobren-porque-su-musica-se-escucha-en-redes/",
+      "title": "¡”Sin Bandera” y Don Omar anunciaron sus conciertos en Paraguay!",
+      "link": "https://www.popular.com.py/2026/11/19/sin-bandera-y-don-omar-anunciaron-sus-conciertos-en-paraguay/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 18 Nov 2026 17:09:39 +0000",
+      "pubDate": "Thu, 19 Nov 2026 17:02:06 +0000",
       "category": "pais"
     },
     {
-      "title": "Tras caso Ueno que salpicó a Itti, BNF decide cancelar llamado del core",
-      "link": "https://www.abc.com.py/economia/2026/11/18/tras-caso-ueno-que-salpico-a-itti-bnf-decide-cancelar-llamado-del-core/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 18 Nov 2026 17:02:38 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Reclaman más policías y una patrullera tras asesinato de guardia en la colonia Blas Garay de Coronel Oviedo",
-      "link": "https://www.abc.com.py/policiales/2026/11/18/reclaman-mas-policias-y-una-patrullera-tras-asesinato-de-guardia-en-la-colonia-blas-garay-de-coronel-oviedo/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 18 Nov 2026 16:53:04 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Ueno Bank: BCP dijo a Diputados que hay activos para pagar a ahorristas y devolver fondos públicos",
-      "link": "https://www.abc.com.py/politica/2026/11/18/ueno-bank-bcp-dijo-a-diputados-que-hay-activos-para-pagar-a-ahorristas-y-devolver-fondos-publicos/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 18 Nov 2026 16:43:30 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Caso Ueno: Fiscalía vuelve a intervenir sede de GSR Security y busca armas de fuego",
-      "link": "https://www.abc.com.py/policiales/2026/11/18/caso-ueno-fiscalia-vuelve-a-intervenir-sede-de-gsr-security-y-busca-armas-de-fuego/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 18 Nov 2026 16:42:38 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Dionisio Borda plantea que la estabilidad económica de Paraguay se traduzca en empleo y bienestar",
-      "link": "https://www.abc.com.py/economia/2026/11/18/dionisio-borda-plantea-que-la-estabilidad-economica-de-paraguay-se-traduzca-en-empleo-y-bienestar/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 18 Nov 2026 16:41:44 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Black Friday: origen, mitos y claves para comprar con la cabeza fría",
-      "link": "https://www.abc.com.py/economia/2026/11/18/black-friday-origen-mitos-y-claves-para-comprar-con-la-cabeza-fria/",
-      "source": "abc.com.py",
-      "sourceDomain": "abc.com.py",
-      "pubDate": "Wed, 18 Nov 2026 16:39:50 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "(VIDEO) Angely Benítez: “Mi mamá me dijo que sólo si tengo un novio voy a dejar de ser tevi remoi”",
-      "link": "https://www.popular.com.py/2026/11/18/video-angely-benitez-mi-mama-me-dijo-que-solo-si-tengo-un-novio-voy-a-dejar-de-ser-tevi-remoi/",
+      "title": "(VIDEO) ¡Guácala! Modelo contó que chinos son katingudos y eructaban en su cara",
+      "link": "https://www.popular.com.py/2026/11/19/video-guacala-modelo-conto-que-chinos-son-katingudos-y-eruptaban-en-su-cara/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 18 Nov 2026 16:02:43 +0000",
+      "pubDate": "Thu, 19 Nov 2026 16:02:11 +0000",
       "category": "pais"
     },
     {
-      "title": "UENO tumbó a Justo Zacarías de Itaipú",
-      "link": "https://www.popular.com.py/2026/11/18/ueno-tumbo-a-justo-zacarias-de-itaipu/",
+      "title": "(VIDEO) ¡Exarquero del Ciclón ahora se dedica a enseñar cómo hacer guisos!",
+      "link": "https://www.popular.com.py/2026/11/19/video-exarquero-del-ciclon-ahora-se-dedica-a-ensenar-como-hacer-guisos/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 18 Nov 2026 15:51:12 +0000",
+      "pubDate": "Thu, 19 Nov 2026 15:02:35 +0000",
       "category": "pais"
     },
     {
-      "title": "(VIDEO) Vane Trinidad contó por qué anda sin chuli, ¡y la razón no vas a creer!",
-      "link": "https://www.popular.com.py/2026/11/18/video-vane-trinidad-conto-por-que-anda-sin-chuli-y-la-razon-no-vas-a-creer/",
+      "title": "Clausuran emisora FM de Pedro Juan e incautan equipos",
+      "link": "https://www.popular.com.py/2026/11/19/clausuro-emisora-fm-de-pedro-juan-caballero-e-incautan-equipos/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 18 Nov 2026 15:04:23 +0000",
+      "pubDate": "Thu, 19 Nov 2026 14:09:35 +0000",
       "category": "pais"
     },
     {
-      "title": "(VIDEO “Masivo” le preguntó a Gustavo Cabaña: “¿Vos jalabas?”",
-      "link": "https://www.popular.com.py/2026/11/18/video-masivo-le-pregunto-a-gustavo-cabana-vos-jalabas/",
+      "title": "Parió sin saber que estaba “encinta”",
+      "link": "https://www.popular.com.py/2026/11/19/pario-sin-saber-que-estaba-encinta/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 18 Nov 2026 14:02:01 +0000",
+      "pubDate": "Thu, 19 Nov 2026 14:08:32 +0000",
       "category": "pais"
     },
     {
-      "title": "(GALERÍA) ¡Diego León se paseó por Italia aprovechando la pausa del torneo inglés!",
-      "link": "https://www.popular.com.py/2026/11/18/galeria-diego-leon-se-paseo-por-italia-aprovechando-la-pausa-del-torneo-ingles/",
+      "title": "Peón omano arrollado por un tractor",
+      "link": "https://www.popular.com.py/2026/11/19/peon-omano-arrollado-por-un-tractor/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 18 Nov 2026 13:05:34 +0000",
+      "pubDate": "Thu, 19 Nov 2026 14:06:22 +0000",
       "category": "pais"
     },
     {
-      "title": "Rapai volcó ha omanoite",
-      "link": "https://www.popular.com.py/2026/11/18/rapai-volco-ha-omanoite/",
+      "title": "¡Escándalo: vendían pohä de IPS a familiares de pacientes!",
+      "link": "https://www.popular.com.py/2026/11/19/escandalo-vendian-poha-de-ips-a-familiares-de-pacientes/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 18 Nov 2026 12:57:43 +0000",
+      "pubDate": "Thu, 19 Nov 2026 14:04:51 +0000",
       "category": "pais"
     },
     {
-      "title": "Redada deja casi 100 demorados en Central",
-      "link": "https://www.popular.com.py/2026/11/18/redada-deja-casi-100-demorados-en-central/",
+      "title": "Cayó pareja de motochorros asaltante",
+      "link": "https://www.popular.com.py/2026/11/19/cayo-pareja-de-motochorros-asaltante/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Wed, 18 Nov 2026 12:55:55 +0000",
+      "pubDate": "Thu, 19 Nov 2026 14:04:07 +0000",
       "category": "pais"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T18:42:04.593Z",
+  "generatedAt": "2026-11-27T18:32:10.015Z",
   "localFeedUrl": "https://news.google.com/rss/search?q=(%22Nanawa%22%20%22Presidente%20Hayes%22%20OR%20%22Nueva%20Asunci%C3%B3n%22%20%22Presidente%20Hayes%22)%20after%3A2026-01-01&hl=es-419&gl=PY&ceid=PY:es-419",
   "paisSources": [
     "abc.com.py",
@@ -8,14 +8,6 @@
     "Diario HOY"
   ],
   "items": [
-    {
-      "title": "Clima en Estancia Nanawa, Presidente Hayes por horas",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zLXBVZE13cVFhODNSY000dVljdWFWci05V0RFUUxOcTctQ0NDM21jUnpDeG9fdHdwV1dld3NNMlRsaGtmdkNDTE9rRk42V1QxUGxobXRIUkxaQjc1Xy12LUxmLTNxdUE?oc=5",
-      "source": "SpaceRef",
-      "sourceDomain": null,
-      "pubDate": "Wed, 07 Oct 2026 23:44:01 GMT",
-      "category": "barrio"
-    },
     {
       "title": "Feudo de Bachi: A las puertas de las elecciones, apuran manejo político en Nueva Asunción y Nanawa",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY3pHWXZYRzFHRjhmeWh1MlhkTUdBRTFTcGN4WHdicS1JTV9vSldyaFhTY25PUHBCSXBlanJVdTNWOGVPMERzMVZQS3FPM1hlYlRtYnFhTmtJU1NJRFZjUDV3UEVtOWp5Z1NkVHFVeUwwUVJ0TWRXRURobGNXckloaGhueGdCeFhuUlV4UHVScmdaaDRjLTV3Z0F0aHhQRG15XzZDOGY1T3ZJWlRyODRzV052ZVZQV1NqUnVzU2ozLXBBMC1Mb0drWnU2UXFuZTdJdTJ1ZldBaw?oc=5",
@@ -65,14 +57,6 @@
       "category": "barrio"
     },
     {
-      "title": "Pronóstico meteorológico de Nanawa, Presidente Hayes, Paraguay",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83bTZYQXZpb0NxbUx5ZVd4eXJBSDU1bWtUVndGTm1YblY0VmJwRjQxVFJMVmxJUEszVHQ0VHRURWJWYnhXWmtiTkZ2U2FhaFFQd1k5bXpEZU13ZTZJbzFPTTBVeEhHZ3lzOUxyRHh2S2N0bFBGLVZCcWxFVnRSUQ?oc=5",
-      "source": "MSN",
-      "sourceDomain": null,
-      "pubDate": "Thu, 05 Mar 2026 01:06:33 GMT",
-      "category": "barrio"
-    },
-    {
       "title": "Senado rechaza veto de Peña y se ratifica en expropiación de un inmueble para la Essap en Nanawa",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdzAyTEwtZE92bEFadnN6NVdxblFTRmxEX2FFRnEwb1NRMVJvQ29lV2I5V2hLQkw1bTFFd0VjTGMtMXhtNk5FUUNXZWVpY0RyX2pxVnl2eUFwcVlJTDBuRHVvb1pJeTcyekFiZE00aEdVQW50RXFPaXhlTlhvR3RkTTJnQzdPblZ2YXVCNVVobmR5Tmp1Y3p6UldPdEtLMUgwd2RzOHpPUnNtT0hJaHJxSkZfLUFNb3ItWTFwM0xVWERkdGppcW1mWmdPNDlldWx6Zm5PSGhHUQ?oc=5",
       "source": "ABC Color",
@@ -81,131 +65,147 @@
       "category": "barrio"
     },
     {
-      "title": "Villarrica: agua turbia y cortes persisten tras rotura de tubería de Essap",
-      "link": "https://www.abc.com.py/nacionales/2026/11/26/villarrica-agua-turbia-y-cortes-persisten-tras-rotura-de-tuberia-de-essap/",
+      "title": "Pronóstico meteorológico de Nanawa, Presidente Hayes, Paraguay",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83bTZYQXZpb0NxbUx5ZVd4eXJBSDU1bWtUVndGTm1YblY0VmJwRjQxVFJMVmxJUEszVHQ0VHRURWJWYnhXWmtiTkZ2U2FhaFFQd1k5bXpEZU13ZTZJbzFPTTBVeEhHZ3lzOUxyRHh2S2N0bFBGLVZCcWxFVnRSUQ?oc=5",
+      "source": "MSN",
+      "sourceDomain": null,
+      "pubDate": "Thu, 05 Mar 2026 01:06:33 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "Concejales declaran persona non grata a intendente de Nanawa tras denuncias de corrupción",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGtFdlpmSlBuem5FNV9iSlR2aFRmVm1WQS0zRkxyRWRlWnhVUklYZUNfT204YWx3VHEteExEQlVQTERUcFZ3N2dKa1k0bEpWb2xnWEg1VjlMak9pcDZrVTloVzFvcTd1OENKTGxXSlVxVl8zQjh4OXhxc19EcTNMRHc0dEZ2cktWUWctS3RsUEhkTWVKYjZyNkswV28xOEx0MEtDR2t2SVFzZlFUY0dheWloNm4wdWPSAcQBQVVfeXFMT2ZrTENBeEZYdDFKUGIzZlNHQy00VlNDWjV5YnRWSHlJWGg0LV9BMkhMbDU0RnRoZm5UZWJIc1NISkg0aEVnQ0hGWjA4b01sZlJWd1dsMVdicXYtd3BtSVlEQ0V2ZUVRN2xyWlpLXzNDYTQzSlU4dVNtYnlBTmNSSXhRZkVlcDJ0a1VwN1JYejhBcmg4c2E0RkdtVGhfVm9pNng3ZG4zY3R2c0YxdEF6U19DNmxIdlY3cVRoRjAtRkRkOFZvZQ?oc=5",
+      "source": "Última Hora",
+      "sourceDomain": null,
+      "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
+      "category": "barrio"
+    },
+    {
+      "title": "El río Paraná se acerca a los 5 metros en el puerto de Ayolas",
+      "link": "https://www.abc.com.py/clima/2026/11/27/el-rio-parana-se-acerca-a-los-5-metros-en-el-puerto-de-ayolas/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 26 Nov 2026 18:23:17 +0000",
+      "pubDate": "Fri, 27 Nov 2026 18:28:21 +0000",
       "category": "pais"
     },
     {
-      "title": "Vídeo: hacía wheelie, corrió de los Lince, cayó en una aguada y fue detenido",
-      "link": "https://www.abc.com.py/policiales/2026/11/26/video-hacia-wheelie-corrio-de-los-lince-cayo-en-una-aguada-y-fue-detenido/",
+      "title": "Academia de Policía: evalúan revisar la exclusión de una postulante con vitiligo",
+      "link": "https://www.abc.com.py/policiales/2026/11/27/academia-de-policia-evaluan-revisar-la-exclusion-de-una-postulante-con-vitiligo/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 26 Nov 2026 18:21:40 +0000",
+      "pubDate": "Fri, 27 Nov 2026 18:23:17 +0000",
       "category": "pais"
     },
     {
-      "title": "Viruela del mono: Ministerio de Salud lanza teleconsultas por WhatsApp",
-      "link": "https://www.abc.com.py/nacionales/2026/11/26/viruela-del-mono-ministerio-de-salud-lanza-teleconsultas-por-whatsapp/",
+      "title": "¿Medicina sin morgue ni laboratorios? Especialista fulmina la habilitación por fases del Cones",
+      "link": "https://www.abc.com.py/nacionales/2026/11/27/medicina-sin-morgue-ni-laboratorios-especialista-fulmina-la-habilitacion-por-fases-del-cones/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 26 Nov 2026 18:16:57 +0000",
+      "pubDate": "Fri, 27 Nov 2026 18:22:46 +0000",
       "category": "pais"
     },
     {
-      "title": "PGN 2027: Senado mantiene fondos para el Rally Mundial y acepta un pedido salarial para Senadis",
-      "link": "https://www.abc.com.py/economia/2026/11/26/pgn-2027-senado-mantiene-fondos-para-el-rally-mundial-y-acepta-un-pedido-salarial-para-senadis/",
+      "title": "Desborda el río Aguaraymí y deja bajo agua cientos de olerías ",
+      "link": "https://www.abc.com.py/clima/2026/11/27/desborda-el-rio-aguaraymi-y-deja-bajo-agua-cientos-de-olerias/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 26 Nov 2026 18:16:13 +0000",
+      "pubDate": "Fri, 27 Nov 2026 18:10:11 +0000",
       "category": "pais"
     },
     {
-      "title": "Vacaciones de verano: estos son los pasos a seguir para si viajás con menores al exterior",
-      "link": "https://www.abc.com.py/nacionales/2026/11/26/vacaciones-de-verano-estos-son-los-pasos-a-seguir-para-si-viajas-con-menores-al-exterior/",
+      "title": "(VIDEO) Doña de Maurício sobre su bigote mandi’i, he’ima: “Amo el bigote, tiene prohibido quitárselo”",
+      "link": "https://www.popular.com.py/2026/11/27/video-dona-de-mauricio-sobre-su-bigote-mandii-heima-amo-el-bigote-tiene-prohibido-quitarselo/",
+      "source": "Popular",
+      "sourceDomain": "popular.com.py",
+      "pubDate": "Fri, 27 Nov 2026 18:09:12 +0000",
+      "category": "pais"
+    },
+    {
+      "title": "IPS admite descoordinación en traslado de insumos y confirma que cirugía se realizó",
+      "link": "https://www.abc.com.py/nacionales/2026/11/27/ips-admite-descoordinacion-en-traslado-de-insumos-y-confirma-que-cirugia-se-realizo/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 26 Nov 2026 18:15:26 +0000",
+      "pubDate": "Fri, 27 Nov 2026 18:01:09 +0000",
       "category": "pais"
     },
     {
-      "title": "¡Marcelo Tinelli presentó a su nueva chuli!",
-      "link": "https://www.popular.com.py/2026/11/26/marcelo-tinelli-presento-a-su-nueva-chuli/",
-      "source": "Popular",
-      "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 26 Nov 2026 18:15:24 +0000",
-      "category": "pais"
-    },
-    {
-      "title": "Frente Guasu repudia distinción de “Académico Honorario” a Javier Milei",
-      "link": "https://www.abc.com.py/nacionales/2026/11/26/frente-guasu-repudia-distincion-de-academico-honorario-a-javier-milei/",
+      "title": "Feria Palmear: banda salesiana animará la fiesta este sábado ",
+      "link": "https://www.abc.com.py/nacionales/2026/11/27/feria-palmear-banda-salesiana-animara-la-fiesta-manana/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 26 Nov 2026 18:03:01 +0000",
+      "pubDate": "Fri, 27 Nov 2026 17:42:42 +0000",
       "category": "pais"
     },
     {
-      "title": "Indignación en la Policía por imputación contra lince que detuvo a tortolero que casi mató a corredores",
-      "link": "https://www.abc.com.py/policiales/2026/11/26/indignacion-en-la-policia-por-imputacion-contra-lince-que-detuvo-a-tortolero-que-casi-mato-a-corredores/",
+      "title": "PGN 2027: Duras críticas a la Contraloría y DNIT en debate del Senado",
+      "link": "https://www.abc.com.py/economia/2026/11/27/pgn-2027-duras-criticas-a-la-contraloria-y-dnit-en-debate-del-senado/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 26 Nov 2026 17:46:01 +0000",
+      "pubDate": "Fri, 27 Nov 2026 17:31:43 +0000",
       "category": "pais"
     },
     {
-      "title": "Puerto Casado: la solidaridad ciudadana ante la ausencia  de autoridades",
-      "link": "https://www.abc.com.py/nacionales/chaco/2026/11/26/puerto-casado-la-solidaridad-ciudadana-ante-la-ausencia-de-autoridades/",
+      "title": "Caso Valdovinos: La Justicia solo se mueve por presión o filtraciones, denuncia Esperanza",
+      "link": "https://www.abc.com.py/politica/2026/11/27/caso-valdovinos-la-justicia-solo-se-mueve-por-presion-o-filtraciones-denuncia-esperanza/",
       "source": "abc.com.py",
       "sourceDomain": "abc.com.py",
-      "pubDate": "Thu, 26 Nov 2026 17:43:56 +0000",
+      "pubDate": "Fri, 27 Nov 2026 17:29:41 +0000",
       "category": "pais"
     },
     {
-      "title": "(GALERÍA) ¡Apenami! ExMiss recorrió una de las 7 maravillas del mundo en helicóptero!",
-      "link": "https://www.popular.com.py/2026/11/26/galeria-apenami-exmiss-recorrio-una-de-las-7-maravillas-del-mundo-en-helicoptero/",
+      "title": "(GALERÍA) ¡El rollo quiere saber cómo esta exMiss Universo mantiene un cuerazo!",
+      "link": "https://www.popular.com.py/2026/11/27/galeria-el-rollo-quiere-saber-como-esta-exmiss-universo-mantiene-un-cuerazo/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 26 Nov 2026 17:06:15 +0000",
+      "pubDate": "Fri, 27 Nov 2026 17:07:34 +0000",
       "category": "pais"
     },
     {
-      "title": "Gretha Matiauda luego de no quedar clasificada: “Una corona no define mi potencial”",
-      "link": "https://www.popular.com.py/2026/11/26/gretha-matiauda-luego-de-no-quedar-clasificada-una-corona-no-define-mi-potencial/",
+      "title": "¡El ingueroviable comentario que ligó Luchi García Rubín por su segundo embarazo!",
+      "link": "https://www.popular.com.py/2026/11/27/el-ingueroviable-comentario-que-ligo-luchi-garcia-rubin-por-su-segundo-embarazo/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 26 Nov 2026 16:03:48 +0000",
+      "pubDate": "Fri, 27 Nov 2026 16:08:07 +0000",
       "category": "pais"
     },
     {
-      "title": "(GALERÍA) ¡Ñande exMiss Universo se volvió mamacita!",
-      "link": "https://www.popular.com.py/2026/11/26/galeria-nande-exmiss-universo-se-volvio-mamacita/",
+      "title": "(GALERÍA) ¡Nadia Ferreira compartió fotos inéditas en familia por el día de acción de gracias!",
+      "link": "https://www.popular.com.py/2026/11/27/galeria-nadia-ferreira-compartio-fotos-ineditas-en-familia-por-el-dia-de-accion-de-gracias/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 26 Nov 2026 15:05:48 +0000",
+      "pubDate": "Fri, 27 Nov 2026 15:08:56 +0000",
       "category": "pais"
     },
     {
-      "title": "¡Ñandereja famoso guitarrista de “Duran Duran”!",
-      "link": "https://www.popular.com.py/2026/11/26/nandereja-famoso-guitarrista-de-duran-duran/",
+      "title": "¡Oguejy gas y feriado el 7 de diciembre anunció el presi!",
+      "link": "https://www.popular.com.py/2026/11/27/oguejy-gas-y-feriado-el-7-de-diciembre-anuncio-el-presi/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 26 Nov 2026 14:04:51 +0000",
+      "pubDate": "Fri, 27 Nov 2026 14:56:09 +0000",
       "category": "pais"
     },
     {
-      "title": "(VIDEO) ¡Esteban Matus le trozó a Tim Payne por una peculiar razón!",
-      "link": "https://www.popular.com.py/2026/11/26/video-esteban-matus-le-trozo-a-tim-payne-por-una-peculiar-razon/",
+      "title": "Taiwán presentó calendario a beneficio de los Pikilines junto a Yolanda Park",
+      "link": "https://www.popular.com.py/2026/11/27/taiwan-presentaron-calendario-a-beneficio-de-los-pikilines-junto-a-yolanda-park/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 26 Nov 2026 13:08:08 +0000",
+      "pubDate": "Fri, 27 Nov 2026 14:20:02 +0000",
       "category": "pais"
     },
     {
-      "title": "Polibandis ho’a tras intento de asalto a una mujer",
-      "link": "https://www.popular.com.py/2026/11/26/polibandis-hoa-tras-intento-de-asalto-a-una-mujer/",
+      "title": "¡Mamau! Esta periodista se destapó en las playas de Curazao",
+      "link": "https://www.popular.com.py/2026/11/27/mamau-esta-periodista-se-destapo-en-las-playas-de-curazao/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 26 Nov 2026 12:48:28 +0000",
+      "pubDate": "Fri, 27 Nov 2026 14:08:32 +0000",
       "category": "pais"
     },
     {
-      "title": "Oñemombo desde un cerro ha omanoite",
-      "link": "https://www.popular.com.py/2026/11/26/onemombo-desde-un-cerro-ha-omanoite/",
+      "title": "Oiko requisa mbarete en Tacumbú",
+      "link": "https://www.popular.com.py/2026/11/27/oiko-requisa-mbarete-en-tacumbu/",
       "source": "Popular",
       "sourceDomain": "popular.com.py",
-      "pubDate": "Thu, 26 Nov 2026 12:44:59 +0000",
+      "pubDate": "Fri, 27 Nov 2026 13:27:36 +0000",
       "category": "pais"
     },
     {
